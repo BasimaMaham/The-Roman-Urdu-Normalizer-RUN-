@@ -1,6 +1,6 @@
 # RUN — Roman Urdu Normalizer
-Context-Aware Lexical Normalization for Code-Switched Pakistani Digital Text
-CSCS-366: Introduction to Natural Language Processing 
+- Context-Aware Lexical Normalization for Code-Switched Pakistani Digital Text
+- CSCS-366: Introduction to Natural Language Processing 
 
 
 ## What This Is
