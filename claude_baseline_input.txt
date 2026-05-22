@@ -1,0 +1,622 @@
+ROMAN URDU NORMALIZATION TASK
+============================================================
+
+Instructions for Claude:
+Normalize each Roman Urdu sentence below.
+Rules:
+- Fix Roman Urdu spelling variants to standard forms
+- Examples: bht→bohat, nhi→nahi, me→mein, ap→aap, ye→yeh, wo→woh, or→aur, to→toh, ha→hai, kr→kar, rha→raha
+- Keep ALL English words exactly as they are
+- Do NOT translate to Urdu script
+- Do NOT add or remove words
+- Do NOT change meaning
+- Return ONLY the normalized sentence, nothing else
+
+============================================================
+
+For each sentence, output exactly:
+ID: [number]
+OUTPUT: [normalized sentence]
+
+============================================================
+
+ID: 1
+INPUT: inni bari aur moti taazi the wo cap hatta dene ha us ny
+
+ID: 2
+INPUT: ap chart pay back testing kro concept ko master kr
+
+ID: 3
+INPUT: bags ki thodi behter banayen mere bag phatt gaye kapre dalne main
+
+ID: 4
+INPUT: pmln thek keh rhi aisey keh skti unki property bi nhi karaya ke ghar mai reh rhey
+
+ID: 5
+INPUT: yun to jerry lewis ne apne taweel career ke dauran kar awards hasil kiye lekin yeh baat hairan kun hai ke shohrat maqboliyat ke bawajood wo oscar award hasil karne mein nakaam rahe
+
+ID: 6
+INPUT: me ak find kia tha card jo bht ragra ab wo ni lg rha
+
+ID: 7
+INPUT: mein ise long dekh rha hu kiya kehty ho hai log
+
+ID: 8
+INPUT: kia junubi ka kamun me koi hisa nahi no stander school no university in distt lakki marwat ah
+
+ID: 9
+INPUT: tmhara chutyapa ki waje se yeh apni dushmani aur badla aam logo se nikalte hain tm log to chale jate ho camra leke in choro se esi nijaat ni milegi hi honge ese hi tm logo ko allah tmhe salamt rakhe iqrar hassan ameen
+
+ID: 10
+INPUT: ni smjna chah rha mn
+
+ID: 11
+INPUT: hand or feet is rang white krnay ka koe bata dain
+
+ID: 12
+INPUT: woh raddi ki mein sab se ziyada feesad ke sath hissa hain
+
+ID: 13
+INPUT: to seekh lyn na wo
+
+ID: 14
+INPUT: yar aroob kitni pyaari hai
+
+ID: 15
+INPUT: khair ab hr drama me yehi dikhaya ja raha bus aik ki phir dosri ki pehli se dosri yan bta daina jo bhi khair is me yehi muamla kya bakwaas chal rahi ha
+
+ID: 16
+INPUT: janu wo ke raha he ke next week call krna sab kuch bta do ga
+
+ID: 17
+INPUT: lakin sax sux ke batain nhe honi chahye
+
+ID: 18
+INPUT: mein chala tha motivate krne ye to ulta mera hee hogya
+
+ID: 19
+INPUT: shanakhti card aur passport banwane ka tarika bhi us mein mujod tha
+
+ID: 20
+INPUT: ksi sy poch lena if us ny join krna ho to
+
+ID: 21
+INPUT: abi to ni jaega ghr wale jane dein gy
+
+ID: 22
+INPUT: jub shan masalay miltay hain to biryani se bhi or ziada piyar hojata hai
+
+ID: 23
+INPUT: na bhau na ye bhi ap hi khao ge
+
+ID: 24
+INPUT: tk jahalat khatam nhe hoti pakistan pmln ur nawaz shareef zinda rahen
+
+ID: 25
+INPUT: yar ap idea kha sa lata hai please give me reply love from lahore
+
+ID: 26
+INPUT: pakistani awam apki worth maloom he jidhr haddi dekhti udhr raghib hona jesey pmln traf ap haddi dekhi hui lifafa phenk tmasha dekh bas ye worth ap udhr beth stupid tweet bjaye pak aa apni worth dikhao darti mr pm
+
+ID: 27
+INPUT: mujhe jo cheez chahiye thi mujhe wohi mili hai or mera dil khush hogaya kyunke daraz ki services bhi bohot achi thi jo time mention kara tha us hi time mein deliver hua or alhamdulillah bohot outclass product hai sabse achi baat mujhe yeh lagi ke ye market se sasta parha mujhe or mere ghar par bethe bethe agaya sound quality bohot zabardast hai or earpiece bohot comfortable hai stuffing ki wajah se khair mein ye sabko suggest karna chahunga kyun ke mere paisay wasool hogaye hain
+
+ID: 28
+INPUT: matlb loss nahe kiya hia abi tak
+
+ID: 29
+INPUT: islamabad may molvis is ki bahn utha lay gaey jo mirchain lgi hain is press conference py
+
+ID: 30
+INPUT: nabina bachi se zyasti kr ky katal kr dia gya police fir dy ky so rahi
+
+ID: 31
+INPUT: very nice nice nice umed hai next time bhi aap iss tarah ki achi achi post karain gay lekin iss post main aik khami hia wo ye aap ne file ka size bhi bohat bara rakh hai halanke aap ko bohat purane user hain to aap se aisi galti ki umed nahin thi any way agay aap kial rakhain aap ne deakha ho ga per aik aik inch jaga kali hai aap ko pur ker dety to post main aur bhi dil kashi peda ho jani thi
+
+ID: 32
+INPUT: dear aapi noreen apka bht acha lagta hai or aap khud boht nice hain main ne pehle msg multan ka sikha dain iram
+
+ID: 33
+INPUT: yar rant karo ya but thora thoughts ko compose kar lia karo likhney se pehle bro mujhe kakh samajh nai ayi ke ap kehna kya chah rahe ho ya phir shayad am thick
+
+ID: 34
+INPUT: agaar seen banta ha to thek wrnaa phir rest krte ha
+
+ID: 35
+INPUT: kya matlb mexc ye sb
+
+ID: 36
+INPUT: bill bhut ziada ahgya ha
+
+ID: 37
+INPUT: ni to cell ky sath hi run ka button
+
+ID: 38
+INPUT: in ki tawajja parhai se ziyada shaiyri ki taraf thi
+
+ID: 39
+INPUT: lakin ap keh rhi ti pti waly media pr khwateen sahafio daity pmln di apny petition may maryam nawaz naam daly
+
+ID: 40
+INPUT: tmny kxh kia
+
+ID: 41
+INPUT: har bachi girl buchi saved nhi hoti wo
+
+ID: 42
+INPUT: thank you so much daraz and mahal for providing me so so so much beautiful fragrance love this fragrance everyone asked me which perfume you used and this long lasting attar got it in very reasonable on sale thanks for always recommend daraz online shopping thanks again daraz
+
+ID: 43
+INPUT: isko or bhe zada bannay ka naya tariqa agaya hay
+
+ID: 44
+INPUT: kl sy schools open ha kia
+
+ID: 45
+INPUT: apki family achi hy iska mtlb
+
+ID: 46
+INPUT: ap nam ducky ni duck
+
+ID: 47
+INPUT: am very happy to receive it the quality was good stitching was also good or prize is best for this am very satisfied dilevery is also on time thankyou so much daraz
+
+ID: 48
+INPUT: bta hn in galy pr churi phiry ye tb kahy ge pmln chor ha corrupt ha awam in mary ye tb keh rahe hongy pmln corrupt galat corrupt ha galat ha pmln pakistan barbad dia hmne pakistan khushal dia
+
+ID: 49
+INPUT: election tak tarha election pehly zalil karna mqm tarha pmln hatam
+
+ID: 50
+INPUT: sony experia tu set hay is ka camera bhey best hay or size may bhey wala set hay
+
+ID: 51
+INPUT: daikty kyo ho itna maro keh inki sary yad raky gee
+
+ID: 52
+INPUT: ibrahim or person scene sb ko pta
+
+ID: 53
+INPUT: jahil log andhay ho gye hen ab or kon zalalat bachi hay nawaz khabes hissay may is say pocho to sahi
+
+ID: 54
+INPUT: or jo project mn ny recently bnaya ha
+
+ID: 55
+INPUT: yaar sai hai lekin krlo ni milna toh mujhe at least anay do somewhere where can see you aisa kuch ni honay dogi toh phir baat toh ni bnti na
+
+ID: 56
+INPUT: or markaz nhi jani chahye problm me ye seyasi jmat nhi or pmln frk
+
+ID: 57
+INPUT: pakistani media israil sy kherat lyta hy aur wo news public ko dekhata hy jis sy israil naraz na ho jb sy media azad hua hy pakistan ki mushkilat my izafa hota chala gya kya hukmaranon ko benakab kr media smajhta hy us ny awam ko bewaqof bna lya in khabron sy sirf musalmano ka khaon kholta hy khukmarano ko kuch asar nahi hota media tv pr hukmaranon ki badamalion ko mazaiah andaz my pesh kr chupany ki khosish krta hy aur awam bechari bewaqoof bn jati hy allah hamri madad farmae aur is dajjali media sy azad kry ameen
+
+ID: 58
+INPUT: july ko zia ul haq nay pakistan mein martial law jis ki waja say zulfiqar ali butto ko ka moun dakhna para aur benazir bhutto ko mein gaya
+
+ID: 59
+INPUT: lakin bat to wahi jati hy shadi to us ki mama us ke czn se hi karwae
+
+ID: 60
+INPUT: delhi se bihar jane ki facilities available hai kya guru jee waise aap to dusro ke liye jite hai love you
+
+ID: 61
+INPUT: abhi bahi jan ap ki manzil bahut pri hy
+
+ID: 62
+INPUT: mama kehtien dono sath aya kro wrna wo akeli houn gi yhan
+
+ID: 63
+INPUT: dear saheb pakistan es lia berbad ni sho bazz or gf then ns tahira syed phone pa ganay zani mera wattan es lia kuin az ore ns clan essay ker loota use keren plz allah dya ha
+
+ID: 64
+INPUT: asslam aly kum facebook ka istamaal aik slow poison ki tarha ha jo ka students ko parhai say farigh kerta ja raha ha
+
+ID: 65
+INPUT: mai to barhe ke sath yeh batana chah raha hon ke is se hamare funn saqafat ke shobey ki kam aur mehroomi ka izhaar hota hai
+
+ID: 66
+INPUT: kya is gari ko kilometer fi ghanta se ziyada taiz raftaar se nishana banana mumkin hai
+
+ID: 67
+INPUT: titanic apny time se late chli thi the owner and crew already knew abt the fire they covered it painted it black to hide it sad
+
+ID: 68
+INPUT: hi is me pasta ki recepie kahan he
+
+ID: 69
+INPUT: inshallah dekhy gy zndgi rhi tu lazmi dekhy gy
+
+ID: 70
+INPUT: es shampoo say bal sarah dil naram rhte ha thanks daraz
+
+ID: 71
+INPUT: isay zada acha or kch bhe nahi ho skta hay
+
+ID: 72
+INPUT: ma ny try ki ha ye recipe waqai bht acha bnty hn
+
+ID: 73
+INPUT: yehi harj hai miss jee kay jb nabi sallallah alaihi wasallam ny khud ni milad aur phir in kay baad sahaba ny nahi kiyee milad aur to saaf zahir hai ye hum logon main milad krna aur deen main koi cheez khud sy add krna bidatt hai jis ka ap ny khair sy upr comnt mai kaha kay bidatt ni hai to khair baat to ap kay samnay sb kay samnay hai nxt sb ki mrzi ok ji lakin ye gumrahi ha
+
+ID: 74
+INPUT: ha mene suni hui hy
+
+ID: 75
+INPUT: pmln khatam ha or wapis hera mandi hoga apny kam per
+
+ID: 76
+INPUT: maza ana ha
+
+ID: 77
+INPUT: talemi adary bal seyasat pury pakistan my nahi honi chahiya
+
+ID: 78
+INPUT: mjhay ya zara acha nahi lgta baqwas ha ya offers
+
+ID: 79
+INPUT: seth chotani ko angrezon ne apni aur sarkari aehkamat ke zariye kar diya aur wo is sadmey se is daarfani se kooch kar gaey
+
+ID: 80
+INPUT: achaa tou ye drama hy
+
+ID: 81
+INPUT: to app batein op ko sare red flag shadi se pehle nahi dikh rhe the in se gf to banti nhi to innocent larkio ke life barbad karne chalte hai ye maheene ke shadi ka kia matlab hota hai bhai
+
+ID: 82
+INPUT: kya shaat hoga between the eyes mobile nikal bharwe
+
+ID: 83
+INPUT: iqrar please don't give your life time to any less useless you are needed by the ppl and are being used by god
+
+ID: 84
+INPUT: ye pakistani apne baap ko kuch nhi bolenge sir imran khan to kutta hai uske muh me kuch million paisse daal do to wo apne mulk ko hi bech kr london bhaag jaye
+
+ID: 85
+INPUT: yar abhi person ki bat ki hi thi or fb open krte hi us ki pic gyi
+
+ID: 86
+INPUT: qasam se ap or yousaf lala pe mera jaan bhi qurban
+
+ID: 87
+INPUT: saal kaay honay par bhi agar insaan bad amal hi karta rahay tou phir shaitaan uss insaan ko daita hai dosary lafzoon main akhrat main yeh insaan main janay saay naheen bachay gaa aur shaitaan ki iss main kamyabi hai
+
+ID: 88
+INPUT: munnay chalo school jao chhotay bachay dramay nahin dekhtay kuchi kuchi pala pyra bacha
+
+ID: 89
+INPUT: ye molvi ka dekho aik nmbr begrat or hen
+
+ID: 90
+INPUT: bkwas story ha geo par hi lgta ha aap youtube par promos dekhen
+
+ID: 91
+INPUT: ab wo kia krein sahi nam pr discount rekh diye to
+
+ID: 92
+INPUT: ye sab kuch indian ki sazish hai hum ko apne team par pura yaqen hai ye is tara na kar sakti ye sochne wali bat hai hamare hukmran ye kah rahe hamra sar sharam se gya hai agar bil farz unho ne aisa kiya hai toi in ko chahey tha ham is ki tahqiqat karin gi phir batain ge al hafiz
+
+ID: 93
+INPUT: karachi me mauqay per mukammal aman raha
+
+ID: 94
+INPUT: bro ya jo lgy bht amazing thi inho na phr sa phly wali dkhi ni us lihaz sa flop sunday wala din thk tha friday flop tha hawa ki waja sa saturday normal tha
+
+ID: 95
+INPUT: but km ha ha
+
+ID: 96
+INPUT: guru sir ap hit par hit song dere ho am happy kyu ki maine ap singer ki voice suni
+
+ID: 97
+INPUT: mein nokia plus sell karna chata month warranty hai week use kiya hai full new condition with box mein city see jo sindh mein hai mene ka liya tha final agar interested hein to is number pe contact karo
+
+ID: 98
+INPUT: kitna ada krna hota ha
+
+ID: 99
+INPUT: surangein bicha kar wo wapis lot aaye
+
+ID: 100
+INPUT: mjhe ye product chahiye thi me local market mein gya toh mjhe ni mili lekin daraz par thi mere acne khatam hogyi hai is se nice love daraz
+
+ID: 101
+INPUT: shaiyri se le kar mauseeqi tak in ki qawwali ka har juz samaa ki mukhtalif mehfilon mein ja kar is rohani kefiyat se hui
+
+ID: 102
+INPUT: sadar mumlikat ke uhde ke leye wifaqi dar ul hukumat aur charon subon mein hone wale election mein pakistan muslim league aur itehadi jamaton ke mutafiqa umeedwar justice muhammad rafiq tarar bhari aksariyat se sadar mutakhib ho gaye
+
+ID: 103
+INPUT: ya bhot he allaw cheez hay
+
+ID: 104
+INPUT: jo shakhs allah aur qayamat per eman rakhta ho usay chahiye achi baat karay parosi or mehman ka ikram karay
+
+ID: 105
+INPUT: ap jitni mrzi koshish lie but ap mai kabi kamyab ni hogi its bitter reality accept it
+
+ID: 106
+INPUT: iphone nai chahiyay lekin bus isi tarah minimum cost pay rides de at least days pehlay bata dia karay
+
+ID: 107
+INPUT: agr us ne kaha for what to age bat ga
+
+ID: 108
+INPUT: pmln waly nawaz chorr chorr kyn keh rahy bad ky khilaf action lena chaye
+
+ID: 109
+INPUT: pakistan kay chor or gardar pmln nawaz khandani chor haremi bachay
+
+ID: 110
+INPUT: ke leye hi nhi hy majid hoga
+
+ID: 111
+INPUT: this is the best serial have ever seen asa lagta hay jesay same apni life ki story sun raha ho me
+
+ID: 112
+INPUT: awla kaam kerdia hai agar bach gae hongy to khudi baaz ajain gaye yaad rakhy gae last time bund pay fire wajy thy ab nahe kerna
+
+ID: 113
+INPUT: pta sub ko jitana great insan hay bat karny ki ni hay
+
+ID: 114
+INPUT: ke akhir mein pakistan ke aik aur khelari jansher khan manzare amm par aea aur jhangir khan key taj ka aik aur paida ho gea
+
+ID: 115
+INPUT: end main yeh tou pata nahi chala danya waqi mar gai hai yah us ne zehr khya hai us last dialouge yehi thaye sorry bunty main yeh bunty kisi or ko nahi de sakti thi love so much woh usey apny ki terhan joota mar bhi bhaga sakti thi magar us ne aisa nahi kia us ki feelings bunty sath kuch or theen isliye us ne bunty ko kisi liye bhi na chora think yeh boht accha end tha
+
+ID: 116
+INPUT: bro you are amazing me apki sari video baar dekh chuka ho apka content bht acha hai ap achi info dete hai
+
+ID: 117
+INPUT: ye mobile me gya ha me ne dakha ha bht kubsurat mobile ha iphone ki tarha ha
+
+ID: 118
+INPUT: note ah rhi han pakistan ma mobile han ma use ker rha ho live demo ma edge sy bi kaml ki han note
+
+ID: 119
+INPUT: bilkul baqwas ye kia ending bhu sahi nahi ker sakte fazool na tum meri ho ki achi ending ki aur na hi teri chah mein
+
+ID: 120
+INPUT: bilal ka mere zindagi hai tu and ishq murshid ka shamir naam dha shyad bha end ke kuch episodes mein acting acche ni lagi bilal ne bala accha kara dha per sajal manto or dil wali gali ke kuch scenes yumna ishq laa kuch scenes wahaj mein smd seher ishq di jin ki shaadi
+
+ID: 121
+INPUT: ni wo demand zone se rejection le rha ha
+
+ID: 122
+INPUT: mir sb logon ko chor do hae hae nahee ho gi phir lol allah allah karo mir jee
+
+ID: 123
+INPUT: uni students ki life ko to corona sy khtra hai nhi hum to hain na board walo ko promote kr dia good decision pr uni walo ko uni policies py chor dia jin liye fees or paiso sy barh kch nhi khyl kr lo kch promote kro hmy
+
+ID: 124
+INPUT: sounds and mic are quality stuff it looks original it looks good to me
+
+ID: 125
+INPUT: apko pta intense love mn bite krny ko dill krta
+
+ID: 126
+INPUT: pti pehlay salon ma aut pmln warna pata laga laitay
+
+ID: 127
+INPUT: jo log insolin lgty hin wo min kaysy ayeen whan insolin rkhny ka koi intzam nhi as pr as dfa kuch hum ana hin
+
+ID: 128
+INPUT: edhi center meetha dar aur moosa lane mein bachon ko polio ke drops ke ilawa mukhtalif bemariyon se bachon ke injections lagaey gaey
+
+ID: 129
+INPUT: kabhi inhe ibtedai numbers par khilaya jata hai to kabhi middle order main muntaqil kar diya jata hai
+
+ID: 130
+INPUT: seat per baty log nashy mn bhol jaty hn asal kia or terf qoom apny amal saza milti
+
+ID: 131
+INPUT: wah asghar sahib ap itny arsy bad kaisy zahir ho haey
+
+ID: 132
+INPUT: laikin yai mat jis nai tumhari takdeer likhi hai wo tum sai tumhari maa sai guna zayada payar krta hai
+
+ID: 133
+INPUT: pmln tarah buzdil agr pmln ky bahdar hoty saqib nisar bi sakta
+
+ID: 134
+INPUT: well said sq ka drama kuch khass nhi tha think maat ky bad sq dramas ki selection per zeyada focus nhi ker rehin
+
+ID: 135
+INPUT: ya bat to bat actual mai koi buying selling ni
+
+ID: 136
+INPUT: jasay ap kay amal hogay wasay he ap par hukmran musalat kaye jayeen gay
+
+ID: 137
+INPUT: baking powder soya sauce egg white paper in sb ko kya krna ha ya btyn pori recipe btaya kran ya recipe nh chicken man churian ke kya baat ha ki
+
+ID: 138
+INPUT: mera pass ha or masla nahi hua ha
+
+ID: 139
+INPUT: pimple hain face par phr wo neshan chor jate hain uska kuch
+
+ID: 140
+INPUT: ap bht ache ho
+
+ID: 141
+INPUT: paisa waste kia koi result ni or mri skin ko bi allergy ho gaai
+
+ID: 142
+INPUT: agr sai chal rha to na chero jab kch lag hony lag jay ya kch program na chaly to kr lena
+
+ID: 143
+INPUT: app ky local entertainment portals andhay hain to kia saari duniya andhi hai baaji iss tarah tou hum bhi portals ko maan kr ko sy milna dain
+
+ID: 144
+INPUT: originally posted by insaftiger wesay machar bhai iss mein shobaz ka kia kasoor hai awam khud hi easi hai bulkey agar shobaz action bhi lay tu supporter or voter pohanch jatay mein iss ka ziyada kasorwar khud awam or ko samjhta hon lala agar waha par law order ho police cm ki puppet na ho then will see the difference above all is liya logo ko uneducated rakhte hai sari zindagi use em abuse em thats what the so called ministers do can ask any one
+
+ID: 145
+INPUT: bara ajeeb mamla jui islam card anp liberal phir noon pmln so call punjabion jin sari siasat punjabion galian guzri kon log ye kesa ye kesi siasat in
+
+ID: 146
+INPUT: use krna ata ha
+
+ID: 147
+INPUT: hm sir ko kahen ge yehi karwain hmy haha
+
+ID: 148
+INPUT: singing se talluq rakhne wale gharano ne ataullah ki singing ko mauseeqi ke sath sulook se tabeer kiya
+
+ID: 149
+INPUT: benazir kee barsi per maryam safdar awan ore bilawal khushian manatay huay ore pmln bud niat jorh
+
+ID: 150
+INPUT: han yeh to hay laiken hum sust logon ky liye to muskil na
+
+ID: 151
+INPUT: arif mazrat ap dosry dr shahid masood ban itna issue nhi jitna ap create dety or ak bt din ghr me rhty or rat me program me asy bata jesy bi me bt hui ap pss behty
+
+ID: 152
+INPUT: jo amaal facebook ya dars main bataye jatay hain unki ijazat aam hoti hai ap parh sakty hain
+
+ID: 153
+INPUT: razia sheer khan humare mulk ke bare mein tartan track to hain lekin is ki maintenance nahi
+
+ID: 154
+INPUT: farhan ap or bhi aisa hi dramas ma kam
+
+ID: 155
+INPUT: mera vote sirf pml ka lya ha jo taraqi is mulk na ki ha isy ki wajha sy ha
+
+ID: 156
+INPUT: yar us ne to neki karna chahi but neki us ke gly pr gyi
+
+ID: 157
+INPUT: yr agr ise itna hi he to os ke ghr chala ja rishta le kr
+
+ID: 158
+INPUT: pmln supporter itne begerat ni nawaz sharef pichay lag army pakistan khilaf jaen siyasat have tk support krty lekin bhot mere apne janne wale kehte ns bhot galat kia ye abhi defend krty nzr aty un mn zyada pmln social media team hen
+
+ID: 159
+INPUT: aql ke pedal time dhoka pmln dia maulana mtlb shrm kro
+
+ID: 160
+INPUT: punjab hukumat qabza mafia walay add bana ker ptv mien qabza nikal pmln mpa mna nikal or syasat asal waja ye hoti fund aisay qabzay kamao dekh lien
+
+ID: 161
+INPUT: bhai ap uthao hum ap sath
+
+ID: 162
+INPUT: jee es ka touch problem ha touch thek ni kam karta
+
+ID: 163
+INPUT: bhai software download nahi ho raha mayosi ha koi or link bta dein plz ya is link se download ka tareeqa bta dein
+
+ID: 164
+INPUT: ibtedai tour per inhain kamiyabi na mil saki lakin haliya dino mein woh apni jado jehad aur usool ki badolat pakistani awam khusosan noujawano mein say maqboliyat hassil kar rahey hain
+
+ID: 165
+INPUT: salam salam salam my national hero iqrar bhai is sho ko isi tarha parny chye awam ke samny
+
+ID: 166
+INPUT: ab agay dekho reham khan ki kitab me kya kya inkishafat hote ha
+
+ID: 167
+INPUT: saddaf ahsan ap uss ki thi jo ap ko pata ha
+
+ID: 168
+INPUT: for the price its really good blower with powerful air throw and good build quality only the wire is very short so you need extension wire to use it also the warrant card is and just if by any chance it stops working or some fault comes that warranty will be useless
+
+ID: 169
+INPUT: inshaallah tabdeeli nain ap or ham mil lain gay
+
+ID: 170
+INPUT: mein aap ke achi soch aur khaiyalat ko mubarakbad pesh karta hoon
+
+ID: 171
+INPUT: abhi to wali nahi khatem howi jabse bijli ka bill aya hay
+
+ID: 172
+INPUT: imran khan chor hn baki log kese ho gai mujhe esa kiu lag raha hn ab bane gy or naam change ho kr opposition walo naam ana shero ho jahan gai imran khan apne bacho ko bachaiye ga nhi to govt gye
+
+ID: 173
+INPUT: received the item safely very nicely packaging by the seller am reviewing after used times this thing is amazing it helps to the and black spots very nice fragrance loved it thank you daraz highly recommended
+
+ID: 174
+INPUT: bhot bhot mubarak ho apko
+
+ID: 175
+INPUT: sb try kr len den apna experience share krna ta main bna sakun aftr exam achi baat ha share kerna
+
+ID: 176
+INPUT: zehreely ap hen apko hai ap nikammy hen ik pr ye chota xa kam ka to ap kr hi hen apny guthno pe zor de
+
+ID: 177
+INPUT: mqm rukn assambly landhi mn awami ahtijaj mn shamil maah se pani nahi dia ja raha ahtijaj na krian tu kia krian
+
+ID: 178
+INPUT: pmln rana sanaullah sensational speech in islamabad hard on pm imrankhan
+
+ID: 179
+INPUT: mentioned link kholo hai ye
+
+ID: 180
+INPUT: bohot achhi happy ending thi bara mazay aya overall zabardast drama serial tha bohot dinon baad aik acha mazahiya drama dekhnay ko mila aun zara daadi ki acting bhi excellent thi magar ye drama bohot jaldi khatam hogaya ab iss ka part bhi zaroor ana chahiye jiss main phupo aur zara kay dad ki shaadi ho aur aun zara ka baby ho aur husna kay husband kay baray main bhi kuchh ho aur daadi ki mazeed funny baatein hon
+
+ID: 181
+INPUT: wow very nice product as have bought it the best led light at affordable price and come in best packaging the delivery was quick the seller also was quick to respond and make my go away
+
+ID: 182
+INPUT: hi assalamu alaikum mere kyaal me shoaib akhter per pabandi nahi lagna chaiyye wo pakistani hero hai is bager team hai mana is ne ki hai magar is per itni badhi saza
+
+ID: 183
+INPUT: hy na gusse wali bat
+
+ID: 184
+INPUT: aaj kal kay new writers ko pata nahin kiya beemari lag gayee hai kay heroin shroo se aakhir tak her episode main bus rulaye jao mein hareem ki ugly roti soorat dekh dekh ker tang aa chuki hoon ab
+
+ID: 185
+INPUT: liye sub se acha kon ha
+
+ID: 186
+INPUT: yeh nawaz shareef kis hesiyat se faisle kar raha to mujrim hai tak yeh khud ko begunah na sabit karle court mai
+
+ID: 187
+INPUT: rishta lai kr chlyn phr
+
+ID: 188
+INPUT: meray khayal se akhtar hi sub say behter aur deserving hai boht achha hua kay akhtar hi jeet gaya sub se zyada chances uroosa aur uzair ko milay lekin dono hi kuchh naa iss episode say pehlay jo episode upload hua tha uss main waqar ne sub puranay contestants ko dobara bula liya tha alizay aur arsalan kay saath kya hua kuchh pata nahin chala kyunkay iss episode kay shroo ka part aur beech kay kuchh episodes missing hain ab net per dhoondna pareyga shayad mil jaaen missing episodes
+
+ID: 189
+INPUT: aray wah kia style ha aiza ka love uhh
+
+ID: 190
+INPUT: chaudhry aslam khan ne liyari task force ke sarbarah ki hesiyat se liyari mein jaraim pesha anasir ke khilaf mutadid bhi kiein jis par liyari gang war ke mujodah sarbarah uzair jan baloch ne bhi qatal karne ki dhamkiyan de thein
+
+ID: 191
+INPUT: hahahahahhaha azad kud jit aa or fml waly or pti kud he jiti or ry he baat mqm sub paly dhko choro sub bary chor pher pmln
+
+ID: 192
+INPUT: achi bat uncle ap mazlom awam liy awaz buland hin lakn ye josh ap ma tb nazar nhe aaya jab ye he kam krty rehy hin
+
+ID: 193
+INPUT: kamal kar diya aap ne fatima bara hi aala review hai hum thora sa add ker dete hain aap ne kabhi what app waly baba dekhy hain mene to ni dekhy aur mannu un se wazeefy pooch rahi thi mannu ko ye ni pata salahudin wazeefy ni dy sakta par hamza ali abbasi dy sakta ha hamza andr buht bara scholar mojood ha aur ye sub uski fb posts btati hain but mjy us py koi aitraaz ni qn uski kafi sari posts thk hoti hain aur logical islam molvies ka copyright ni is leye jis ko kuch pata ha wo bol sakta ha aur wese hamza ko fb py log disco molvi kehty hain jeena jitni desperate lrki mene aaj tak ni dekhi agr salahudin na mila to wo to jameel se shaadi kar ly gi senseless bekar fazool aur ghatiya drama ha mein ne phly zara ni dekha tha to wo mein aaj dekh raha hun is waja se mjy maya ali ko is drama mein dekh ni laga hamza pata ni kya kar raha ha us sy to acting hi ni ho rahi koi many ga ye afzal ha sameera dimag mein ye drama aaya kese mjy to lgta ha sameera ko khud ni pata us ne kya likh diya ha anyways thank for ur flawless and review
+
+ID: 194
+INPUT: ka matlab awr maqsad bante waqt pakistan ka matlab awr maqsad khusoosan ke bad ke men kitna match awr kitna differ karta he is sawal ka jawab dhoondna he pakistan pakistani
+
+ID: 195
+INPUT: abhi tu rae thy tjhy chye jhooti
+
+ID: 196
+INPUT: use kehe ese nahi mein lahore ja rahi thi to socha mil jaun ap se
+
+ID: 197
+INPUT: tu husband hai kisi or ka tujhay chahta koi or hai
+
+ID: 198
+INPUT: hakeem sb bht achi prh rhi thy quran wazaif ab ke nmz uthti hn bht neend ati or prh so jati hn uthny ko dil ni krta phly ley or soraj tha soti thy ab sari khrab ho gy bht ho jti kush kam dil ni lgta plz kush bta dain
+
+ID: 199
+INPUT: attaul haq qasmi ne amrica australia norway england sudan denmark holland belgium france spain india japan arab dubai china switzerland turkey indonesia thailand aur bohat se mumalik mein munaqid hone wali adabi majalis mein mehman khososi shirkat ki
+
+ID: 200
+INPUT: bughaz hoay logo haripur aik tehsil ha kal pm wahan gay hoay issi area sa pmln ex cm kp pir sabir shah unn cj ihc issi area sa belong karty yahan ghazi project ha
+

@@ -1,0 +1,14 @@
+{
+  "baseline1": {
+    "sentence_precision": 75.1,
+    "token_precision": 63.2
+  },
+  "baseline2": {
+    "sentence_precision": 72.5,
+    "token_precision": 70.5
+  },
+  "run": {
+    "sentence_precision": 72.3,
+    "token_precision": 54.8
+  }
+}

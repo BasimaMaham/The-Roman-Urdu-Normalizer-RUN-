@@ -1,0 +1,75 @@
+{
+  "manual_baselines": {
+    "No normalization": {
+      "sentence_precision": null,
+      "recall": null,
+      "f1": null,
+      "token_precision": null,
+      "sentences_changed": 0
+    },
+    "Baseline 1: Manual rules": {
+      "sentence_precision": 75.1,
+      "recall": 81.1,
+      "f1": 78.0,
+      "token_precision": 63.2,
+      "sentences_changed": 177
+    },
+    "Baseline 2: Edit distance": {
+      "sentence_precision": 72.5,
+      "recall": 0.0,
+      "f1": 0.0,
+      "token_precision": 70.5,
+      "sentences_changed": 91
+    }
+  },
+  "llm_baselines": {
+    "Claude": {
+      "name": "Claude",
+      "sentences_changed": 176,
+      "ok_changed": 130,
+      "fix_changed": 46,
+      "sentence_precision": 73.9,
+      "token_changes": 700,
+      "correct_token_changes": 443,
+      "token_precision": 63.3,
+      "recall": 70.9,
+      "f1": 72.3
+    },
+    "Gemini": {
+      "name": "Gemini",
+      "sentences_changed": 192,
+      "ok_changed": 141,
+      "fix_changed": 51,
+      "sentence_precision": 73.4,
+      "token_changes": 1509,
+      "correct_token_changes": 867,
+      "token_precision": 57.5,
+      "recall": 84.8,
+      "f1": 78.7
+    },
+    "DeepSeek": {
+      "name": "DeepSeek",
+      "sentences_changed": 190,
+      "ok_changed": 138,
+      "fix_changed": 52,
+      "sentence_precision": 72.6,
+      "token_changes": 1694,
+      "correct_token_changes": 941,
+      "token_precision": 55.5,
+      "recall": 63.0,
+      "f1": 67.5
+    }
+  },
+  "run": {
+    "name": "RUN (our system)",
+    "sentences_changed": 191,
+    "ok_changed": 138,
+    "fix_changed": 53,
+    "sentence_precision": 72.3,
+    "token_changes": 695,
+    "correct_token_changes": 381,
+    "token_precision": 54.8,
+    "recall": 100.0,
+    "f1": 83.9
+  }
+}

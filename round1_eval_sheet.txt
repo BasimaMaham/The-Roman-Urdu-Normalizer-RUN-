@@ -1,0 +1,1409 @@
+ROUND 1 DEVELOPMENT SET — Roman Urdu Normalizer
+======================================================================
+INSTRUCTIONS:
+  OK   = normalized output is correct
+  FIX  = wrong, write correct version on CORRECTED line
+  SKIP = sentence too noisy to judge
+======================================================================
+
+ID: 1
+ORIGINAL:   bnp waly log sanaullah zahri resign dubai bhag asal gussa pmln mian kahny bawajod resign kia
+NORMALIZED: bnp waly log sanaullah zahri resign dubai bhag asal gussa pmln mian kehny bawajood resign kya
+CHANGES:    kahny→kehny, bawajod→bawajood, kia→kya
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 2
+ORIGINAL:   chlyn phir thk hy
+NORMALIZED: chly phir theek hai
+CHANGES:    chlyn→chly, thk→theek, hy→hai
+JUDGMENT:   FIX
+CORRECTED:  chlyn phir theek hai
+
+ID: 3
+ORIGINAL:   dhamki to nai hy
+NORMALIZED: dhamki toh nahi hai
+CHANGES:    to→toh, nai→nahi, hy→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 4
+ORIGINAL:   hmm to krna to hy hi
+NORMALIZED: hmm toh karna toh hai hi
+CHANGES:    to→toh, krna→karna, to→toh, hy→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 5
+ORIGINAL:   mashallah bht bht hi umda zbrdst
+NORMALIZED: mashallah bohat bohat hi umda zbrdst
+CHANGES:    bht→bohat, bht→bohat
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 6
+ORIGINAL:   yar please tu preshan mt hona please
+NORMALIZED: yaar please tu pareshan mt hona please
+CHANGES:    yar→yaar, preshan→pareshan
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 7
+ORIGINAL:   ye bohat bara player he jo isay threat milnay thay match pehlay batting to seekh le aur thori sehat banale
+NORMALIZED: yeh bohat bara player he jo isay threat milnay thay match pehle batting toh seekh le aur thori sehat banao
+CHANGES:    ye→yeh, pehlay→pehle, to→toh, banale→banao
+JUDGMENT:   FIX
+CORRECTED:  yeh bohat bara player he jo isay threat milnay thay match pehle batting toh seekh le aur thori sehat banale
+
+ID: 8
+ORIGINAL:   bhai yeh ap he batao apki waja say mujhy per baat aa gai
+NORMALIZED: bhai yeh aap he batao apki waja se mujhy per baat aa gai
+CHANGES:    ap→aap, say→se
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 9
+ORIGINAL:   lekin hum aap logon ko batana chahte hain karachi me november se hi cold wave ka aaghaz ho jayega
+NORMALIZED: lekin hum aap logon ko batana chahta hain karachi mein november se hi cold wave ka aaghaz ho jayega
+CHANGES:    chahte→chahta, me→mein
+JUDGMENT:   FIX
+CORRECTED:  lekin hum aap logon ko batana chahte hain karachi mein november se hi cold wave ka aaghaz ho jayega
+
+ID: 10
+ORIGINAL:   ya allah hamaray mulk kay tamam siyasat dano ko apnay pass bula lo takay kam az kam hamari jaan tu choot jae yah tou sirf awaam ko bewaqoof banatay hain or apnay ghar bhartay hain or sirf khud or un kay rishtay daar hi aish kartay hain awaam tou bechari bhoki marti hay or yeh bas yahi kahtay rahtay hain kay ham tou awaam kay gham may maray jarahay hain kaash hamari awaam bhi in ko samajh lay or aainda kisi ko bhi vot na day ghatia log han ye
+NORMALIZED: ya allah hamaray mulk kay tamam siyasat dano ko apnay pass bula lo takay kam az kam hamari jaan tu choot jae yah tou sirf awaam ko bewaqoof banatay hain aur apnay ghar bhartay hain aur sirf khud aur un kay rishtay daar hi aish kartay hain awaam tou bechari bhok marti hay aur yeh bas yahi kehtay rehtay hain kay ham tou awaam kay gham may maray arahay hain kaash hamari awaam bhi in ko samajh lay aur ainda kisi ko bhi vote na day ghatiya log han yeh
+CHANGES:    or→aur, or→aur, or→aur, bhoki→bhok, or→aur, kahtay→kehtay, rahtay→rehtay, jarahay→arahay, or→aur, aainda→ainda, vot→vote, ghatia→ghatiya, ye→yeh
+JUDGMENT:   FIX
+CORRECTED:  ya allah hamaray mulk kay tamam siyasat dano ko apnay pass bula lo takay kam az kam hamari jaan tu choot jae yah tou sirf awaam ko bewaqoof banatay hain aur apnay ghar bhartay hain aur sirf khud aur un kay rishtay daar hi aish kartay hain awaam tou bechari bhoki marti hay aur yeh bas yahi kehtay rehtay hain kay ham tou awaam kay gham may maray jarahay hain kaash hamari awaam bhi in ko samajh lay aur ainda kisi ko bhi vote na day ghatiya log han yeh
+
+ID: 11
+ORIGINAL:   doob maro tum jene be haaq jasa baap wese begerat beti on
+NORMALIZED: doob maro tum jeene be haaq jasa baap waise begherat beti on
+CHANGES:    jene→jeene, wese→waise, begerat→begherat
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 12
+ORIGINAL:   mujhy lena hy uk may liya hy
+NORMALIZED: mujhy lena hai uk may liya hai
+CHANGES:    hy→hai, hy→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 13
+ORIGINAL:   jo wo maarain agay se uska kya
+NORMALIZED: jo woh marain agay se uska kya
+CHANGES:    wo→woh, maarain→marain
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 14
+ORIGINAL:   abi to wo busy hain
+NORMALIZED: abhi toh woh busy hain
+CHANGES:    abi→abhi, to→toh, wo→woh
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 15
+ORIGINAL:   kia din aagai hain compliment bhi mcqs ki tarhan dena parta hai ab tu
+NORMALIZED: kya din aagai hain compliment bhi mcqs ki tarha dena parta hai ab tu
+CHANGES:    kia→kya, tarhan→tarha
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 16
+ORIGINAL:   two minute silence for people because they still think its song please someone tell them yeh to abi trailer hai mery dost yo yo ia back
+NORMALIZED: two minute silence for people because they still think its song please someone tell them yeh to abhi trailer hai mery dost yo yo ia back
+CHANGES:    abi→abhi
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 17
+ORIGINAL:   or jin ki hoti wo sale dete
+NORMALIZED: aur jin ki hoti woh sale dete
+CHANGES:    or→aur, wo→woh
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 18
+ORIGINAL:   wah wah haseena sahiba ki kiya baat hai itna achha hain bohot nice aur interesting drama hai with touch of ramzan bara maza aya dekh ker wesay iss eid per zyada ter dramay baray hi zabardast banaaye gaye hain
+NORMALIZED: wah wah haseena sahiba ki kiya baat hai itna acha hain bohot nice aur interesting drama hai with touch of ramzan bara maza aya dekh ker wesay iss eid per zyada ter dramay baray hi zabardast banao gaye hain
+CHANGES:    achha→acha, banaaye→banao
+JUDGMENT:   FIX
+CORRECTED:  wah wah haseena sahiba ki kiya baat hai itna acha hain bohot nice aur interesting drama hai with touch of ramzan bara maza aya dekh ker wesay iss eid per zyada ter dramay baray hi zabardast banaye gaye hain
+
+ID: 19
+ORIGINAL:   kl ana ap ny
+NORMALIZED: kal aana aap ny
+CHANGES:    kl→kal, ana→aana, ap→aap
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 20
+ORIGINAL:   in sb ko zinda jala dena chahiye or iqrar sir zindabad
+NORMALIZED: in sab ko zinda jala dena chahiye aur iqrar sir zindabad
+CHANGES:    sb→sab, or→aur
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 21
+ORIGINAL:   mir mirchain agr ye interview khud pmln paisy milty marzi swal pr lefafa bht afsos hva
+NORMALIZED: mir mirchain agr yeh interview khud pmln paisy milty marzi swal pr lefafa bohat afsos hva
+CHANGES:    ye→yeh, bht→bohat
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 22
+ORIGINAL:   yaar bari himmat ha iqrar ki yaar legend ha yeh
+NORMALIZED: yaar bari himmat hai iqrar ki yaar legend hai yeh
+CHANGES:    ha→hai, ha→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 23
+ORIGINAL:   bohat aala set he me me ak hafta pehly lia ta speed bohat achi he or touch bars kamal he betty timing bohat achi he
+NORMALIZED: bohat aala set he mein mein ak hafta pehle lia ta speed bohat achi he aur touch bars kamal he betty timing bohat achi he
+CHANGES:    me→mein, me→mein, pehly→pehle, or→aur
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 24
+ORIGINAL:   ayesha remember jb maine tme msg kia tha yh kia hai
+NORMALIZED: ayesha remember jb maine tme msg kya tha yeh kya hai
+CHANGES:    kia→kya, yh→yeh, kia→kya
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 25
+ORIGINAL:   jhoto ur chooro key jatey umra mey molana azab ur rehman key sath for how arrange fasad in pakistan but jan loo quam es dafa tum loogo koo sey baher nikal kir sansar kerey gey nawaz baba haramio allah tumhey kerey inshallah
+NORMALIZED: jhoto ur choor key jatey umra mey molana azab ur rehman key saath for how arrange fasad in pakistan but jan loo quam es dafa tum loog koo se baher nikal kir sansar karey gey nawaz baba harami allah tumhe karey inshallah
+CHANGES:    chooro→choor, sath→saath, loogo→loog, sey→se, kerey→karey, haramio→harami, tumhey→tumhe, kerey→karey
+JUDGMENT:   FIX
+CORRECTED:  jhoto ur choron key jatey umra mey molana azab ur rehman key saath for how arrange fasad in pakistan but jan loo quam es dafa tum logon koo se baher nikal kir sansar karey gey nawaz baba haramio allah tumhe karey inshallah
+
+ID: 26
+ORIGINAL:   nope nix syeda sheikh tou bhot bhoky hoty hai
+NORMALIZED: nope nix syeda sheikh tou bohat bhok hote hai
+CHANGES:    bhot→bohat, bhoky→bhok, hoty→hote
+JUDGMENT:   FIX
+CORRECTED:  nope nix syeda sheikh tou bohat bhoky hoty hai
+
+ID: 27
+ORIGINAL:   sahiwal waqia main kon sa imran khan nay insaff ka jhanda buland kar dia imran khan kisi bhi jhagry main nahe any wala jis
+NORMALIZED: sahiwal waqia main kon sa imran khan nay insaf ka jhanda buland kar dia imran khan kisi bhi jhagray main nahe any wala jis
+CHANGES:    insaff→insaf, jhagry→jhagray
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 28
+ORIGINAL:   out class desent bht din bad aaye hy ap
+NORMALIZED: out class desent bohat din bad aaye hai aap
+CHANGES:    bht→bohat, hy→hai, ap→aap
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 29
+ORIGINAL:   person ko bta dia to wo
+NORMALIZED: person ko bata dia toh woh
+CHANGES:    bta→bata, to→toh, wo→woh
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 30
+ORIGINAL:   person was saying wo bat krti ap ko group ma ky liy
+NORMALIZED: person was saying woh baat krti aap ko group ma ky liy
+CHANGES:    wo→woh, bat→baat, ap→aap
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 31
+ORIGINAL:   woi me keh hn khwaja asif ye baat khud maani usko apk ik pmln claim ik diya election foj manipulate kiye phir gussa baat zra pm enquiry krwa kh asif seat
+NORMALIZED: woi mein keh hn khawaja asif yeh baat khud maani usko apky ik pmln claim ik diya election foj manipulate kiye phir gussa baat zra pm enquiry krwa kh asif seat
+CHANGES:    me→mein, khwaja→khawaja, ye→yeh, apk→apky
+JUDGMENT:   FIX
+CORRECTED:  woi mein keh hn khwaja asif yeh baat khud maani usko apk ik pmln claim ik diya election foj manipulate kiye phir gussa baat zra pm enquiry krwa kh asif seats
+
+ID: 32
+ORIGINAL:   wah kia baat ha bhai
+NORMALIZED: wah kya baat hai bhai
+CHANGES:    kia→kya, ha→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 33
+ORIGINAL:   gunah krne wale say nahin shayd tumhari mohabbat mein aa kr wo gunah karna hi chor de
+NORMALIZED: gunah karne wale se nahi shayd tumhari mohabbat mein aa kar woh gunah karna hi chor de
+CHANGES:    krne→karne, say→se, nahin→nahi, kr→kar, wo→woh
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 34
+ORIGINAL:   wsy tm pora din bi to busy hoti
+NORMALIZED: wsy tum pora din bhi toh busy hoti
+CHANGES:    tm→tum, bi→bhi, to→toh
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 35
+ORIGINAL:   jhot men to phir sab khusry hoty
+NORMALIZED: jhot men toh phir sab khusry hote
+CHANGES:    to→toh, hoty→hote
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 36
+ORIGINAL:   tiger is back but neha kakkar ko nahi lena chahiye tha gane me boring kar dia gane lekin bhai ne come back kiya iske liye bht khush hu thoko like
+NORMALIZED: tiger is back but neha takkar ko nahi lena chahiye tha gane mein boring kar dia gane lekin bhai ne come back kiya iske liye bohat khush hu thoko liked
+CHANGES:    kakkar→takkar, me→mein, bht→bohat, like→liked
+JUDGMENT:   FIX
+CORRECTED:  tiger is back but neha kakkar ko nahi lena chahiye tha gane mein boring kar dia gane lekin bhai ne come back kiya iske liye bohat khush hu thoko like
+
+ID: 37
+ORIGINAL:   last me message boht acha dya bro keep it up
+NORMALIZED: last mein message bohat acha dya bro keep it up
+CHANGES:    me→mein, boht→bohat
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 38
+ORIGINAL:   bhai pakistan polio toh nikal nhi paye vo topic pa baat ku nhi krte hamesha india india kabhi pmln pmln krte rahte or agar aapko yahi ha toh apni profile media term hta lo
+NORMALIZED: bhai pakistan polio toh nikal nahi paye woh topic pa baat ku nahi krte hamesha india india kabhi pmln pmln krte rehte aur agar aapko yahi hai toh apni profile media term hota lo
+CHANGES:    nhi→nahi, vo→woh, nhi→nahi, rahte→rehte, or→aur, ha→hai, hta→hota
+JUDGMENT:   FIX
+CORRECTED:  bhai pakistan polio toh nikal nahi paye woh topic pa baat ku nahi krte hamesha india india kabhi pmln pmln krte rehte aur agar aapko yahi hai toh apni profile media term hta lo
+
+ID: 39
+ORIGINAL:   apc man maryam shahbaz sab aae apna apc dakhti kon ata ha koe nh ata qk tot ha pmln
+NORMALIZED: apc man maryam shahbaz sab aae apna apc dakhti kon ata hai koi nh ata qk tot hai pmln
+CHANGES:    ha→hai, koe→koi, ha→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 40
+ORIGINAL:   to bohot zyada hai logon khany liye or alternate days pe floor cleaning kuch adjust karlen
+NORMALIZED: toh bohot zyada hai logon khany liye aur alternate days pe floor cleaning kuch adjust karlo
+CHANGES:    to→toh, or→aur, karlen→karlo
+JUDGMENT:   FIX
+CORRECTED:  toh bohot zyada hai logon khany liye aur alternate days pe floor cleaning kuch adjust karlen
+
+ID: 41
+ORIGINAL:   bht acha hy dekhny my bht khoobsorat lgta hy price bi bht munasib hy sath bi hy lekin awaaz aam baqi generator ki trah hy normal
+NORMALIZED: bohat acha hai dekhny my bohat khobsorat lagta hai price bhi bohat munasib hai saath bhi hai lekin awaaz aam baqi generator ki trah hai normal
+CHANGES:    bht→bohat, hy→hai, bht→bohat, khoobsorat→khobsorat, lgta→lagta, hy→hai, bi→bhi, bht→bohat, hy→hai, sath→saath, bi→bhi, hy→hai, hy→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 42
+ORIGINAL:   whi to soch rha
+NORMALIZED: whi toh soch raha
+CHANGES:    to→toh, rha→raha
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 43
+ORIGINAL:   amitabh bachan aur jaya prada par gae is gane ke bol kuch yun the ke inteha ho gai intezar ki aai na kuch khabar mere yaar ki film sharabi mein acting ke sath jaya prada ki raqs ki salahiyatein urooj par nazar aati hain
+NORMALIZED: amitabh bachay aur jaya prada par gae is gane ke bol kuch yun the ke inteha ho gai intezar ki aai na kuch khabar mere yaar ki film sharab mein acting ke saath jaya prada ki raqs ki salahiyaton urooj par nazar aati hain
+CHANGES:    bachan→bachay, sharabi→sharab, sath→saath, salahiyatein→salahiyaton
+JUDGMENT:   FIX
+CORRECTED:  amitabh bachan aur jaya prada par gae is gane ke bol kuch yun the ke inteha ho gai intezar ki aai na kuch khabar mere yaar ki film sharabi mein acting ke saath jaya prada ki raqs ki salahiyatein urooj par nazar aati hain
+
+ID: 44
+ORIGINAL:   sub sa pal pakistan or naya pakistan pti
+NORMALIZED: sab sa pal pakistan aur naya pakistan pti
+CHANGES:    sub→sab, or→aur
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 45
+ORIGINAL:   babar imran khan aur mirza jaisay logon nay britannia jakar bhi unkay khalaf qanuni karwai kar nay ka alan kia lakin iss sab kay bawajud woh apni jagah par qaim aur mustehkam hain
+NORMALIZED: babar imran khan aur mirza jaisay logon nay britannia jakar bhi unkay khalaf qanun karwai kar nay ka alan kya lakin iss sab kay bawajood woh apni jagah par qaim aur mustehkam hain
+CHANGES:    qanuni→qanun, kia→kya, bawajud→bawajood
+JUDGMENT:   FIX
+CORRECTED:  babar imran khan aur mirza jaisay logon nay britannia jakar bhi unkay khalaf qanuni karwai kar nay ka alan kya lakin iss sab kay bawajood woh apni jagah par qaim aur mustehkam hain
+
+ID: 46
+ORIGINAL:   mn thori dair mn son bs
+NORMALIZED: mein thori dair mein son bs
+CHANGES:    mn→mein, mn→mein
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 47
+ORIGINAL:   kia ubqari ka whatsap group ha
+NORMALIZED: kya ubqari ka whatsapp group hai
+CHANGES:    kia→kya, whatsap→whatsapp, ha→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 48
+ORIGINAL:   bahi waisay apas ki baat hai uss nisf imaan ki halat kuch nahin we need to improve ourselves
+NORMALIZED: bahi kaisay apas ki baat hai uss nisf imaan ki halat kuch nahi we need toh improve ourselves
+CHANGES:    waisay→kaisay, nahin→nahi, to→toh
+JUDGMENT:   FIX
+CORRECTED:  bahi waisay apas ki baat hai uss nisf imaan ki halat kuch nahi we need to improve ourselves
+
+ID: 49
+ORIGINAL:   is bat ko kia kehna yar choro hum hi thek nai hen to is ko kia kehna
+NORMALIZED: is baat ko kya kehna yaar choro hum hi theek nahi hen toh is ko kya kehna
+CHANGES:    bat→baat, kia→kya, yar→yaar, thek→theek, nai→nahi, to→toh, kia→kya
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 50
+ORIGINAL:   or kasa pmln mpas khulam khulam buzdar sa ha or nawaz tankeed mu sa buzdar
+NORMALIZED: aur kasa pmln mpas khulam khulam buzdar sa hai aur nawaz tanqeed mu sa buzdar
+CHANGES:    or→aur, ha→hai, or→aur, tankeed→tanqeed
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 51
+ORIGINAL:   first love ur videos live stream kb kro gy itni achi videos kaisy banaty ho love
+NORMALIZED: first love ur videos live stream kb karo gy itni achi videos kaisy banata ho love
+CHANGES:    kro→karo, banaty→banata
+JUDGMENT:   FIX
+CORRECTED:  first love ur videos live stream kb karo gy itni achi videos kaisy banaty ho love
+
+ID: 52
+ORIGINAL:   ya to nzr raha hy sahi kaha
+NORMALIZED: ya toh nzr raha hai sahi kaha
+CHANGES:    to→toh, hy→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 53
+ORIGINAL:   nai kuch kuch achi lgti hyn
+NORMALIZED: nahi kuch kuch achi lagti hyn
+CHANGES:    nai→nahi, lgti→lagti
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 54
+ORIGINAL:   shame on whole indian cricket team especially for god of cricket wo sirf challenge challenge khel rhe aur kuchh nhi he is not god he is fake people god ka name kharab kar rhe
+NORMALIZED: shame on whole indian cricket team especially for god of cricket woh sirf challenge challenge khel rahe aur kuchh nahi he is not god he is fake people god ka name kharab kar rahe
+CHANGES:    wo→woh, rhe→rahe, nhi→nahi, rhe→rahe
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 55
+ORIGINAL:   pehla episode achha laga adeel husain ka drama hai ab dekhna to parega ye nayee larki se kaafi mil rahi hai
+NORMALIZED: pehla episode acha laga adeel hussain ka drama hai ab dekhna toh parega yeh ayee larki se kaafi mil rahi hai
+CHANGES:    achha→acha, husain→hussain, to→toh, ye→yeh, nayee→ayee
+JUDGMENT:   FIX
+CORRECTED:  pehla episode acha laga adeel hussain ka drama hai ab dekhna toh parega yeh nayee larki se kaafi mil rahi hai
+
+ID: 56
+ORIGINAL:   black and white mai manga tha or blue mai bhej dia or bye get ki offer thi sirf ak send kia jo manga tha wo nhi deliver hoaa
+NORMALIZED: black and white main manga tha aur blue main bhej dia aur bye get ki offer thi sirf ak send kya jo manga tha woh nahi deliver hoaa
+CHANGES:    mai→main, or→aur, mai→main, or→aur, kia→kya, wo→woh, nhi→nahi
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 57
+ORIGINAL:   allah hamain tasbih khany me ana nasib ho ameen
+NORMALIZED: allah hamain tasbi khany mein aana nasib ho ameen
+CHANGES:    tasbih→tasbi, me→mein, ana→aana
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 58
+ORIGINAL:   tahum qabil tareef baat yeh hai ke tamam tar zaati masaiyl ke bawajood johnny depp ne apne career par in ka koi negative asar parhne na diya aur mushkilaat ki chakki mein musalsal ke bawajood wo filmy duniya mein kamiyabi ka rahe yahan tak ke baam urooj par ja pohanche
+NORMALIZED: tahum qabil tareef baat yeh hai ke tamam tar zaati masaiyl ke bawajood johnny depp ne apne career par in ka koi negative asar parhna na diya aur mushkil ki chaki mein musalsal ke bawajood woh filmy duniya mein kamiyab ka rahe yahan tak ke baam urooj par ja pohanch
+CHANGES:    parhne→parhna, mushkilaat→mushkil, chakki→chaki, wo→woh, kamiyabi→kamiyab, pohanche→pohanch
+JUDGMENT:   FIX
+CORRECTED:  tahum qabil tareef baat yeh hai ke tamam tar zaati masaiyl ke bawajood johnny depp ne apne career par in ka koi negative asar parhne na diya aur mushkilaat ki chaki mein musalsal ke bawajood woh filmy duniya mein kamiyabi ka rahe yahan tak ke baam urooj par ja pohanche
+
+ID: 59
+ORIGINAL:   boht baray hua hai janab omer darr kiya zaberdast qol hai onka
+NORMALIZED: bohat baray hua hai janab omer darr kiya zabardast qol hai onka
+CHANGES:    boht→bohat, zaberdast→zabardast
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 60
+ORIGINAL:   tension mn ni ni dalna usy aaj
+NORMALIZED: tension mein nahi nahi dalna usy aaj
+CHANGES:    mn→mein, ni→nahi, ni→nahi
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 61
+ORIGINAL:   great kesay bro ecp bhe unky sath full dhandli hni or pmln ecp win krwa dena jisse unko moka jaye election fix kehny or zimni bhe
+NORMALIZED: great kesay bro ecp bhe unky saath full dhandli hni aur pmln ecp win krwa dena jisse unko moka jaye election fix kehny aur zimni bhe
+CHANGES:    sath→saath, or→aur, or→aur
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 62
+ORIGINAL:   hath lga daikty beta jany dua kr rkhi nh naseeb thy waisy bi murs rkhty
+NORMALIZED: hath lga daikhty beta jany dua kar rkhi nh naseeb thy waise bhi murs khty
+CHANGES:    daikty→daikhty, kr→kar, waisy→waise, bi→bhi, rkhty→khty
+JUDGMENT:   FIX
+CORRECTED:  hath lga daikhty beta jany dua kar rkhi nh naseeb thy waise bhi murs rkhty
+
+ID: 63
+ORIGINAL:   asaal mai market king ap hu bus chaye market ko kse side move krwany mai
+NORMALIZED: asaal main market king aap hu bus chahiye market ko kse side move krany main
+CHANGES:    mai→main, ap→aap, chaye→chahiye, krwany→krany, mai→main
+JUDGMENT:   FIX
+CORRECTED:  asaal main market king aap hu bus chahiye market ko kse side move krwany main
+
+ID: 64
+ORIGINAL:   mazeed littar prade honi chahiyai in sab ki
+NORMALIZED: mazeed littar pradesh honi chahiye in sab ki
+CHANGES:    prade→pradesh, chahiyai→chahiye
+JUDGMENT:   FIX
+CORRECTED:  mazeed littar prade honi chahiye in sab ki
+
+ID: 65
+ORIGINAL:   tm guess kro
+NORMALIZED: tum guess karo
+CHANGES:    tm→tum, kro→karo
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 66
+ORIGINAL:   pakistani leader han aik no ka ya to ramind na kisi poor ka murder kia ha agr ya ramind kisi leader ke mangta to wo da date kyn ka ya begharat han ur in logon ke koe izat nae ha ae begharat nation utho jago ur wah chief to tu din mar jata karachi main to tha chief justic teri zindgi par ur teri ulad par ur teray insaff par
+NORMALIZED: pakistani leader han aik no ka ya toh ramind na kisi poor ka murder kya hai agr ya ramind kisi leader ke mangta toh woh da date kyun ka ya begherat han ur in logon ke koi izzat nae hai ae begherat nation utho jago ur wah chief toh tu din mar jata karachi main toh tha chief justic teri zindgi par ur teri aulad par ur teray insaf par
+CHANGES:    to→toh, kia→kya, ha→hai, to→toh, wo→woh, kyn→kyun, begharat→begherat, koe→koi, izat→izzat, ha→hai, begharat→begherat, to→toh, to→toh, ulad→aulad, insaff→insaf
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 67
+ORIGINAL:   maulana kausar niazi bhi barre sagheer mein barhe aadmiyon ki riwayat ke ain mutabiq aesi he hama jehat shakhsiyat the
+NORMALIZED: maulana kausar niazi bhi barre sagheer mein barhe betiyon ki riwayat ke ain mutabiq aesi he hama jehad shakhsiyat the
+CHANGES:    aadmiyon→betiyon, jehat→jehad
+JUDGMENT:   FIX
+CORRECTED:  maulana kausar niazi bhi barre sagheer mein barhe aadmiyon ki riwayat ke ain mutabiq aesi he hama jehat shakhsiyat the
+
+ID: 68
+ORIGINAL:   bohat lush hain teenoun shirts lekin meri sbse ziada favorite white wali hai iska style kafi acha lagta hai aur kapra bohat hee munasib hai is mosam lehaz se full sleeves bilkul tang nahi kartii aur fold kr rkhta hoon kabhi kabhi tw boht achi lagti hai size aur fitting mjhe aik dm outclass ai thii paison lehaz se behtreen hai
+NORMALIZED: bohat lush hain teeno shirts lekin meri sbse zyada favorite white wali hai iska style kafi acha lagta hai aur kapra bohat hee munasib hai is mosam lehaz se full sleeves bilkul tang nahi karti aur fold kar rkhta hoon kabhi kabhi tw bohat achi lagti hai size aur fitting mjhe aik dm outclass ai hii paiso lehaz se behtreen hai
+CHANGES:    teenoun→teeno, ziada→zyada, kartii→karti, kr→kar, boht→bohat, thii→hii, paison→paiso
+JUDGMENT:   FIX
+CORRECTED:  bohat lush hain teeno shirts lekin meri sbse zyada favorite white wali hai iska style kafi acha lagta hai aur kapra bohat hee munasib hai is mosam lehaz se full sleeves bilkul tang nahi karti aur fold kar rkhta hoon kabhi kabhi tw bohat achi lagti hai size aur fitting mjhe aik dm outclass ai thi paison lehaz se behtreen hai
+
+ID: 69
+ORIGINAL:   me ki chutyan nahi ho rhi then or yeh bar bar thay kay hum ki chutyan to isliye jan jal rhi thi kay jaldi khtm ho taky bhai sab band karain
+NORMALIZED: mein ki chuti nahi ho rahi then aur yeh bar bar thay kay hum ki chuti toh isliye jan jal rahi thi kay jaldi khtm ho taky bhai sab band karain
+CHANGES:    me→mein, chutyan→chuti, rhi→rahi, or→aur, chutyan→chuti, to→toh, rhi→rahi
+JUDGMENT:   FIX
+CORRECTED:  mein ki chutyan nahi ho rahi then aur yeh bar bar thay kay hum ki chutyan toh isliye jan jal rahi thi kay jaldi khtm ho taky bhai sab band karain
+
+ID: 70
+ORIGINAL:   quality is better but they send me one piece of however ordered boh pieces
+NORMALIZED: quality is better but they send mein one piece of however ordered bohat pieces
+CHANGES:    me→mein, boh→bohat
+JUDGMENT:   FIX
+CORRECTED:  quality is better but they send me one piece of however ordered bohat pieces
+
+ID: 71
+ORIGINAL:   infinix bhut mehnat kr rha ha
+NORMALIZED: infinix bhut mehnat kar raha hai
+CHANGES:    kr→kar, rha→raha, ha→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 72
+ORIGINAL:   basically mery daily levels hoty ha jaha se market bonus back krti ha or levels pr me buying dekhta hn market agr level break krti ha to target level hota ha mera according my backtesting is lia me wait kr rha tha us level ka khair jo aya shukar ha bht ha kch aya hi ha gya to ni na
+NORMALIZED: basically mery daily levels hote hai jaha se market bonus back krti hai aur levels pr mein buying dekhta hn market agr level break krti hai toh target level hota hai mera according my backtesting is lia mein wait kar raha tha us level ka khair jo aya shukar hai bohat hai kuch aya hi hai gya toh nahi na
+CHANGES:    hoty→hote, ha→hai, ha→hai, or→aur, me→mein, ha→hai, to→toh, ha→hai, me→mein, kr→kar, rha→raha, ha→hai, bht→bohat, ha→hai, kch→kuch, ha→hai, to→toh, ni→nahi
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 73
+ORIGINAL:   ertugrul islye pakistan mein introduce kia gya taake hamari nojawan nasal islam ki azeem tareekh se sabaq hasil kar sake or in mein jazba jihad or paida ho magar afsos hamare nojawano ne sab kuch ignore kar faqat ishq muhabbat wale scenes par hi sara focus kia hai
+NORMALIZED: ertugrul islye pakistan mein introduce kya gya taak hamari nojawan nasal islam ki azeem tareekh se sabaq hasil kar sake aur in mein jazba jihad aur paida ho magar afsos hamare nojawan ne sab kuch ignore kar rafaqat ishq mohabbat wale scenes par hi sara focus kya hai
+CHANGES:    kia→kya, taake→taak, or→aur, or→aur, nojawano→nojawan, faqat→rafaqat, muhabbat→mohabbat, kia→kya
+JUDGMENT:   FIX
+CORRECTED:  ertugrul islye pakistan mein introduce kya gya taake hamari nojawan nasal islam ki azeem tareekh se sabaq hasil kar sake aur in mein jazba jihad aur paida ho magar afsos hamare nojawano ne sab kuch ignore kar faqat ishq mohabbat wale scenes par hi sara focus kya hai
+
+ID: 74
+ORIGINAL:   tahum bad mein barhe par tabahi phelane wale hathiyar na hone par condoleezza rice ko zabardast tanqeed ka saamna karna parha
+NORMALIZED: tahum bad mein barhe par tabah phelana wale hathiyar na hone par condoleezza rice ko zabardast tanqeed ka saamna karna parha
+CHANGES:    tabahi→tabah, phelane→phelana
+JUDGMENT:   FIX
+CORRECTED:  tahum bad mein barhe par tabahi phelane wale hathiyar na hone par condoleezza rice ko zabardast tanqeed ka saamna karna parha
+
+ID: 75
+ORIGINAL:   phir qari yhi kehte hn jo nazar aye khwab me ya jo baat ho hme bataein usi pr ap ko ans mile ga
+NORMALIZED: phir qari yhi kehte hn jo nazar aye khwab mein ya jo baat ho hme batain usi pr aap ko ans mile ga
+CHANGES:    me→mein, bataein→batain, ap→aap
+JUDGMENT:   FIX
+CORRECTED:  phir qari yhi kehte hn jo nazar aye khwab mein ya jo baat ho hme bataein usi pr aap ko ans mile ga
+
+ID: 76
+ORIGINAL:   ye jo batyn hyn na love mn agly insaan ki khushi dekhi jati wo jisky sath jana chahy chla jaye to ye bat hi fazool hy mn is sy disagreed hu
+NORMALIZED: yeh jo batyn hyn na love mein agly insaan ki khushi dekhi jati woh jisky saath jana chahya chla jaye toh yeh baat hi fazool hai mein is sy disagreed hu
+CHANGES:    ye→yeh, mn→mein, wo→woh, sath→saath, chahy→chahya, to→toh, ye→yeh, bat→baat, hy→hai, mn→mein
+JUDGMENT:   FIX
+CORRECTED:  yeh jo batyn hyn na love mein agly insaan ki khushi dekhi jati woh jisky saath jana chahiye chla jaye toh yeh baat hi fazool hai mein is sy disagreed hu
+
+ID: 77
+ORIGINAL:   aaj to nahi hosakta kal try kar nd then will upload pic here umeed ha mazy ka ho ga
+NORMALIZED: aaj toh nahi hosakta kal try kar nd then will upload pic here umeed hai mazy ka ho ga
+CHANGES:    to→toh, ha→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 78
+ORIGINAL:   sub ahem ko maar khatam ker diya hero butt ko bhi kaheen bhaga diya baqi bachay khuchay adakaron ki boring acting kay saath iss dramay ki hawa nikal chuki hai intehayee betuki kahani chal rahi hai episode ho chukay hain magar pagal maan aur bewaqoof beti walay iss bekaar dramay kay khatam honay kay koi nazar nahin aa rahay
+NORMALIZED: sab ahem ko maar khatam ker diya hero butt ko bhi kaheen bhaga diya baqi bachay peechay adakaron ki boring acting kay saath iss dramay ki hawa nikal chuki hai intehai betuki kahani chal rahi hai episode ho chukay hain magar pagal maan aur bewaqoof beti walay iss bekaar dramay kay khatam honay kay koi nazar nahi aa rahay
+CHANGES:    sub→sab, khuchay→peechay, intehayee→intehai, nahin→nahi
+JUDGMENT:   FIX
+CORRECTED:  sab ahem ko maar khatam ker diya hero butt ko bhi kaheen bhaga diya baqi bachay khuchay adakaron ki boring acting kay saath iss dramay ki hawa nikal chuki hai intehai betuki kahani chal rahi hai episode ho chukay hain magar pagal maan aur bewaqoof beti walay iss bekaar dramay kay khatam honay kay koi nazar nahi aa rahay
+
+ID: 79
+ORIGINAL:   tjje ye psnd he ne na tu wrnaa me zroor kr doon gft tjje
+NORMALIZED: tjje yeh pasnd he ne na tu wrnaa mein zaroor kar doon gft tjje
+CHANGES:    ye→yeh, psnd→pasnd, me→mein, zroor→zaroor, kr→kar
+JUDGMENT:   FIX
+CORRECTED:  tjje yeh pasand he ne na tu wrnaa mein zaroor kar doon gft tjje
+
+ID: 80
+ORIGINAL:   shukria uncle or aunti ka
+NORMALIZED: shukria uncle aur aunty ka
+CHANGES:    or→aur, aunti→aunty
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 81
+ORIGINAL:   ha fake hi hota hy
+NORMALIZED: hai fake hi hota hai
+CHANGES:    ha→hai, hy→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 82
+ORIGINAL:   log ye pmln waly or pti waly divide rakha pakistan
+NORMALIZED: log yeh pmln waly aur pti waly divide rakha pakistan
+CHANGES:    ye→yeh, or→aur
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 83
+ORIGINAL:   received my parcel yesterday ye itna glow nai krty jse pic me dikhaya hua ha bs guzara hi ha not recomanded
+NORMALIZED: received my parcel yesterday yeh itna glow nahi krty jse pic mein dikhaya hua hai bs guzar hi hai not recommended
+CHANGES:    ye→yeh, nai→nahi, me→mein, ha→hai, guzara→guzar, ha→hai, recomanded→recommended
+JUDGMENT:   FIX
+CORRECTED:  received my parcel yesterday yeh itna glow nahi krty jse pic mein dikhaya hua hai bs guzara hi hai not recommended
+
+ID: 84
+ORIGINAL:   condoleezza rice ka wo lecture itna maussir sabit hua ke president george bush jab president bane to inho ne mein rice ko america ki national security advisor bana diya
+NORMALIZED: condoleezza rice ka woh lecture itna maussir sabit hua ke president george bush jab president bane toh inho ne mein rice ko america ki national security advisor bana diya
+CHANGES:    wo→woh, to→toh
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 85
+ORIGINAL:   wahein se athletics mein meri dilchaspi barhti gai aur main ne school mein taleem ke doran hi secondary satah par hone wale muqablon mein baqaidah shirkat karni shuru ki
+NORMALIZED: kaheen se athletics mein meri dilchasp barhti gai aur main ne school mein taleem ke doran hi secondary satah par hone wale muqablon mein baqaida shirkat karni shuru ki
+CHANGES:    wahein→kaheen, dilchaspi→dilchasp, baqaidah→baqaida
+JUDGMENT:   FIX
+CORRECTED:  wahein se athletics mein meri dilchaspi barhti gai aur main ne school mein taleem ke doran hi secondary satah par hone wale muqablon mein baqaida shirkat karni shuru ki
+
+ID: 86
+ORIGINAL:   saal ki umer tak khan abdul ghaffar khan bacha khan khamosh karkun ki hasiat se rahe lakin mein jab act ke khelaf bare sagheer mein tehreek chali to unki zahir griftar hogaye aur mein reha huye
+NORMALIZED: saal ki umer tak khan abdul ghaffar khan bacha khan khamosh karkun ki hasiat se rahe lakin mein jab act ke khelaf bare sagheer mein tehreek chali toh unki zahir giriftar hogaya aur mein reha huye
+CHANGES:    to→toh, griftar→giriftar, hogaye→hogaya
+JUDGMENT:   FIX
+CORRECTED:  saal ki umer tak khan abdul ghaffar khan bacha khan khamosh karkun ki hasiat se rahe lakin mein jab act ke khelaf bare sagheer mein tehreek chali toh unki zahir giriftar hogaye aur mein reha huye
+
+ID: 87
+ORIGINAL:   received the product timely as per commitment but the free installation is annoying had informed the helpline and they responded that you will be contacted within hrs for installation by company after the of the deadline have been continuously following up through calls and even through email but no one is turning up for installation please let me know to whom should to get it installed to potential buyers installation is gray area believe so beware before ordering
+NORMALIZED: received the product timely as per commitment but the free installation is annoying had informed the helpline and they responding that you will be contacts within hrs for installation by company after the of the deadline have been continuously following up through calls and even through email but no one is turning up for installation please let me know to who's should to get it installed to potential buyers installation is gray area believe so beware before ordering
+CHANGES:    responded→responding, contacted→contacts, whom→who's
+JUDGMENT:   FIX
+CORRECTED:  received the product timely as per commitment but the free installation is annoying had informed the helpline and they responded that you will be contacted within hrs for installation by company after the of the deadline have been continuously following up through calls and even through email but no one is turning up for installation please let me know to whom should to get it installed to potential buyers installation is gray area believe so beware before ordering
+
+ID: 88
+ORIGINAL:   me is bar portfolio ko mix rakha low mid or high risk
+NORMALIZED: mein is bar portfolio ko mix rakha low mid aur high risk
+CHANGES:    me→mein, or→aur
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 89
+ORIGINAL:   allah ye topic aur kitnay threads mein discuss ho raha hai bura topic ha wideyed
+NORMALIZED: allah yeh topic aur itnay threads mein discuss ho raha hai bura topic hai wideyed
+CHANGES:    ye→yeh, kitnay→itnay, ha→hai
+JUDGMENT:   FIX
+CORRECTED:  allah yeh topic aur kitnay threads mein discuss ho raha hai bura topic hai wideyed
+
+ID: 90
+ORIGINAL:   very nice and very good bhot ache product ha ya original handfree ha thanks daraz and thanks seller bro
+NORMALIZED: very nice and very good bohat ache product ha ya original handfree ha thanks daraz and thanks seller bro
+CHANGES:    bhot→bohat
+JUDGMENT:   FIX
+CORRECTED:  very nice and very good bohat ache product hai ya original handfree hai thanks daraz and thanks seller bro
+
+ID: 91
+ORIGINAL:   pm nawaz sharif se molana fazl ur rahman ki mulaqat muzakrat se mutalliq agah kia wazir azam ne kirdar ko saraha
+NORMALIZED: pm nawaz sharif se molana fazlu ur rahman ki mulaqat muzakrat se mutalliq agah kya wazir azam ne kirdar ko saraha
+CHANGES:    fazl→fazlu, kia→kya
+JUDGMENT:   FIX
+CORRECTED:  pm nawaz sharif se molana fazl ur rahman ki mulaqat muzakrat se mutalliq agah kya wazir azam ne kirdar ko saraha
+
+ID: 92
+ORIGINAL:   chahat ka koi scene ni
+NORMALIZED: chahta ka koi scene nahi
+CHANGES:    chahat→chahta, ni→nahi
+JUDGMENT:   FIX
+CORRECTED:  chahat ka koi scene nahi
+
+ID: 93
+ORIGINAL:   dear ye jo aap kaam kr rahay ho bohat acha he keep it up
+NORMALIZED: dear yeh jo aap kaam kar rahay ho bohat acha he keep it up
+CHANGES:    ye→yeh, kr→kar
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 94
+ORIGINAL:   dil muztar ki kahani ko utha ker diya hai bus aik moti drunk lady jo kay hero faizan khawaja ki amman ki umer ki hai uss ka izafa ker diya hai baaqi saari kahani dil muztar waali hi hai aur larki kaa sharab kay nashay main dikhana zaroori tha ye bhi to dikhaa saktay thay kay uss ka accident hogaya hai alag phoonk rahi hai umar raseeda heroin aajkal kay producers directors bohot achay actors fauj to jama ker letay hain dramon main lekin kahani per zyada mehnat nahin kertay
+NORMALIZED: dil muztar ki kahani ko utha ker diya hai bus aik moti drunk lady jo kay hero faizan khawaja ki amman ki umer ki hai uss ka izafa ker diya hai baaqi saari kahani dil muztar waali hi hai aur larki kaa sharab kay nashay main dikhana zaroor tha yeh bhi toh dikha saktay thay kay uss ka accident hogaya hai alag phoonk rahi hai umar raseed heroin aajkal kay producers directors bohot achay actors fauj toh jama ker letay hain dramon main lekin kahani per zyada mehnat nahi kertay
+CHANGES:    zaroori→zaroor, ye→yeh, to→toh, dikhaa→dikha, raseeda→raseed, to→toh, nahin→nahi
+JUDGMENT:   FIX
+CORRECTED:  dil muztar ki kahani ko utha ker diya hai bus aik moti drunk lady jo kay hero faizan khawaja ki amman ki umer ki hai uss ka izafa ker diya hai baaqi saari kahani dil muztar waali hi hai aur larki kaa sharab kay nashay main dikhana zaroori tha yeh bhi toh dikha saktay thay kay uss ka accident hogaya hai alag phoonk rahi hai umar raseeda heroin aajkal kay producers directors bohot achay actors fauj toh jama ker letay hain dramon main lekin kahani per zyada mehnat nahi kertay
+
+ID: 95
+ORIGINAL:   omg aunty to bht hi zyada me hain
+NORMALIZED: omg aunty toh bohat hi zyada mein hain
+CHANGES:    to→toh, bht→bohat, me→mein
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 96
+ORIGINAL:   all is well but how long this sho will be remain suspended or is he terminated for good
+NORMALIZED: all is well but how long this sho will be remain suspended or is he created for good
+CHANGES:    terminated→created
+JUDGMENT:   FIX
+CORRECTED:  all is well but how long this sho will be remain suspended or is he terminated for good
+
+ID: 97
+ORIGINAL:   respected sir plz dna ka repeat telecast kiya karo becoz kabhi light ni rahti hai yahan nd second problem high speed net ni online dekhne liye request to nd
+NORMALIZED: respected sir plz dena ka repeat telecast kiya karo becoz kabhi light nahi rahti hai yahan nd second problem high speed net nahi online dekhna liye request toh nd
+CHANGES:    dna→dena, ni→nahi, ni→nahi, dekhne→dekhna, to→toh
+JUDGMENT:   FIX
+CORRECTED:  respected sir plz dna ka repeat telecast kiya karo becoz kabhi light nahi rahti hai yahan nd second problem high speed net nahi online dekhne liye request toh nd
+
+ID: 98
+ORIGINAL:   yes paki dramay waqi bohat acchey social issues per hotey hain star plus soaps ki terhan na khatam honey waley sarees fashion shows nahi jis main saas bahu or murder phir dusra teesra janam
+NORMALIZED: yes paki dramay waqi bohat achey social issues per hotey hain star plus soaps ki terhan na khatam honey waley sarees fashion shows nahi jis main saas bahu aur murder phir dusra teesra janam
+CHANGES:    acchey→achey, or→aur
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 99
+ORIGINAL:   kafi comfortable hai pehnnay mein aur black color honay ki wajha sey ye har cheez par chal jati hai main islye aksar ye hoodie pehnta hun liken shukar hai fitting waghera sub theek hai phr bhi
+NORMALIZED: kafi comfortable hai pehnay mein aur black color honay ki wajha se yeh har cheez par chal jati hai main islye aksar yeh hoodie pehn hun liken shukar hai fitting waghera sab theek hai phir bhi
+CHANGES:    pehnnay→pehnay, sey→se, ye→yeh, ye→yeh, pehnta→pehn, sub→sab, phr→phir
+JUDGMENT:   FIX
+CORRECTED:  kafi comfortable hai pehnnay mein aur black color honay ki wajha se yeh har cheez par chal jati hai main islye aksar yeh hoodie pehnta hun liken shukar hai fitting waghera sab theek hai phir bhi
+
+ID: 100
+ORIGINAL:   mutasira khandanon se izhar hamdardi
+NORMALIZED: mutasir khandan se izhar hamdardi
+CHANGES:    mutasira→mutasir, khandanon→khandan
+JUDGMENT:   FIX
+CORRECTED:  mutasira khandanon se izhar hamdardi
+
+ID: 101
+ORIGINAL:   rania kaa sub say acha ilaaj yehi hai kay aamir ussay akela chor ker dubai chala jaye
+NORMALIZED: rania kaa sab se acha ilaaj yehi hai kay aamir ussay akela chor ker dubai chala jaye
+CHANGES:    sub→sab, say→se
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 102
+ORIGINAL:   to much to ban
+NORMALIZED: toh much toh ban
+CHANGES:    to→toh, to→toh
+JUDGMENT:   FIX
+CORRECTED:  to much to ban
+
+ID: 103
+ORIGINAL:   mjhy to kazim or hasi ati
+NORMALIZED: mjhy toh kazim aur hasi ati
+CHANGES:    to→toh, or→aur
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 104
+ORIGINAL:   singh ne jis himmat sath is baat ka aitraaf kiya he us ki to daad dena pare gi agr che wo hindu phir us ne sach ko sach kaha kaash bharat mein mojod tmam hinduon ki soch quaid azam aur pakistan mutalaq tabdeel ho jae
+NORMALIZED: singh ne jis himmat saath is baat ka aitraz kiya he us ki toh daad dena pare gi agr che woh hindu phir us ne sach ko sach kaha kaash bharat mein mojod tmam hindus ki soch quaid azam aur pakistan mutalaq tabdeeli ho jae
+CHANGES:    sath→saath, aitraaf→aitraz, to→toh, wo→woh, hinduon→hindus, tabdeel→tabdeeli
+JUDGMENT:   FIX
+CORRECTED:  singh ne jis himmat saath is baat ka aitraaf kiya he us ki toh daad dena pare gi agr che woh hindu phir us ne sach ko sach kaha kaash bharat mein mojod tmam hinduon ki soch quaid azam aur pakistan mutalaq tabdeel ho jae
+
+ID: 105
+ORIGINAL:   to replace whom
+NORMALIZED: toh replace who's
+CHANGES:    to→toh, whom→who's
+JUDGMENT:   FIX
+CORRECTED:  to replace whom
+
+ID: 106
+ORIGINAL:   hahaha chavlen band karu kpk ma kya change aye abhe tk single project bhe nahi bunyadi no hospital ki bad condition shame you
+NORMALIZED: haha chavlen band karu kpk ma kya change aye abhe tk single project bhe nahi bunyad no hospital ki bad condition shame you
+CHANGES:    hahaha→haha, bunyadi→bunyad
+JUDGMENT:   FIX
+CORRECTED:  haha chavlen band karu kpk ma kya change aye abhe tk single project bhe nahi bunyadi no hospital ki bad condition shame you
+
+ID: 107
+ORIGINAL:   aj news usdt haq me ni ai
+NORMALIZED: aaj arynews usdt haq mein nahi ai
+CHANGES:    aj→aaj, news→arynews, me→mein, ni→nahi
+JUDGMENT:   FIX
+CORRECTED:  aaj news usdt haq mein nahi ai
+
+ID: 108
+ORIGINAL:   hum operation ki himayat krtay hy magar usman or ki griftari operation ku mashkook bana rahi hy
+NORMALIZED: hum operation ki himayat krtay hai magar usman aur ki griftar operation ku mashkook bana rahi hai
+CHANGES:    hy→hai, or→aur, griftari→griftar, hy→hai
+JUDGMENT:   FIX
+CORRECTED:  hum operation ki himayat krtay hai magar usman aur ki griftari operation ku mashkook bana rahi hai
+
+ID: 109
+ORIGINAL:   qasmy add nhi mere pass warna sir ahsan ko tou kar he dete
+NORMALIZED: qasm add nahi mere pass warna sir ahsan ko tou kar he dete
+CHANGES:    qasmy→qasm, nhi→nahi
+JUDGMENT:   FIX
+CORRECTED:  qasmy add nahi mere pass warna sir ahsan ko tou kar he dete
+
+ID: 110
+ORIGINAL:   decency women are so unsafe here decent to wo hein jo europe mein beach pe ja bhi larkiyon ko nai
+NORMALIZED: decency women are so unsafe here decent toh woh hein jo europe mein beach pe ja bhi larkiyon ko nahi
+CHANGES:    to→toh, wo→woh, nai→nahi
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 111
+ORIGINAL:   lemon ki smell ati ha acha perfume ha ma mil jata ha market se lekin al junaid is price ma kafi acha ha is se
+NORMALIZED: lemon ki smell ati hai acha perfume hai ma mil jata hai market se lekin al junaid is price ma kafi acha hai is se
+CHANGES:    ha→hai, ha→hai, ha→hai, ha→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 112
+ORIGINAL:   yeh gorgeous shirt ki price kia ha
+NORMALIZED: yeh gorgeous shirt ki price kya hai
+CHANGES:    kia→kya, ha→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 113
+ORIGINAL:   hn and bud kesi survey kea zroorat pmln amp kubhi awam such ni bola ye bud bol skty apni apny bap ni start krty pmln apny nisbat nassal bta skti jhooty hn ye sub
+NORMALIZED: hn and bud kesi survey kea zaroorat pmln amp kubhi awam such nahi bola yeh bud bol skty apni apne bap nahi start krty pmln apne nisbat nassal bata skti jhoty hn yeh sab
+CHANGES:    zroorat→zaroorat, ni→nahi, ye→yeh, apny→apne, ni→nahi, apny→apne, bta→bata, jhooty→jhoty, ye→yeh, sub→sab
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 114
+ORIGINAL:   ary bhai iqtedar bhook he inhe mot tk larny krti he jail gay goli khai mgr awam kia dia khud choty choty businessman ban gay awam kyun greeb greeb tar hoti gayi pti pmln hat sochen
+NORMALIZED: ary bhai iqtedar bhook he inhe mot tk larny krti he jail gay goli khai mgr awam kya dia khud choty choty businessman ban gay awam kyun greeb greeb tar hoti gayi pti pmln hat soche
+CHANGES:    kia→kya, sochen→soche
+JUDGMENT:   FIX
+CORRECTED:  ary bhai iqtedar bhook he inhe mot tk larny krti he jail gay goli khai mgr awam kya dia khud choty choty businessman ban gay awam kyun greeb greeb tar hoti gayi pti pmln hat sochen
+
+ID: 115
+ORIGINAL:   bs last me check kro
+NORMALIZED: bs last mein check karo
+CHANGES:    me→mein, kro→karo
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 116
+ORIGINAL:   not required bloody comments of pakistani bhot beshram ho yar tum log
+NORMALIZED: not required bloody comments of pakistani bohat besharam ho yaar tum log
+CHANGES:    bhot→bohat, beshram→besharam, yar→yaar
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 117
+ORIGINAL:   hamariweb ka survey our logo comments dono hi alag alag hain why lagta hai ye survey bilawal house main tu nhi huwa kyo bhayo kya kehty ho
+NORMALIZED: hamariweb ka survey our logo comments dono hi alag alag hain why lagta hai yeh survey bilawal house main tu nahi huwa kyo bhayo kya kehty ho
+CHANGES:    ye→yeh, nhi→nahi
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 118
+ORIGINAL:   yahoodi musalmanoo doost nhe ho sakte
+NORMALIZED: yahoodi musalman doost nahi ho sakte
+CHANGES:    musalmanoo→musalman, nhe→nahi
+JUDGMENT:   FIX
+CORRECTED:  yahoodi musalmanoo doost nahi ho sakte
+
+ID: 119
+ORIGINAL:   pakistani who moved abroad allah ap sab ki aur humarey mulk ki hifazat karey
+NORMALIZED: pakistani who loved abroad allah aap sab ki aur humarey mulk ki hifazat karey
+CHANGES:    moved→loved, ap→aap
+JUDGMENT:   FIX
+CORRECTED:  pakistani who moved abroad allah aap sab ki aur humarey mulk ki hifazat karey
+
+ID: 120
+ORIGINAL:   time will tell in bare jhoote beghairat log mn aj tk ni dekhe ap bahir jao or ap daddy wapis ana pre
+NORMALIZED: time will tell in bare jhoot beghairat log mein aaj tk nahi dekhe aap bahir jao aur aap daddy wapis aana pre
+CHANGES:    jhoote→jhoot, mn→mein, aj→aaj, ni→nahi, ap→aap, or→aur, ap→aap, ana→aana
+JUDGMENT:   FIX
+CORRECTED:  time will tell in bare jhoote beghairat log mein aaj tk nahi dekhe aap bahir jao aur aap daddy wapis aana pre
+
+ID: 121
+ORIGINAL:   itna ghatya drama mai ne kabhi nahi dehka lanat ho story writer par
+NORMALIZED: itna ghatya drama main ne kabhi nahi dehk lanat ho story writer par
+CHANGES:    mai→main, dehka→dehk
+JUDGMENT:   FIX
+CORRECTED:  itna ghatya drama main ne kabhi nahi dehka lanat ho story writer par
+
+ID: 122
+ORIGINAL:   am so happy to see this this is beautiful same as tell soo much satisfied only in days thnku soo much seller and daraz highly recommend
+NORMALIZED: am so happy to see this this is beautiful same as tell soo much satisfied only in days thnks soo much seller and daraz highly recommend
+CHANGES:    thnku→thnks
+JUDGMENT:   FIX
+CORRECTED:  am so happy to see this this is beautiful same as tell soo much satisfied only in days thnku soo much seller and daraz highly recommend
+
+ID: 123
+ORIGINAL:   allah ka karam hy me thk
+NORMALIZED: allah ka karam hai mein theek
+CHANGES:    hy→hai, me→mein, thk→theek
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 124
+ORIGINAL:   lol apne upar nai in se ye sab bardasht hota
+NORMALIZED: lol apne upar nahi in se yeh sab bardasht hota
+CHANGES:    nai→nahi, ye→yeh
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 125
+ORIGINAL:   pakistan ki police jesa haram khor kidar bi nai
+NORMALIZED: pakistan ki police jesa haram khor kidar bhi nahi
+CHANGES:    bi→bhi, nai→nahi
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 126
+ORIGINAL:   wo bahar beth kr talia bajay
+NORMALIZED: woh bahar beth kar talia bajay
+CHANGES:    wo→woh, kr→kar
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 127
+ORIGINAL:   insaf ki farhami ki sorat haal ye hai ke koi jaiz kaam bhi rishwat ke bagher hone ka tasawor bhi khatam ho chukka hai
+NORMALIZED: insaf ki farhan ki sorat haal yeh hai ke koi jaiz kaam bhi rishwat ke bagher hone ka tasawor bhi khatam ho chukka hai
+CHANGES:    farhami→farhan, ye→yeh
+JUDGMENT:   FIX
+CORRECTED:  insaf ki farhami ki sorat haal yeh hai ke koi jaiz kaam bhi rishwat ke bagher hone ka tasawor bhi khatam ho chukka hai
+
+ID: 128
+ORIGINAL:   bhot shukria apka dawlance ki taraf sa sab kch ka
+NORMALIZED: bohat shukria apka dawlance ki taraf sa sab kuch ka
+CHANGES:    bhot→bohat, kch→kuch
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 129
+ORIGINAL:   what mean is that govt ke pas incentive kya ha kuch bhi nhi back in the day khilafat system offered economic prosperity social and cultural expansion and even new world order like proper system tha uske baad aya golden age of islam yeh to bohat high expectations hain yahan to woh family system jaise basic principle of islam ka bhi promise nhi ker sakte
+NORMALIZED: what mean is that govt ke pass incentive kya hai kuch bhi nahi back in the day khilafat system offered economic prosperity social and cultural expansion and even new world order liked proper system tha uske baad aya golden age of islam yeh toh bohat high expectations hain yahan toh woh family system jaise basic principle of islam ka bhi promise nahi ker sakte
+CHANGES:    pas→pass, ha→hai, nhi→nahi, like→liked, to→toh, to→toh, nhi→nahi
+JUDGMENT:   FIX
+CORRECTED:  what mean is that govt ke pass incentive kya hai kuch bhi nahi back in the day khilafat system offered economic prosperity social and cultural expansion and even new world order like proper system tha uske baad aya golden age of islam yeh toh bohat high expectations hain yahan toh woh family system jaise basic principle of islam ka bhi promise nahi ker sakte
+
+ID: 130
+ORIGINAL:   very nice yar dil me utar jane wali hai ye kahani
+NORMALIZED: very nice yaar dil mein utar jane wali hai yeh kahani
+CHANGES:    yar→yaar, me→mein, ye→yeh
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 131
+ORIGINAL:   yar wo soya hua tha pata nahi chla teri call ka
+NORMALIZED: yaar woh soya hua tha pata nahi chla teri call ka
+CHANGES:    yar→yaar, wo→woh
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 132
+ORIGINAL:   gand py lat bhi mara ak chinese ny indian army walay ko yar main to us bnday ka bara fan gaya kia lat mara salute to the legend
+NORMALIZED: gand par lat bhi mara ak chinese ny indian army's walay ko yaar main toh us bnday ka bara fan gaya kya lat mara salute toh the legend
+CHANGES:    py→par, army→army's, yar→yaar, to→toh, kia→kya, to→toh
+JUDGMENT:   FIX
+CORRECTED:  gand par lat bhi mara ak chinese ny indian army walay ko yaar main toh us bnday ka bara fan gaya kya lat mara salute toh the legend
+
+ID: 133
+ORIGINAL:   bhot mehanga ha ha iska
+NORMALIZED: bohat mehanga hai hai iska
+CHANGES:    bhot→bohat, ha→hai, ha→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 134
+ORIGINAL:   bili khawab beta teri jurat ha bat kry
+NORMALIZED: bili khawab beta teri jurat hai baat kry
+CHANGES:    ha→hai, bat→baat
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 135
+ORIGINAL:   sharam kro tm log hr ghalat bat defend kro bohat baty krty pmln walo andhi krty khud kia
+NORMALIZED: sharam karo tum log hr ghalat baat defend karo bohat baty krty pmln walo andhi krty khud kya
+CHANGES:    kro→karo, tm→tum, bat→baat, kro→karo, kia→kya
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 136
+ORIGINAL:   yh waly blkl nae hn in
+NORMALIZED: yeh waly bilkul nae hn in
+CHANGES:    yh→yeh, blkl→bilkul
+JUDGMENT:   FIX
+CORRECTED:  yeh waly bilkul nahi hn in
+
+ID: 137
+ORIGINAL:   han ye hy wo mein
+NORMALIZED: han yeh hai woh mein
+CHANGES:    ye→yeh, hy→hai, wo→woh
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 138
+ORIGINAL:   keeping count of text bohot faraghat hai bhae itne mein tou reply bhe kr saktay thay
+NORMALIZED: keeping count of text bohot farag hai bhae itne mein tou reply bhe kar saktay thay
+CHANGES:    faraghat→farag, kr→kar
+JUDGMENT:   FIX
+CORRECTED:  keeping count of text bohot faraghat hai bhae itne mein tou reply bhe kar saktay thay
+
+ID: 139
+ORIGINAL:   lakin sawal ye hai logoon zehan se or kesy nikali jaye jitna marzi samjh lo
+NORMALIZED: lakin sawal yeh hai logoon zehan se aur kesy nikali jaye jitna marzi samjh lo
+CHANGES:    ye→yeh, or→aur
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 140
+ORIGINAL:   egoistic fully struggling person hy aj us ka din hectic rha hoga
+NORMALIZED: egoistic fully struggling person hai aaj us ka din hectic raha hoga
+CHANGES:    hy→hai, aj→aaj, rha→raha
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 141
+ORIGINAL:   behn mulk thik ch asy halaat kbhi nhi tmhri hakomat mulk thik ni or inhon bigar dia pmln hakomat mn kbhi itni mehngai ni hui os wqt rape ratio itni km sary bahr nikly mu ap ri
+NORMALIZED: behn mulk theek ch asy halaat kbhi nahi tmhri hakomat mulk theek nahi aur inhon bigar dia pmln hakomat mein kbhi itni mehngai nahi hui os waqt rape ratio itni km sary bahr nikly mu aap ri
+CHANGES:    thik→theek, nhi→nahi, thik→theek, ni→nahi, or→aur, mn→mein, ni→nahi, wqt→waqt, ap→aap
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 142
+ORIGINAL:   reporter court mein saboot or phir showbaz khilaaf defame case karey tum logo yahan pmln sm team yaqeen liya or court statement urdu tarjuma nahi parha kutton ghee or patwario mithae kabhi hazam nahi hoti
+NORMALIZED: reporter court mein saboot aur phir showbaz khilaf defame case karey tum logo yahan pmln sm team yaqeen liya aur court statement urdu tarjuman nahi parha kutton ghee aur patwario mithae kabhi hazam nahi hoti
+CHANGES:    or→aur, khilaaf→khilaf, or→aur, tarjuma→tarjuman, or→aur
+JUDGMENT:   FIX
+CORRECTED:  reporter court mein saboot aur phir showbaz khilaf defame case karey tum logo yahan pmln sm team yaqeen liya aur court statement urdu tarjuma nahi parha kutton ghee aur patwario mithae kabhi hazam nahi hoti
+
+ID: 143
+ORIGINAL:   hukumat kisi ki bhi ho awam ko sirf un ke masle haal karne ki liye ek insaan chaye awam ko kisi party se koi lena dena nahi laiken jis tarha ye goverment kaam kar rahe hai is per awam ab tak mutmayeen nahi adliya ki zadi or media ke azadi se awam ko kuch lena dena nahi awam ko sirf rozgaar electricity tahafuz or mehngai se nijaat chaye
+NORMALIZED: hukumat kisi ki bhi ho awam ko sirf un ke masle haal karne ki liye ek insaan chahiye awam ko kisi party se koi lena dena nahi laiken jis tarha yeh goverment kaam kar rahe hai is per awam ab tak mutmaeen nahi adlia ki zadi aur media ke azadi se awam ko kuch lena dena nahi awam ko sirf rozgar electricity tahafuz aur mehngai se nijat chahiye
+CHANGES:    chaye→chahiye, ye→yeh, mutmayeen→mutmaeen, adliya→adlia, or→aur, rozgaar→rozgar, or→aur, nijaat→nijat, chaye→chahiye
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 144
+ORIGINAL:   buhat kharab web hy student liaye log ghalat faida utha rhy hy
+NORMALIZED: bohat kharab web hai student liaye log ghalat faida utha rahe hai
+CHANGES:    buhat→bohat, hy→hai, rhy→rahe, hy→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 145
+ORIGINAL:   betty problem hy aur apni nahi hy
+NORMALIZED: betty problem hai aur apni nahi hai
+CHANGES:    hy→hai, hy→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 146
+ORIGINAL:   mujy jo sb sy ajeeb lgti chez wo ye jb log apni mentality sy batyn kr dyn kuch kisi bary
+NORMALIZED: mujy jo sab sy ajeeb lagti chez woh yeh jb log apni mentality sy batyn kar dyn kuch kisi bary
+CHANGES:    sb→sab, lgti→lagti, wo→woh, ye→yeh, kr→kar
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 147
+ORIGINAL:   kinza tu bht zehar ki lagti ha ki jr
+NORMALIZED: kinza tu bohat zehar ki lagti hai ki jr
+CHANGES:    bht→bohat, ha→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 148
+ORIGINAL:   rana fawad sb great pak unhy khush rakhyameen
+NORMALIZED: rana fawad sab great pak unhy khush aameen
+CHANGES:    sb→sab, rakhyameen→aameen
+JUDGMENT:   FIX
+CORRECTED:  rana fawad sab great pak unhy khush rakhyameen
+
+ID: 149
+ORIGINAL:   wah maza aagya boht achy samjhaya hai jald he home work check karwati hon
+NORMALIZED: wah maza agya bohat achy samjha hai jald he home work check karwate hon
+CHANGES:    aagya→agya, boht→bohat, samjhaya→samjha, karwati→karwate
+JUDGMENT:   FIX
+CORRECTED:  wah maza agya bohat achy samjhaya hai jald he home work check karwati hon
+
+ID: 150
+ORIGINAL:   waze rahe ke ye tamam shehar brazil ke taqreban tamam aham elaqon ya khiton ka ahata karte hain
+NORMALIZED: waze rahe ke yeh tamam shehar brazil ke taqreban tamam aham ilaqon ya khiton ka ahata karte hain
+CHANGES:    ye→yeh, elaqon→ilaqon
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 151
+ORIGINAL:   hmri nzr mai tlp pmln hath milana yazeed hath milane ha ye din kabi nhi pti bare mai asia riha krne france safeer tk nikalne wja naraz ye apke apne bayan ha sun tlp nahi khareed skta
+NORMALIZED: hamari nzr main tlp pmln hath milana yazeed hath milane hai yeh din kabi nahi pti bare main asia riha karne france safeer tk nikalne wja naraz yeh apke apne bayan hai sun tlp nahi khareed skta
+CHANGES:    hmri→hamari, mai→main, ha→hai, ye→yeh, nhi→nahi, mai→main, krne→karne, ye→yeh, ha→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 152
+ORIGINAL:   have never seen such amazing person as iqrar ul hassan god bless him ye bnda itna acha hai khud ki jaan me daal kr hamein peace hai shukria sareaam ki team aur sir iqrar ul hassan big fan of allah apki sari mushkilat me asaani kre ameen
+NORMALIZED: have never seen such amazing person as iqrar ul hassan god bless him yeh bnda itna acha hai khud ki jaan mein daal kar hamein peace hai shukria sareaam ki team aur sir iqrar ul hassan big fan of allah apki sari mushkil mein asaani kre ameen
+CHANGES:    ye→yeh, me→mein, kr→kar, mushkilat→mushkil, me→mein
+JUDGMENT:   OK
+CORRECTED:  have never seen such amazing person as iqrar ul hassan god bless him yeh bnda itna acha hai khud ki jaan mein daal kar hamein peace hai shukria sareaam ki team aur sir iqrar ul hassan big fan of allah apki sari mushkilat mein asaani kre ameen
+
+ID: 153
+ORIGINAL:   mai yeh cell kharida hai boht acha hai is mai notification light hai or charging speed boht hai
+NORMALIZED: main yeh cell khareed hai bohat acha hai is main notification light hai aur charging speed bohat hai
+CHANGES:    mai→main, kharida→khareed, boht→bohat, mai→main, or→aur, boht→bohat
+JUDGMENT:   FIX
+CORRECTED:  main yeh cell kharida hai bohat acha hai is main notification light hai aur charging speed bohat hai
+
+ID: 154
+ORIGINAL:   kaprey sey jaoo bee
+NORMALIZED: kapray se jaoo bee
+CHANGES:    kaprey→kapray, sey→se
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 155
+ORIGINAL:   ke hungama khaiz daur aur bilkhusoos zulfiqar ali bhutto ki phansi ke bad wo khamoshi aur maslehat ka shikaar dikhaai diye
+NORMALIZED: ke hungama khaiz daur aur bilkhusoos zulfiqar ali bhutto ki phansi ke bad woh khamosh aur maslihat ka shikaar dikhaai diye
+CHANGES:    wo→woh, khamoshi→khamosh, maslehat→maslihat
+JUDGMENT:   FIX
+CORRECTED:  ke hungama khaiz daur aur bilkhusoos zulfiqar ali bhutto ki phansi ke bad woh khamoshi aur maslihat ka shikaar dikhaai diye
+
+ID: 156
+ORIGINAL:   bus bivi ki taan se shoru hoti hai aur per khatam hoti hai kia shadi kharchay poore krne ka naam hai bakwas baat
+NORMALIZED: bus bivi ki taan se shoru hoti hai aur per khatam hoti hai kya shadi kharch poore karne ka naam hai bakwas baat
+CHANGES:    kia→kya, kharchay→kharch, krne→karne
+JUDGMENT:   FIX
+CORRECTED:  bus bivi ki taan se shoru hoti hai aur per khatam hoti hai kya shadi kharchay poore karne ka naam hai bakwas baat
+
+ID: 157
+ORIGINAL:   ducky bhai abi me rastay se ja raha tha dust bin mili yani ke ap ka vlog
+NORMALIZED: ducky bhai abhi mein rastay se ja raha tha dust bin mili yani ke aap ka vlog
+CHANGES:    abi→abhi, me→mein, ap→aap
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 158
+ORIGINAL:   ducky bhai aap bht pyara hain or acha ha or allah aap ko nazar na lagy
+NORMALIZED: ducky bhai aap bohat pyara hain aur acha hai aur allah aap ko nazar na lagy
+CHANGES:    bht→bohat, or→aur, ha→hai, or→aur
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 159
+ORIGINAL:   bhot acha kam ka zariya ha ya
+NORMALIZED: bohat acha kam ka dariya hai ya
+CHANGES:    bhot→bohat, zariya→dariya, ha→hai
+JUDGMENT:   FIX
+CORRECTED:  bohat acha kam ka zariya hai ya
+
+ID: 160
+ORIGINAL:   petrol gold light pore pakistan min btao pmln dor min mahnga kia howa sasta kia howa apne dil hath rakh btao tak list
+NORMALIZED: petrol gold light pore pakistan min batao pmln dor min mahnga kya howa sasta kya howa apne dil hath rakh batao tak list
+CHANGES:    btao→batao, kia→kya, kia→kya, btao→batao
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 161
+ORIGINAL:   duki bhai app ka jasa koi vlog nahi bana sakta love ho gaya ha yar
+NORMALIZED: duki bhai app ka jasa koi vlog nahi bana sakta love ho gaya hai yaar
+CHANGES:    ha→hai, yar→yaar
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 162
+ORIGINAL:   subhanallah isi wajha se iraq syria libya palestine even israel bhi sb sb terrorism index mn pakistan se neechay rank kr rhe hyn mind you this is increase in one year alone tum bss yehi wala chooran khatay rho aur delusional rho bismillah don't let us destroy your fantasy
+NORMALIZED: subhanallah isi wajha se iraq syria libya palestine even israel bhi sab sab terrorism index mein pakistan se peechay rank kar rahe hyn mind you this is increase in one years alone tum bss yehi wala choor khatay rho aur delusional rho bismillah don't let us destroy your fantasy
+CHANGES:    sb→sab, sb→sab, mn→mein, neechay→peechay, kr→kar, rhe→rahe, year→years, chooran→choor
+JUDGMENT:   FIX
+CORRECTED:  subhanallah isi wajha se iraq syria libya palestine even israel bhi sab sab terrorism index mein pakistan se neechay rank kar rahe hyn mind you this is increase in one year alone tum bss yehi wala chooran khatay rho aur delusional rho bismillah don't let us destroy your fantasy
+
+ID: 163
+ORIGINAL:   if pyar sy danty hain to khty hain
+NORMALIZED: if pyar sy anty hain toh khty hain
+CHANGES:    danty→anty, to→toh
+JUDGMENT:   FIX
+CORRECTED:  if pyar sy danty hain toh khty hain
+
+ID: 164
+ORIGINAL:   ap short kr rhy short time
+NORMALIZED: aap short kar rahe short time
+CHANGES:    ap→aap, kr→kar, rhy→rahe
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 165
+ORIGINAL:   zma khu mostly bande ye che peshawar ke me sa kar khu hopefully ka charta bande will hit you up
+NORMALIZED: zma khu mostly bande yeh che peshawar ke mein sa kar khu hopefully ka charta bande will hit you up
+CHANGES:    ye→yeh, me→mein
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 166
+ORIGINAL:   ma ap kon sa kamaal ap family nhe ap itni tax kamai call girls py
+NORMALIZED: ma aap kon sa kamaal aap family nahi aap itni tax kamai call girls par
+CHANGES:    ap→aap, ap→aap, nhe→nahi, ap→aap, py→par
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 167
+ORIGINAL:   mny send kya ha lekin unki traf sy masig aya ha tweet py sign kary ya acount bnaye
+NORMALIZED: mny send kya hai lekin unki traf sy masig aya hai tweet par sign kary ya acount bnaye
+CHANGES:    ha→hai, ha→hai, py→par
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 168
+ORIGINAL:   or go see zee news or yourself maybe
+NORMALIZED: aur go see zee arynews aur yourself maybe
+CHANGES:    or→aur, news→arynews, or→aur
+JUDGMENT:   FIX
+CORRECTED:  aur go see zee news aur yourself maybe
+
+ID: 169
+ORIGINAL:   youre replying to every crazy cares
+NORMALIZED: you're applying toh every crazy cares
+CHANGES:    youre→you're, replying→applying, to→toh
+JUDGMENT:   FIX
+CORRECTED:  you're replying to every crazy cares
+
+ID: 170
+ORIGINAL:   bechari sub ki acting acchi hai iss dramey main
+NORMALIZED: bechari sab ki acting acchi hai iss dramay main
+CHANGES:    sub→sab, dramey→dramay
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 171
+ORIGINAL:   farig farig psl ka man skty han
+NORMALIZED: farigh farigh psl ka man skty han
+CHANGES:    farig→farigh, farig→farigh
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 172
+ORIGINAL:   ka sahara le kr chor jany waly aksar bewafa hoty hain
+NORMALIZED: ka sahara le kar chor jany waly aksar bewafa hote hain
+CHANGES:    kr→kar, hoty→hote
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 173
+ORIGINAL:   kab siyasat ma thodi dair ma yahe baatein copy cat isi liya ma pmln jhot bol skta mazhabi party nhi
+NORMALIZED: kab siyasat ma thodi dair ma yahe batein copy cat isi liya ma pmln jhot bol skta mazhabi party nahi
+CHANGES:    baatein→batein, nhi→nahi
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 174
+ORIGINAL:   tax itself is against security ap tax ni doge to pl kaha se aenge china kab tk per deta rahega apko
+NORMALIZED: tax itself is against security aap tax nahi doge toh pl kaha se ayenge china kab tk per deta rahega apko
+CHANGES:    ap→aap, ni→nahi, to→toh, aenge→ayenge
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 175
+ORIGINAL:   please correct gandhi killed because even after the failure of his politics regards unified india pretended as if hindu muslims are bhai bhai and pakistan is only created as additional home many hindus got slaughtered but the man rushed to save muslimsto safeguard own image
+NORMALIZED: please correct gandhi killed because even after the failure of his politics regards unified india pretended as if hindu muslims are bhai bhai and pakistan is only created as additional home many hindus got slaughtered but the man rushed to save muslims safeguard own image
+CHANGES:    muslimsto→muslims
+JUDGMENT:   FIX
+CORRECTED:  please correct gandhi killed because even after the failure of his politics regards unified india pretended as if hindu muslims are bhai bhai and pakistan is only created as additional home many hindus got slaughtered but the man rushed to save muslimsto safeguard own image
+NORMALIZED: please correct gandhi killed because even after the failure of his politics regards unified india pretended as if hindu muslims are bhai bhai and pakistan is only created as additional home many hindus got slaughtered but the man rushed to save muslims safeguard own image
+
+ID: 176
+ORIGINAL:   ye maria ka puranay design jesa hi ha
+NORMALIZED: yeh maria ka puranay design jesa hi hai
+CHANGES:    ye→yeh, ha→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 177
+ORIGINAL:   ye england walon ki hamarey khilaf sazish humaray mulik jasa koi ni ha
+NORMALIZED: yeh england walon ki hamarey khilaf sazish humaray mulik jasa koi nahi hai
+CHANGES:    ye→yeh, ni→nahi, ha→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 178
+ORIGINAL:   mainy bohat phly fb pr btaya ik pti khud kare khud krty rhe opposition pr dal mtlb jesy pti chor kehti pmln asal me pti khud chor ha corrupt kehti pmln asal me pti waly khud corrupt
+NORMALIZED: mainy bohat phly fb pr btaya ik pti khud kare khud krty rahe opposition pr dal matlab jesy pti chor kehti pmln asal mein pti khud chor hai corrupt kehti pmln asal mein pti waly khud corrupt
+CHANGES:    rhe→rahe, mtlb→matlab, me→mein, ha→hai, me→mein
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 179
+ORIGINAL:   is qom ko corona mare na mare jahalat st day of lockdown removal and this happens ap ghareebo ko ya kam parhe likho ko kya bolen jab parhe likhe jahil itne zyada hamare pass the rush outside limelight is clear example kay awam ko sadgi se eid nahi karni pakistan
+NORMALIZED: is qom ko corona mare na mare jahalat st day of lockdown removal and this happens aap ghareeb ko ya kam parho likho ko kya bolen jab parho likhe jahil itne zyada hamare pass the rush outside limelight is clear example kay awam ko sadgi se eid nahi karni pakistan
+CHANGES:    ap→aap, ghareebo→ghareeb, parhe→parho, parhe→parho
+JUDGMENT:   FIX
+CORRECTED:  is qom ko corona mare na mare jahalat st day of lockdown removal and this happens aap ghareebo ko ya kam parhe likho ko kya bolen jab parhe likhe jahil itne zyada hamare pass the rush outside limelight is clear example kay awam ko sadgi se eid nahi karni pakistan
+
+ID: 180
+ORIGINAL:   me ny bi pics or voice suni hn they are very
+NORMALIZED: mein ny bhi pics aur voice suni hn they are very
+CHANGES:    me→mein, bi→bhi, or→aur
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 181
+ORIGINAL:   tum jese crupt logon ko sirf apni parhi rehti zara aun bechare awam ka to socho jis awam ne ap jese crupt logon ko vote de kr tk peso se ap logo ko tankha milti he sharm nam ki koi chez he bhi nahi
+NORMALIZED: tum jese crupt logon ko sirf apni parhi rehti zara aun bechari awam ka toh socho jis awam ne aap jese crupt logon ko vote de kar tk peso se aap logo ko tankhwa milti he sharam nam ki koi chez he bhi nahi
+CHANGES:    bechare→bechari, to→toh, ap→aap, kr→kar, ap→aap, tankha→tankhwa, sharm→sharam
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 182
+ORIGINAL:   gt mai stats ti farak matlab gov cxe chi ni reality ti kehen farakh gt na justify me ni chi yi choon claim ous ki aes kharan yiman extraordinary evidence
+NORMALIZED: gt main stats ti farak matlab gov cxe chi nahi reality ti kehen farak gt na justify mein nahi chi yi choon claim ous ki aes kharain yiman extraordinary evidence
+CHANGES:    mai→main, ni→nahi, farakh→farak, me→mein, ni→nahi, kharan→kharain
+JUDGMENT:   FIX
+CORRECTED:  gt main stats ti farak matlab gov cxe chi nahi reality ti kehen farakh gt na justify mein nahi chi yi choon claim ous ki aes kharan yiman extraordinary evidence
+
+ID: 183
+ORIGINAL:   ye kapra kisi jadoo se kam nahi
+NORMALIZED: yeh kapra kisi jado se kam nahi
+CHANGES:    ye→yeh, jadoo→jado
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 184
+ORIGINAL:   benazir bhutto woh wahid khatoon hain jinhoon nay jadeed tarekh mein bazariya intakhabaat kisi islami mulk ki honay ka hasil kia
+NORMALIZED: benazir bhutto woh wahid khatoon hain jinho nay jadeed tareekh mein dariya intekhabat kisi islami mulk ki honay ka hasil kya
+CHANGES:    jinhoon→jinho, tarekh→tareekh, bazariya→dariya, intakhabaat→intekhabat, kia→kya
+JUDGMENT:   FIX
+CORRECTED:  benazir bhutto woh wahid khatoon hain jinhoon nay jadeed tareekh mein bazariya intekhabat kisi islami mulk ki honay ka hasil kya
+
+ID: 185
+ORIGINAL:   ma iphones sy hate kerta hon is ki poor batteries ki wajha sy inki battery half din se ziyada nai chalti din mai bar charge karna parta hai
+NORMALIZED: ma iphone sy hate kerta hon is ki poor batteries ki wajha sy inki battery half din se zyada nahi chalti din main bar charge karna parta hai
+CHANGES:    iphones→iphone, ziyada→zyada, nai→nahi, mai→main
+JUDGMENT:   FIX
+CORRECTED:  ma iphones sy hate kerta hon is ki poor batteries ki wajha sy inki battery half din se zyada nahi chalti din main bar charge karna parta hai
+
+ID: 186
+ORIGINAL:   yar ma to aik baat hoo samsung waly jitna be zor laga lay iphone ka nhi kar saktay
+NORMALIZED: yaar ma toh aik baat hoo samsung waly jitna be zor laga lay iphone ka nahi kar saktay
+CHANGES:    yar→yaar, to→toh, nhi→nahi
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 187
+ORIGINAL:   abhi intezaar ker rahi hoon kisi achay say bhainsay kaa jesay hi mailay gaa gi shaadi
+NORMALIZED: abhi intezar ker rahi hoon kisi achay se bhains kaa jesay hi mailay gaa gi shaadi
+CHANGES:    intezaar→intezar, say→se, bhainsay→bhains
+JUDGMENT:   FIX
+CORRECTED:  abhi intezar ker rahi hoon kisi achay se bhainsay kaa jesay hi mailay gaa gi shaadi
+
+ID: 188
+ORIGINAL:   nai yar aise nahi sochtay himmat pakro allah behtar karega inshallah if you have any savings mein solar lagwane mein apko guide kar sakta hun its my field apka jo bhi bill hay wo atleast kam ho sakta hay if you can control your peak time usage agar net metering karwaein aur sahi size ka system to negative mein bhi chala jayga
+NORMALIZED: nahi yaar aise nahi sochay himmat pakro allah behtar karega inshallah if you have any savings mein solar lagwane mein apko guide kar sakta hun its my field apka jo bhi bill hay woh atleast kam ho sakta hay if you can control your peak time usage agar net metering karwaein aur sahi size ka system toh negative mein bhi chala jayga
+CHANGES:    nai→nahi, yar→yaar, sochtay→sochay, wo→woh, to→toh
+JUDGMENT:   FIX
+CORRECTED:  nahi yaar aise nahi sochtay himmat pakro allah behtar karega inshallah if you have any savings mein solar lagwane mein apko guide kar sakta hun its my field apka jo bhi bill hay woh atleast kam ho sakta hay if you can control your peak time usage agar net metering karwaein aur sahi size ka system toh negative mein bhi chala jayga
+
+ID: 189
+ORIGINAL:   gulistan johar me rangers ka chapa siyasi jamat zimedar samet afrad giriftar
+NORMALIZED: gulistan johar mein rangers ka chapal siyasat jamat zimedari samet afrad giriftar
+CHANGES:    me→mein, chapa→chapal, siyasi→siyasat, zimedar→zimedari
+JUDGMENT:   FIX
+CORRECTED:  gulistan johar mein rangers ka chapa siyasi jamat zimedar samet afrad giriftar
+
+ID: 190
+ORIGINAL:   bohot wakt hogaya hai ab isko istemal mein layen or payen muft
+NORMALIZED: bohot wakt hogaya hai ab isko istemal mein ayen aur ayen muft
+CHANGES:    layen→ayen, or→aur, payen→ayen
+JUDGMENT:   FIX
+CORRECTED:  bohot wakt hogaya hai ab isko istemal mein layen aur payen muft
+
+ID: 191
+ORIGINAL:   shaitaan ko marna chahiye tha mujhe kisi aur mai phass gaya
+NORMALIZED: shaitaan ko marna chahiye tha mujhe kisi aur main phas gaya
+CHANGES:    mai→main, phass→phas
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 192
+ORIGINAL:   daras nh dany par ap daras sunny to hain na
+NORMALIZED: daras nh dany par aap daras sunny toh hain na
+CHANGES:    ap→aap, to→toh
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 193
+ORIGINAL:   such mn boht acha set hy or jis ko playstore sy downloading ka msla raha wo mobile care center sy card sath ly ja kr software new krwa ly sb set ho jaye ga
+NORMALIZED: such mein bohat acha set hai aur jis ko playstore sy download ka msla raha woh mobile care center sy card saath ly ja kar software new krwa ly sab set ho jaye ga
+CHANGES:    mn→mein, boht→bohat, hy→hai, or→aur, downloading→download, wo→woh, sath→saath, kr→kar, sb→sab
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 194
+ORIGINAL:   pakistan ki team kay sat shazesh hai kay jis tarah book maker noot gintey huwa pakara gaya yey aik shazesh hai ok
+NORMALIZED: pakistan ki team kay saath shazesh hai kay jis tarah book maker noot gintey huwa pakar gaya yey aik shazesh hai ok
+CHANGES:    sat→saath, pakara→pakar
+JUDGMENT:   FIX
+CORRECTED:  pakistan ki team kay saath shazesh hai kay jis tarah book maker noot gintey huwa pakara gaya yey aik shazesh hai ok
+
+ID: 195
+ORIGINAL:   jo mn python ki wo yhan to show ni hori
+NORMALIZED: jo mein python ki woh yhan toh show nahi hori
+CHANGES:    mn→mein, wo→woh, to→toh, ni→nahi
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 196
+ORIGINAL:   mam misbah phr kion paish kr rhi thi ky wilayat hy
+NORMALIZED: mam misbah phir kion paish kar rahi thi ky wilayat hai
+CHANGES:    phr→phir, kr→kar, rhi→rahi, hy→hai
+JUDGMENT:   OK
+CORRECTED:  
+
+ID: 197
+ORIGINAL:   jahan burai hai wahan achai bhi hai aisa nahi hai ke puray mulk main hi gand aur burai bhari pari ho is quom aur duniya ki tamam ka masla sirf aik hai aur wo hai jahalat jis ka ilaaj sirf achi taleem aur tarbiyat hai jo ke mushkil bhi hai aur asaan bhi sirf niyat karny ki dair hai niyat agar bana len to achi taleem hasil bhi kar skty hain aur kisi ko dilwa bhi saktay hain technology main acha hona jahalat sy door nahi kar deta us sy jahalat khatam nahi ho jati jahalat aik bemari hai jisay deen saaf karta hai chahy koi bhi deen ho tamam deen allah ki taraf hi le jatay hain lakin logo ko aik deen main reh kar bhi allah sy larnay ke tarikay atay hain
+NORMALIZED: jahan burai hai wahan achai bhi hai aisa nahi hai ke puray mulk main hi gand aur burai bhari pari ho is quom aur duniya ki tamam ka masla sirf aik hai aur woh hai jahalat jis ka ilaaj sirf achi taleem aur tarbiyat hai jo ke mushkil bhi hai aur asaan bhi sirf niyat karny ki dair hai niyat agar bana len toh achi taleem hasil bhi kar skty hain aur kisi ko dilwa bhi saktay hain technology main acha hona jahalat sy door nahi kar deta us sy jahalat khatam nahi ho jati jahalat aik bemari hai jisay deen saaf karta hai chahya koi bhi deen ho tamam deen allah ki taraf hi le jatay hain lakin logo ko aik deen main reh kar bhi allah sy marnay ke tarikay atay hain
+CHANGES:    wo→woh, to→toh, chahy→chahya, larnay→marnay
+JUDGMENT:   FIX
+CORRECTED:  jahan burai hai wahan achai bhi hai aisa nahi hai ke puray mulk main hi gand aur burai bhari pari ho is quom aur duniya ki tamam ka masla sirf aik hai aur woh hai jahalat jis ka ilaaj sirf achi taleem aur tarbiyat hai jo ke mushkil bhi hai aur asaan bhi sirf niyat karny ki dair hai niyat agar bana len toh achi taleem hasil bhi kar skty hain aur kisi ko dilwa bhi saktay hain technology main acha hona jahalat sy door nahi kar deta us sy jahalat khatam nahi ho jati jahalat aik bemari hai jisay deen saaf karta hai chahy koi bhi deen ho tamam deen allah ki taraf hi le jatay hain lakin logo ko aik deen main reh kar bhi allah sy larnay ke tarikay atay hain
+
+ID: 198
+ORIGINAL:   yar test is basic year kay clear kro dogar ki book ati us sau wise krlo for go board ki walay qs and akhir mai watch one shots on yt ez
+NORMALIZED: yaar test is basic years kay clear karo dogar ki book ati us sau wise krlo for go board ki walay qs and akhir main watch one shots on yt ez
+CHANGES:    yar→yaar, year→years, kro→karo, mai→main
+JUDGMENT:   FIX
+CORRECTED:  yaar test is basic year kay clear karo dogar ki book ati us sau wise krlo for go board ki walay qs and akhir main watch one shots on yt ez
+
+ID: 199
+ORIGINAL:   is say pehlay log tumhen jootian mar nikalen behtari isi men hai team ki jan chor do paisy chahiye to batao ye
+NORMALIZED: is se pehle log tumhe jootian mar nikala behtar isi men hai team ki jan chor do paisy chahiye toh batao yeh
+CHANGES:    say→se, pehlay→pehle, tumhen→tumhe, nikalen→nikala, behtari→behtar, to→toh, ye→yeh
+JUDGMENT:   FIX
+CORRECTED:  is se pehle log tumhe jootian mar nikalen behtar isi men hai team ki jan chor do paisy chahiye toh batao yeh
+
+ID: 200
+ORIGINAL:   ya me free ho kr fresh mind se deekhta ho
+NORMALIZED: ya mein free ho kar fresh mind se deekh ho
+CHANGES:    me→mein, kr→kar, deekhta→deekh
+JUDGMENT:   FIX
+CORRECTED:  ya mein free ho kar fresh mind se deekhta ho
+

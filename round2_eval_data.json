@@ -1,0 +1,2789 @@
+[
+  {
+    "id": 1,
+    "original": "meri jaan ibrat ka hai ibrat hasil kerni chaye hai hum sub ko keh ghalat kaamo se dur raheyn",
+    "system_output": "meri jaan ibrat ka hai ibrat hasil kerni chahiye hai hum sab ko keh ghalat kaamo se dur rahey",
+    "changed": true,
+    "variants_detected": [
+      "chaye",
+      "sub",
+      "raheyn"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 2,
+    "original": "ye dramay hamary new generation ko khrab kernay ka ilawa kuch nahi ker rahay ye acha bhee ker saktay thay lakin",
+    "system_output": "yeh dramay hamary new generation ko khrab kernay ka ilawa kuch nahi ker rahay yeh acha bhee ker saktay thay lakin",
+    "changed": true,
+    "variants_detected": [
+      "ye",
+      "ye"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 3,
+    "original": "mujh sy baatain hoti to na kehti",
+    "system_output": "mujh sy batain hoti toh na kehti",
+    "changed": true,
+    "variants_detected": [
+      "baatain",
+      "to"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 4,
+    "original": "ne pory pakistanion ka sar sharm se jhuka dia hi ase ko ebrat bana dena chahye ta ke dobara ase koi himat na kar saky",
+    "system_output": "ne pory pakistanio ka sar sharam se jhuka dia hi ase ko ibrat bana dena chahiye ta ke dobara ase koi himat na kar saky",
+    "changed": true,
+    "variants_detected": [
+      "pakistanion",
+      "sharm",
+      "ebrat",
+      "chahye"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 5,
+    "original": "bharat me sab achha pagal tum konsa news channel dekh rhe ho chutiya ki bhi had hoti",
+    "system_output": "bharat mein sab acha pagal tum konsa arynews channel dekh rahe ho chutiya ki bhi had hoti",
+    "changed": true,
+    "variants_detected": [
+      "me",
+      "achha",
+      "rhe"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 6,
+    "original": "yahn anti ko tag krna chahye tha mje",
+    "system_output": "yahn anti ko tag karna chahiye tha mje",
+    "changed": true,
+    "variants_detected": [
+      "krna",
+      "chahye"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 7,
+    "original": "can you compare seats to other cars like maybe cross just the seat ik some cars offer better features but just se mere khyaal se dunia ki har gari ki seats achi hain drive it tou uske saath compare krna isnt helpful",
+    "system_output": "can you compare seats to other cars liked maybe cross just the seat ik some cars offer better features but just se mere khyaal se dunia ki har gari ki seats achi hain drive it tou uske saath compare karna isnt helpful",
+    "changed": true,
+    "variants_detected": [
+      "to",
+      "krna"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 8,
+    "original": "mujhay samjh nahi aata hai hum log in siyasat dano ko kion bura kehe rehe hain kia hamari memory itni short hai hum abhi dus saal pehle ki batain bhool gai hain yehi zardari tha na jo mr kehlata tha aur karachi ki adhi se zayda zameen par by hook or by crook qabza kar rakha tha aur yehi nawaz sharif tha na jisne supreme court par attack karwaya tha army chief ko qatal karwaya tha aur aik army chief ko resign karne par majboor kia tha aaj aik tu democracy ka bohat bara champion ban kar president ban gaya hai usne apni wife ki death card ko khela jab dosra aaj bohat bara insaaf adal aur sachai ka champion ban raha hai aur hum bewaqoofo ki tarah kabhi zardari ki side par chalay jatay hain tu kabhi nawaz ki koi hum se yeh pooche kia zardari leay larne se hum ko kuch mil jai ga woh tu kaal ko aram se apne surrey palace mae jaa kar rehe ga aur jab nawaz sharif long march chakar mae pata nahi kitne logo ko marwa de ga aur phir aram se jaa kar saudia mae apne palace mae rehe ga aur hum ko kia milay ga bacha pakistan jisko yeh dono parties kha kha kar khatam kar rahi hain yehi waqat hai hum sab ko is neend se jaag jana chaheay aur in dono parties aur inki shakhsi siyasat se jaan chaheay",
+    "system_output": "mujhay samjh nahi aata hai hum log in siyasat dano ko kion bura kehe rehe hain kya hamari memory itni short hai hum abhi dus saal pehle ki batain bhool gai hain yehi zardari tha na jo mr kehlata tha aur karachi ki adhi se zayda zameen par by hook aur by crook qabza kar rakha tha aur yehi nawaz sharif tha na jisne supreme court par attack karwaya tha army's chief ko qatal karwaya tha aur aik army's chief ko resign karne par majboor kya tha aaj aik tu democracy ka bohat bara champion ban kar president ban gaya hai usne apni wife ki death card ko khela jab dosra aaj bohat bara insaaf adal aur sachai ka champion ban raha hai aur hum bewaqoof ki tarah kabhi zardari ki side par chalay jatay hain tu kabhi nawaz ki koi hum se yeh pooche kya zardari leay larne se hum ko kuch mil jai ga woh tu kaal ko aram se apne surrey palace mae jaa kar rehe ga aur jab nawaz sharif long march chakar mae pata nahi kitne logo ko marwa de ga aur phir aram se jaa kar saudia mae apne palace mae rehe ga aur hum ko kya milay ga bacha pakistan jisko yeh dono parties kha kha kar khatam kar rahi hain yehi waqat hai hum sab ko is neend se jaag jana chahe aur in dono parties aur inki shakhs siyasat se jaan chahe",
+    "changed": true,
+    "variants_detected": [
+      "kia",
+      "or",
+      "kia",
+      "bewaqoofo",
+      "kia",
+      "kia",
+      "chaheay",
+      "shakhsi",
+      "chaheay"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 9,
+    "original": "brilliant story full movie daikhy bina nhe hota story ka",
+    "system_output": "brilliant story full movie daikha bina nahi hota story ka",
+    "changed": true,
+    "variants_detected": [
+      "daikhy",
+      "nhe"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 10,
+    "original": "and dodi se download karlo agar windows crack ko virus detect karay to actions mai jaa ke ignore kardo usko",
+    "system_output": "and dodi se download karlo agar windows crack ko virus detect karay toh actions main jaa ke ignore kardo usko",
+    "changed": true,
+    "variants_detected": [
+      "to",
+      "mai"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 11,
+    "original": "bhi me mami ky ghr raha ho",
+    "system_output": "bhi mein mami ky ghar raha ho",
+    "changed": true,
+    "variants_detected": [
+      "me",
+      "ghr"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 12,
+    "original": "hahaha jlsa khny hoti khna",
+    "system_output": "haha jlsa hny hoti hna",
+    "changed": true,
+    "variants_detected": [
+      "hahaha",
+      "khny",
+      "khna"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 13,
+    "original": "doston mere khayal se battery me ye no hai or kafii fast hai mere pas hai ram hai bht bht bht fast hai ye set bhut kamiyab hoga doston",
+    "system_output": "doston mere khayal se battery mein yeh no hai aur kafii fast hai mere pass hai ram hai bohat bohat bohat fast hai yeh set bhut kamiyab hoga doston",
+    "changed": true,
+    "variants_detected": [
+      "me",
+      "ye",
+      "or",
+      "pas",
+      "bht",
+      "bht",
+      "bht",
+      "ye"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 14,
+    "original": "ap parh nahi sakte to mera kia kasoor",
+    "system_output": "aap parh nahi sakte toh mera kya qasoor",
+    "changed": true,
+    "variants_detected": [
+      "ap",
+      "to",
+      "kia",
+      "kasoor"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 15,
+    "original": "you tube py us ny bola is mn time lgta hy",
+    "system_output": "you tube par us ny bola is mein time lagta hai",
+    "changed": true,
+    "variants_detected": [
+      "py",
+      "mn",
+      "lgta",
+      "hy"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 16,
+    "original": "yeah azadi march me chala jahan yeah sath per pher moulana sab chor chaly gye waqt agr faida hoga sirf or pmln moulana unki khatir kud qurban rahy just nro chaty choren apny case samna kren",
+    "system_output": "yeah azadi march mein chala jahan yeah saath per pher mulana sab chor chaly gye waqt agr faida hoga sirf aur pmln mulana unki khatir kud qurban rahy just nro chaty choren apne case samna kren",
+    "changed": true,
+    "variants_detected": [
+      "me",
+      "sath",
+      "moulana",
+      "or",
+      "moulana",
+      "apny"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 17,
+    "original": "main hindustani baloch hu mujhe pakistan ya balochistan se koi lena dena nhi salo se hindustan rh rhe",
+    "system_output": "main hindustani baloch hu mujhe pakistan ya balochistan se koi lena dena nahi salo se hindustan rh rahe",
+    "changed": true,
+    "variants_detected": [
+      "nhi",
+      "rhe"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 18,
+    "original": "hamare talba chutiyan kaise guzare mere khayal se unhe chution me koi course karna chaheye kyu ye un mustaqbil liye behter aur bohat acha hai",
+    "system_output": "hamare talba chutiya kaise guzar mere khayal se unhe chution mein koi course karna chahiye kyu yeh un mustaqbil liye behter aur bohat acha hai",
+    "changed": true,
+    "variants_detected": [
+      "chutiyan",
+      "guzare",
+      "me",
+      "chaheye",
+      "ye"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 19,
+    "original": "ye bhi technique ha",
+    "system_output": "yeh bhi technique hai",
+    "changed": true,
+    "variants_detected": [
+      "ye",
+      "ha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 20,
+    "original": "mtlb jo sochyn wo samny ajata kia",
+    "system_output": "matlab jo sochty woh samny ajata kya",
+    "changed": true,
+    "variants_detected": [
+      "mtlb",
+      "sochyn",
+      "wo",
+      "kia"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 21,
+    "original": "or pmln wajah sa ziada",
+    "system_output": "aur pmln wajah sa zyada",
+    "changed": true,
+    "variants_detected": [
+      "or",
+      "ziada"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 22,
+    "original": "narendra modi ka bharat kbse ho gya bhai ye srf apni duty kr rhe he is for civilians",
+    "system_output": "narendra modi ka bharat kbse ho gya bhai yeh sirf apni duty kar rahe he is for civilians",
+    "changed": true,
+    "variants_detected": [
+      "ye",
+      "srf",
+      "kr",
+      "rhe"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 23,
+    "original": "har mahiney ki musibat ha",
+    "system_output": "har mahine ki musibat hai",
+    "changed": true,
+    "variants_detected": [
+      "mahiney",
+      "ha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 24,
+    "original": "phr pta chly ga iska",
+    "system_output": "phir pata chly ga iska",
+    "changed": true,
+    "variants_detected": [
+      "phr",
+      "pta"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 25,
+    "original": "lak lanat iqrar ul hassan py aur arynews py sindh py qabza kiya hua hai najaiz pakistan naam pr",
+    "system_output": "lak lanat iqrar ul hassan par aur arynews par sindh par qabza kiya hua hai najaiz pakistan naam pr",
+    "changed": true,
+    "variants_detected": [
+      "py",
+      "py",
+      "py"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 26,
+    "original": "possible nhi hy exercise ky bad drd bohot hota is waja sy sota ho wrna me kaha sony wala agr me exercise na kro ghr me ami or baji hoty sirf sab kam py hoty abu wo bhr nikl jata",
+    "system_output": "possible nahi hai exercise ky bad drd bohot hota is waja sy sota ho warna mein kaha sony wala agr mein exercise na karo ghar mein ami aur baji hote sirf sab kam par hote abu woh bhr nikl jata",
+    "changed": true,
+    "variants_detected": [
+      "nhi",
+      "hy",
+      "wrna",
+      "me",
+      "me",
+      "kro",
+      "ghr",
+      "me",
+      "or",
+      "hoty",
+      "py",
+      "hoty",
+      "wo"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 27,
+    "original": "wo apne fashion sense ke bare mein kia kehte hain aaye jante hain",
+    "system_output": "woh apne fashion sense ke bare mein kya kehte hain aaye jante hain",
+    "changed": true,
+    "variants_detected": [
+      "wo",
+      "kia"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 28,
+    "original": "kl ana to ha uni",
+    "system_output": "kal aana toh hai uni",
+    "changed": true,
+    "variants_detected": [
+      "kl",
+      "ana",
+      "to",
+      "ha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 29,
+    "original": "bht dino bad aaye kch khas song ni phle wali bat ni ab honey singh me",
+    "system_output": "bohat dino bad aaye kuch khas song nahi pehle wali baat nahi ab honey singh mein",
+    "changed": true,
+    "variants_detected": [
+      "bht",
+      "kch",
+      "ni",
+      "phle",
+      "bat",
+      "ni",
+      "me"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 30,
+    "original": "pdm walo sirf pmln wali anp jui wali be istefeh karo pdm walo time nhe karo istefeh kah hokmat per dobara election karwa ly",
+    "system_output": "pdm walo sirf pmln wali anp jui wali be istefa karo pdm walo time nahi karo istefa kah hokmat per dobara election karwa ly",
+    "changed": true,
+    "variants_detected": [
+      "istefeh",
+      "nhe",
+      "istefeh"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 31,
+    "original": "us ko kisi paagal kuttey nay kaata hoga jo people party ko vote dega yeh bhutto ki party naheen hay yeh zardari leage hay",
+    "system_output": "us ko kisi paagal kuttay nay kaata hoga jo people party ko vote dega yeh bhutto ki party nahee hay yeh zardari leage hay",
+    "changed": true,
+    "variants_detected": [
+      "kuttey",
+      "naheen"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 32,
+    "original": "unki age keya thi aur ye kese hua unhe marwaya to nehi geya ye gandi ganji family is had tek bhi ja sakti hae",
+    "system_output": "unki age keya thi aur yeh kese hua unhe marwaya toh nahi geya yeh gandi ganji family is had tek bhi ja sakti hai",
+    "changed": true,
+    "variants_detected": [
+      "ye",
+      "to",
+      "nehi",
+      "ye",
+      "hae"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 33,
+    "original": "rona nai ache bache nai rote",
+    "system_output": "rona nahi ache bache nahi rote",
+    "changed": true,
+    "variants_detected": [
+      "nai",
+      "nai"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 34,
+    "original": "wo kehti summer vacations mn gi ab tk mujy hi krna prna",
+    "system_output": "woh kehti summer vacations mein gi ab tk mujy hi karna prna",
+    "changed": true,
+    "variants_detected": [
+      "wo",
+      "mn",
+      "krna"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 35,
+    "original": "salam araz hai ke board ka faisala bilkul sahi hai younas khan aik acha player hai ur us say achi performence ki hay ajj tak us nay achi performence de hai ur agay achi day ga ajj kal wahi aik acha player hai jo is team ko control kar sakta hai is ley is ko kam az kam sal ley captan rehna chahey",
+    "system_output": "salam araz hai ke board ka faisal bilkul sahi hai younus khan aik acha player hai ur us se achi performances ki hay ajj tak us nay achi performances de hai ur agay achi day ga ajj kal wahi aik acha player hai jo is team ko control kar sakta hai is ley is ko kam az kam sal ley capt rehna chahe",
+    "changed": true,
+    "variants_detected": [
+      "faisala",
+      "younas",
+      "say",
+      "performence",
+      "performence",
+      "captan",
+      "chahey"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 36,
+    "original": "sony pahly molk doshman or gadar pr lanat allah krain",
+    "system_output": "sony pahly molk doshman aur ghaddar pr lanat allah krain",
+    "changed": true,
+    "variants_detected": [
+      "or",
+      "gadar"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 37,
+    "original": "hakoomat ne saal main saabiqa hakoomat ko or bijli mehngi karny ke siwa kuch nahi kya rental bijli se jo kom ka qeemti paisa kharach ho ga ab to bacha bacha jaanta hay is se kam az kam chand afraad ko to bahut faida ho ga mulk ki khair hay ab andaaza ho raha hay yeh daan kyun mulk main kala bagh dam ke kion mukhalif hain ab andaaza hua ke wazir bijli ne kion parliment main karay bagheir kala bagh dam ka mansooba khatam or ab rental power supply mansooba bhi parliment se baala hi baala kion start karwa dia zahir hay arb ka kharcha to mulk ka hoga na awam ke saamny soorat haal clear tar hoti ja rahi hay aakhir hum mulk ka kion nahi sochty or sirf apna faida waaly doob ke kion nahi marty",
+    "system_output": "hakomat ne saal main saabiqa hakomat ko aur bijli mehngai karny ke siwa kuch nahi kya rental bijli se jo kom ka qeemti paisa kharach ho ga ab toh bacha bacha jaanta hay is se kam az kam chand afraad ko toh bahut faida ho ga mulk ki khair hay ab andaza ho raha hay yeh daan kyun mulk main kala bagh dam ke kion mukhalif hain ab andaza hua ke wazir bijli ne kion parliment main karay bagher kala bagh dam ka mansooba khatam aur ab rental power supply mansooba bhi parliment se paala hi paala kion start karwa dia zahir hay arb ka kharch toh mulk ka hoga na awam ke saamny soorat haal clear tar hoti ja rahi hay aakhir hum mulk ka kion nahi sochty aur sirf apna faida waale doob ke kion nahi marty",
+    "changed": true,
+    "variants_detected": [
+      "hakoomat",
+      "hakoomat",
+      "or",
+      "mehngi",
+      "to",
+      "to",
+      "andaaza",
+      "andaaza",
+      "bagheir",
+      "or",
+      "baala",
+      "baala",
+      "kharcha",
+      "to",
+      "or",
+      "waaly"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 38,
+    "original": "khan sahb ap mere leader hai lekin ap real tabdeeli lye jis ki ap bat krty kpk me",
+    "system_output": "khan sahb aap mere leader hai lekin aap real tabdeeli lye jis ki aap baat krty kpk mein",
+    "changed": true,
+    "variants_detected": [
+      "ap",
+      "ap",
+      "ap",
+      "bat",
+      "me"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 39,
+    "original": "job applications ke liye ats-friendly aur resume design karna selection chances improve karta hai",
+    "system_output": "job vacations ke liye eco-friendly aur resume design karna selection chances improve karta hai",
+    "changed": true,
+    "variants_detected": [
+      "applications",
+      "ats-friendly"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 40,
+    "original": "is tarah helen keller ki zindagi mein taleem ka aghaz howa aur baad mein wo mukhtalif marahil te kar ke aik shandar bani",
+    "system_output": "is tarah helen keller ki zindagi mein taleem ka aaghaz howa aur baad mein woh mukhtalif marahil te kar ke aik shandar bani",
+    "changed": true,
+    "variants_detected": [
+      "aghaz",
+      "wo"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 41,
+    "original": "yra mairay pass aik shakal ha me dsri ni bna skta",
+    "system_output": "yra mairay pass aik shakal hai mein dsri nahi bna skta",
+    "changed": true,
+    "variants_detected": [
+      "ha",
+      "me",
+      "ni"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 42,
+    "original": "jis trhan ne sbr or bardsht se kaam lia or aj usy bht acha sila mil raha bht achay se reh rahe sb",
+    "system_output": "jis trha ne sbr aur bardsht se kaam lia aur aaj usy bohat acha sila mil raha bohat achay se reh rahe sab",
+    "changed": true,
+    "variants_detected": [
+      "trhan",
+      "or",
+      "or",
+      "aj",
+      "bht",
+      "bht",
+      "sb"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 43,
+    "original": "sir ab ap be araz suno imran khan ko kasa bana wapda wala na ma ka apply karna para kia bat ha cheef gujranwala or ke sir plz take action against",
+    "system_output": "sir ab aap be araz suno imran khan ko kasa bana wapda wala na ma ka apply karna para kya baat hai cheef gujranwala aur ke sir plz take action against",
+    "changed": true,
+    "variants_detected": [
+      "ap",
+      "kia",
+      "bat",
+      "ha",
+      "or"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 44,
+    "original": "waqat sy pehly kia kaha ja skta",
+    "system_output": "waqat sy pehle kya kaha ja skta",
+    "changed": true,
+    "variants_detected": [
+      "pehly",
+      "kia"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 45,
+    "original": "wo tamam umar adbi ka rona rota raha magar us ka koi pursan hal na tha",
+    "system_output": "woh tamam umar adbi ka rona rota raha magar us ka koi pursane hal na tha",
+    "changed": true,
+    "variants_detected": [
+      "wo",
+      "pursan"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 46,
+    "original": "nawaz mulk mukhalif or fauj mukhalif taqareer bad pmln workers apni party khilaf kia or party chor di",
+    "system_output": "nawaz mulk mukhalif aur fauj mukhalif taqareer bad pmln workers apni party khilaf kya aur party chor di",
+    "changed": true,
+    "variants_detected": [
+      "or",
+      "kia",
+      "or"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 47,
+    "original": "yeh sab jhoot ha kohi khelari nhi kar shakta sub bukwas players han",
+    "system_output": "yeh sab jhoot hai kohi khelari nahi kar shakta sab bakwas players han",
+    "changed": true,
+    "variants_detected": [
+      "ha",
+      "nhi",
+      "sub",
+      "bukwas"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 48,
+    "original": "bilawal sb agar dosray provinces se pehlay humaray sindh ye waba khatam ho jati hy to yaqeen janiye pakistan super hero ban walay allah hum sb ko is waba se ameen",
+    "system_output": "bilawal sab agar dosray provinces se pehle humaray sindh yeh waba khatam ho jati hai toh yaqeen maniye pakistan super hero ban walay allah hum sab ko is waba se ameen",
+    "changed": true,
+    "variants_detected": [
+      "sb",
+      "pehlay",
+      "ye",
+      "hy",
+      "to",
+      "janiye",
+      "sb"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 49,
+    "original": "aee or baki jin name ni likh sky pr lakh di lanat",
+    "system_output": "aee aur baki jin name nahi likh sky pr lakh di lanat",
+    "changed": true,
+    "variants_detected": [
+      "or",
+      "ni"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 50,
+    "original": "carryminati ki maa pe gaya voh tune voh bjp leader chhat se kuda uski gf ki chhat se usme tune hindu sher boy ki behen aisa kiya ki hindu aurtein aisa karti hain",
+    "system_output": "carryminati ki maa pe gaya woh tune woh bjp leader chhat se huda uski gf ki chhat se usme tune hindu sher boy ki behen aisa kiya ki hindu aurtein aisa karti hain",
+    "changed": true,
+    "variants_detected": [
+      "voh",
+      "voh",
+      "kuda"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 51,
+    "original": "police waley haram agr family sath houn to nhi hain yar",
+    "system_output": "police waley haram agr family saath houn toh nahi hain yaar",
+    "changed": true,
+    "variants_detected": [
+      "sath",
+      "to",
+      "nhi",
+      "yar"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 52,
+    "original": "taleem say farig honay kay baad khandan kay degar naujawano ki tara app bhi khandani karobar say ho gaye aur mutadid company kay managing director aur director rahay",
+    "system_output": "taleem se farigh honay kay baad khandan kay degar naujawan ki tara app bhi khandan karobar se ho gaye aur mutadid company kay managing director aur director rahay",
+    "changed": true,
+    "variants_detected": [
+      "say",
+      "farig",
+      "naujawano",
+      "khandani",
+      "say"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 53,
+    "original": "is drama ko fazool me tool dia howa kia ye khula tazad nahi hahahah",
+    "system_output": "is drama ko fazool mein tool dia howa kya yeh khula tazad nahi haha",
+    "changed": true,
+    "variants_detected": [
+      "me",
+      "kia",
+      "ye",
+      "hahahah"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 54,
+    "original": "very nice allah ap ko jaza dain ilam ki very much app nay jasy apna name likha hai wasa bana na",
+    "system_output": "very nice allah aap ko jazakallah dain ilam ki very much app nay jasy apna name likha hai wasa bana na",
+    "changed": true,
+    "variants_detected": [
+      "ap",
+      "jaza"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 55,
+    "original": "bv ka tu khayal nhi kia or ne dosri shadi kr li ghar orton ki bri hai is ko bv ko khush rakhna tha na",
+    "system_output": "bv ka tu khayal nahi kya aur ne dosri shadi kar li ghar aurton ki bri hai is ko bv ko khush rakhna tha na",
+    "changed": true,
+    "variants_detected": [
+      "nhi",
+      "kia",
+      "or",
+      "kr",
+      "orton"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 56,
+    "original": "rite janab koi kahay go amir go kch nai hoga bec tumhari paisay ki to value hai nai hmm tm na mai ho na main aur jatay jatay es actor ko yaad aya kay ye england walay altaf bhai ka chota bhai hai ok wo mahaan actor hai to ye cheapster kam nai to chalo acting hi sahi tm ye bakwas yahan lhr gujranwala kro aa kay tmhay yahan kay hi noch kay wah khi kay log to indianz ko dekh lo waisay hi hain same to same aur anday tamatar tum nay boht sb jantay hain ab tum ye dosroon py rayee ho wah wah puranay zamany kay ganday anday ka zikr hahah es nay khud ka must zikr krna hi hota khan yahudi agent aur usi jaisay tm ok",
+    "system_output": "rite janab koi kahay go amir go kuch nahi hoga bec tumhari paisay ki toh value hai nahi hmm tum na main ho na main aur jatay jatay es actor ko yaad aya kay yeh england walay altaf bhai ka chota bhai hai ok woh mahana actor hai toh yeh cheapster kam nahi toh chalo acting hi sahi tum yeh bakwas yahan lhr gujranwala karo aa kay tmhay yahan kay hi noch kay wah khi kay log toh indians ko dekh lo waisay hi hain same toh same aur banday tamatar tum nay bohat sab jantay hain ab tum yeh dosroon par ayee ho wah wah puranay zamany kay banday banday ka zikr haha es nay khud ka must zikr karna hi hota khan yahoodi agent aur usi jaisay tum ok",
+    "changed": true,
+    "variants_detected": [
+      "kch",
+      "nai",
+      "to",
+      "nai",
+      "tm",
+      "mai",
+      "ye",
+      "wo",
+      "mahaan",
+      "to",
+      "ye",
+      "nai",
+      "to",
+      "tm",
+      "ye",
+      "kro",
+      "to",
+      "indianz",
+      "to",
+      "anday",
+      "boht",
+      "sb",
+      "ye",
+      "py",
+      "rayee",
+      "ganday",
+      "anday",
+      "hahah",
+      "krna",
+      "yahudi",
+      "tm"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 57,
+    "original": "agr match ki baat hia to match hona hia larna ni hia",
+    "system_output": "agr match ki baat hia toh match hona hia larna nahi hia",
+    "changed": true,
+    "variants_detected": [
+      "to",
+      "ni"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 58,
+    "original": "agr mulzim mulk bahir faraar phir kiaa kiya jaye think smjh hngi ke baat hn know pmln supporter hn chahta hn mera leader yahan sub face kre shahbaz sharief chori kee sub yahan btaye",
+    "system_output": "agr mulzim mulk bahir faraar phir kiaa kiya jaye think samajh hngi ke baat hn know pmln supporter hn chahta hn mera leader yahan sab face kre shahbaz sharif chori kee sab yahan btaye",
+    "changed": true,
+    "variants_detected": [
+      "smjh",
+      "sub",
+      "sharief",
+      "sub"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 59,
+    "original": "mene giggle deekha ap ny bataya nhi remind me to movie deekha tha pata ni chala",
+    "system_output": "mene giggle deekh aap ny bataya nahi remind mein toh movie deekh tha pata nahi chala",
+    "changed": true,
+    "variants_detected": [
+      "deekha",
+      "ap",
+      "nhi",
+      "me",
+      "to",
+      "deekha",
+      "ni"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 60,
+    "original": "umda nice recipe meri ammi ko already boht ache aate hain ab mai bhi cooking seekh hon or different websites pe recipes check karti rehti hon",
+    "system_output": "umda nice recipe meri ammi ko already bohat ache aate hain ab main bhi cooking seekh hon aur different website pe recipes check karti rehti hon",
+    "changed": true,
+    "variants_detected": [
+      "boht",
+      "mai",
+      "or",
+      "websites"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 61,
+    "original": "ye tou aj se he chal gai hn",
+    "system_output": "yeh tou aaj se he chal gai hn",
+    "changed": true,
+    "variants_detected": [
+      "ye",
+      "aj"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 62,
+    "original": "me bi app ke sat sare aam me kam krna cahta hu",
+    "system_output": "mein bhi app ke saath sare aam mein kam karna kahta hu",
+    "changed": true,
+    "variants_detected": [
+      "me",
+      "bi",
+      "sat",
+      "me",
+      "krna",
+      "cahta"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 63,
+    "original": "ye ducky bhai roasting start kerdo aj itne dair baad thora sa maza aya hai",
+    "system_output": "yeh ducky bhai roasting start kerdiya aaj itne dair baad thora sa maza aya hai",
+    "changed": true,
+    "variants_detected": [
+      "ye",
+      "kerdo",
+      "aj"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 64,
+    "original": "ghulam fareed jab tak maray gaa nahin tab tak kameeni hi kerta rahega",
+    "system_output": "ghulam fareeda jab tak maray gaa nahi tab tak kameeni hi kerta rahega",
+    "changed": true,
+    "variants_detected": [
+      "fareed",
+      "nahin"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 65,
+    "original": "chutti say behtr hy schools may bacho ko allama iqbal jaisa soch dena chahey",
+    "system_output": "chutti se behtr hai schools may bacho ko allama iqbal jaisa soch dena chahe",
+    "changed": true,
+    "variants_detected": [
+      "say",
+      "hy",
+      "chahey"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 66,
+    "original": "agar ap muslem hyn to ap ko khud pata ho ga kahan ghar muslim mazaq hi gy in ki samj sy",
+    "system_output": "agar aap muslimano hyn toh aap ko khud pata ho ga kahan ghar muslim mazaq hi gy in ki samj sy",
+    "changed": true,
+    "variants_detected": [
+      "ap",
+      "muslem",
+      "to",
+      "ap"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 67,
+    "original": "nihayat hi afsos sath kehna parta hai ye article py hai hi nhn sara mara hai online store",
+    "system_output": "nihayat hi afsos saath kehna parta hai yeh article par hai hi nhn sara mara hai online store",
+    "changed": true,
+    "variants_detected": [
+      "sath",
+      "ye",
+      "py"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 68,
+    "original": "bakwas over acting nida ki koi bhi nhi krta ub tu asa shadi bad jb maa bap no pta chaly ga tu kya maa bap khush rahen gy bewaqof ye lag hi nahi raha ke ye pakistani drama hay what bakwass drama",
+    "system_output": "bakwas over acting nida ki koi bhi nahi krta ub tu asa shadi bad jb maa bap no pata chaly ga tu kya maa bap khush rahen gy bewaqoof yeh lag hi nahi raha ke yeh pakistani drama hay what bakwas drama",
+    "changed": true,
+    "variants_detected": [
+      "nhi",
+      "pta",
+      "bewaqof",
+      "ye",
+      "ye",
+      "bakwass"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 69,
+    "original": "agr aroob muja to ma smj jaoo ga",
+    "system_output": "agr aroob muja toh ma smjh jaoo ga",
+    "changed": true,
+    "variants_detected": [
+      "to",
+      "smj"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 70,
+    "original": "isne challenge dia ha video me me apni sari videos delete kr dn ga agr btc tk gya chala",
+    "system_output": "kisne challenge dia hai video mein mein apni sari videos delete kar dn ga agr btc tk gya chala",
+    "changed": true,
+    "variants_detected": [
+      "isne",
+      "ha",
+      "me",
+      "me",
+      "kr"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 71,
+    "original": "lala hum afridians ap se naraz aj se lala aj hi dharna dene",
+    "system_output": "lala hum afridians aap se naraz aaj se lala aaj hi dharna dene",
+    "changed": true,
+    "variants_detected": [
+      "ap",
+      "aj",
+      "aj"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 72,
+    "original": "kya bolna chahte ho bhai kya better kardiya unhone",
+    "system_output": "kya bolna chahta ho bhai kya better kardiya unhon",
+    "changed": true,
+    "variants_detected": [
+      "chahte",
+      "unhone"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 73,
+    "original": "model mn whi ha to whi ay ga",
+    "system_output": "model mein whi hai toh whi ay ga",
+    "changed": true,
+    "variants_detected": [
+      "mn",
+      "ha",
+      "to"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 74,
+    "original": "ye drama mirza azeem baig ke novel shehzori per banaya gaya hai ka haseena moin ka likha black and white drama shehzori bhi isi novel per base kerta hai magar dono dramon kay mayaar main zameen aasman kaa farq hai kahan moin kaa likha hua script wala shehzori aur neelofer abbasi shakeel mehmood ali arsh muneer waghera ki excellent acting aur kahan ye kamzor tareen bekaar script wala jugnoo aur yumna zaidi zahid ahmed rehan sheikh ismat zaidi waghera ki aam si acting sach hai naqal ke liye aqal ki zaroorat hai agar haseena moin kay likhay huye script ko hee istemaal ker letay to shayad kuchh behter results hotay purana drama shehzori drama jugnoo",
+    "system_output": "yeh drama mirza azeem baig ke novel shehzori per banaya gaya hai ka haseena moin ka likha black and white drama shehzori bhi isi novel per base kerta hai magar dono dramon kay mayaar main zameen aasman kaa farq hai kahan moin kaa likha hua script wala shehzori aur neelofer abbasi shakeel mehmood ali arsh muneer waghera ki excellent acting aur kahan yeh kamzor tareen bekaar script wala jugno aur yumna zaidi zahid ahmed rehan sheikh qismat zaidi waghera ki aam si acting sach hai naqal ke liye aqal ki zaroorat hai agar haseena moin kay likhay huye script ko hee istemal ker letay toh shayad kuchh behter results hotay purana drama shehzori drama jugno",
+    "changed": true,
+    "variants_detected": [
+      "ye",
+      "ye",
+      "jugnoo",
+      "ismat",
+      "istemaal",
+      "to",
+      "jugnoo"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 75,
+    "original": "in ki guftugu mein maeyne aur ka ansar numayan hota tha",
+    "system_output": "in ki guftugo mein maeyno aur ka ansar numayan hota tha",
+    "changed": true,
+    "variants_detected": [
+      "guftugu",
+      "maeyne"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 76,
+    "original": "esy kia kro",
+    "system_output": "esy kya karo",
+    "changed": true,
+    "variants_detected": [
+      "kia",
+      "kro"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 77,
+    "original": "kya khyal ha phr",
+    "system_output": "kya khyal hai phir",
+    "changed": true,
+    "variants_detected": [
+      "ha",
+      "phr"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 78,
+    "original": "im also confused by ur reply lekan confusion hi sahi mere saat larne ki zaroorat nhi hai mai bhi pakistani hi hun beta",
+    "system_output": "im also confused by ur reply lekan confusion hi sahi mere saat larne ki zaroorat nahi hai main bhi pakistani hi hun beta",
+    "changed": true,
+    "variants_detected": [
+      "nhi",
+      "mai"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 79,
+    "original": "rafeeq peer theater ke leye un ke gaye howae naghme aaj bhi mashor hain",
+    "system_output": "rafeeq peer theater ke leye un ke gaye howae nagma aaj bhi mashoor hain",
+    "changed": true,
+    "variants_detected": [
+      "naghme",
+      "mashor"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 80,
+    "original": "mujhay ye baat samajh main nahi aaye kay abdul samad ne zain per qatilana hamla kyun kiya zain ko maarnay kaa naa koi faida thaa naa koi tuk banti thi daniya kaa aik lafangay bunty ko apnay gher lana uss say mohabbat kerna aur uss per daulat luta ker ye soch lena kay wo bunty bhi daniya se mohabbat kernay lagay gaa aik ahmaqana soch thi ye baat kaafi un natural bhi thi kyunkay daniya kisi bhi perhay likhay apni umer kay sharif gharanay kay aadmi se shaadi ker sakti thi aik lafangay per mer kay bajaye bunty beenish ki mohabbat bhi kaafi artificial si hai qutub ko kabhi bohot pur israr bana detay hain kabhi aik bilkul aam sa nauker lagta hai kay writer sahab confuse hogaye hain ab kay kahani ko agay kesay hai",
+    "system_output": "mujhay yeh baat samajh main nahi aaye kay abdul samad ne zain per qatilana hamla kyun kiya zain ko marnay kaa naa koi faida thaa naa koi tuk banti thi daniyal kaa aik lafangay bunty ko apnay gher lana uss se mohabbat kerna aur uss per daulat luta ker yeh soch lena kay woh bunty bhi daniyal se mohabbat kernay lagay gaa aik ahmaq soch thi yeh baat kaafi un natural bhi thi kyunkay daniyal kisi bhi perhay likhay apni umer kay sharif gharanay kay aadmi se shaadi ker sakti thi aik lafangay per mer kay bajaye bunty beenish ki mohabbat bhi kaafi artificial si hai qutub ko kabhi bohot pur israr bana detay hain kabhi aik bilkul aam sa nauker lagta hai kay writer sahab confuse hogaya hain ab kay kahani ko agay kesay hai",
+    "changed": true,
+    "variants_detected": [
+      "ye",
+      "maarnay",
+      "daniya",
+      "say",
+      "ye",
+      "wo",
+      "daniya",
+      "ahmaqana",
+      "ye",
+      "daniya",
+      "hogaye"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 81,
+    "original": "jo jo shamil on sb py beshumar",
+    "system_output": "jo jo shamil on sab par shumar",
+    "changed": true,
+    "variants_detected": [
+      "sb",
+      "py",
+      "beshumar"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 82,
+    "original": "is mulk ko taraqi dyna wala aur wala aik he leader ha nawaz shareef",
+    "system_output": "is mulk ko taraqi dyna wala aur wala aik he leader hai nawaz sharif",
+    "changed": true,
+    "variants_detected": [
+      "ha",
+      "shareef"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 83,
+    "original": "or mein ne chat gpt se complete krwaya hy",
+    "system_output": "aur mein ne chat gpt se complete krwaya hai",
+    "changed": true,
+    "variants_detected": [
+      "or",
+      "hy"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 84,
+    "original": "agr goal mbbs krna hai to gap se koi farq nai prta at the end wo apni desired field me hon gi wahan sb attempt walay nai hon gy baqi mujhy nai lga environment science ka koi scope hai",
+    "system_output": "agr goal mbbs karna hai toh gap se koi farq nahi prta at the end woh apni desired field mein hon gi wahan sab attempt walay nahi hon gy baqi mujhy nahi lga environment science ka koi scope hai",
+    "changed": true,
+    "variants_detected": [
+      "krna",
+      "to",
+      "nai",
+      "wo",
+      "me",
+      "sb",
+      "nai",
+      "nai"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 85,
+    "original": "aoa bht acha set hai yr camera ala hain front back front to bht ala hai or battery achi hai",
+    "system_output": "aoa bohat acha set hai yr camera ala hain front back front toh bohat ala hai aur battery achi hai",
+    "changed": true,
+    "variants_detected": [
+      "bht",
+      "to",
+      "bht",
+      "or"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 86,
+    "original": "it took me an hour to realize that this jihaad debate on zee news is real not just an early promotion of tiger zinda hai sequel anyways",
+    "system_output": "it took me an hours to realize that this nihaad debate on zee arynews is real not just an early promotion of tiger zinda hai sequel anyways",
+    "changed": true,
+    "variants_detected": [
+      "me",
+      "to",
+      "jihaad"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 87,
+    "original": "yar itna ghatia set hy is main msg liye folder he nhe hy na sent item na draft ghatia hy wesay paisay zaia kiye hain",
+    "system_output": "yaar itna ghatiya set hai is main msg liye folder he nahi hai na sent item na draft ghatiya hai wesay paisay zaia kiye hain",
+    "changed": true,
+    "variants_detected": [
+      "yar",
+      "ghatia",
+      "hy",
+      "nhe",
+      "hy",
+      "ghatia",
+      "hy"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 88,
+    "original": "sell kryn buy krta phr ap buy kryn ktna pump jata chl kryn",
+    "system_output": "sell kryn buy krta phir aap buy kryn ktna pump jata chl kryn",
+    "changed": true,
+    "variants_detected": [
+      "phr",
+      "ap"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 89,
+    "original": "log kafi ha is issue sey",
+    "system_output": "log kafi hai is issue se",
+    "changed": true,
+    "variants_detected": [
+      "ha",
+      "sey"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 90,
+    "original": "respected sahiba ap ishary lakhon workers jan deny tyar apki traf koy ankh dekhy or jis abuse kiya abuse unki bebasi sabit krti khud akela mat allah mdad or awam taqat ap sath ha",
+    "system_output": "respected sahiba aap ishary lakhon workers jan deny tyar apki traf koy ankh dekhy aur jis abuse kiya abuse unki bebas sabit krti khud akela mat allah imdad aur awam taqat aap saath hai",
+    "changed": true,
+    "variants_detected": [
+      "ap",
+      "or",
+      "bebasi",
+      "mdad",
+      "or",
+      "ap",
+      "sath",
+      "ha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 91,
+    "original": "hope got what was trying to otherwise yeah qayamat bhi aa skti hai shadi ka sochne ki zarurat hi nai",
+    "system_output": "hope got what was trying toh otherwise yeah qayamat bhi aa skti hai shadi ka sochna ki zaroorat hi nahi",
+    "changed": true,
+    "variants_detected": [
+      "to",
+      "sochne",
+      "zarurat",
+      "nai"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 92,
+    "original": "javeria ka munh bilkul football ki tarah lag raha hai abaya main hahaha",
+    "system_output": "javeria ka munh bilkul football ki tarah lag raha hai baya main haha",
+    "changed": true,
+    "variants_detected": [
+      "abaya",
+      "hahaha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 93,
+    "original": "ganji haseena wudood ki baton kay baghair maza nahin araha sajal ali ko wapis le ana chahiye aur wudood ko theek ker dena chahiye kyunkay wo sajal ko bohot pasand kerta tha aur uss se shaadi kerna chahta tha",
+    "system_output": "ganji haseena wudood ki baton kay baghair maza nahi araha sajal ali ko wapis le aana chahiye aur wudood ko theek ker dena chahiye kyunkay woh sajal ko bohot pasand kerta tha aur uss se shaadi kerna chahta tha",
+    "changed": true,
+    "variants_detected": [
+      "nahin",
+      "ana",
+      "wo"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 94,
+    "original": "hud gar bag jis month bad peda mou esi bat zeb nhi deti",
+    "system_output": "hud gar bag jis month bad peda mou esi baat zeb nahi deti",
+    "changed": true,
+    "variants_detected": [
+      "bat",
+      "nhi"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 95,
+    "original": "hamary dramas mein love stories aur gharelo ilava ha hi kya mein se drama different hota ha",
+    "system_output": "hamary dramas mein love stories aur gharelo ilava hai hi kya mein se drama different hota hai",
+    "changed": true,
+    "variants_detected": [
+      "ha",
+      "ha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 96,
+    "original": "main ny aj tk kabhe pakistani drama serial dekhe hi nhe hai aur muje is drama serial kisi artist ka nam bhe nhe pata lekin bas achanak par yeh drama serial dekha bhut acha laga ab main daily yeh drama serial dekh raha hn raju hina bhut acha kam kiya hai ap donoo ny hats off to aur han madam kahan hai un ko wapas drama serial hum miss kar rahe hain unhein",
+    "system_output": "main ny aaj tk kabhe pakistani drama serial dekhe hi nahi hai aur muje is drama serial kisi artist ka nam bhe nahi pata lekin bas achanak par yeh drama serial dekha bhut acha laga ab main daily yeh drama serial dekh raha hn raju hina bhut acha kam kiya hai aap donoo ny hats off toh aur han madam kahan hai un ko wapas drama serial hum miss kar rahe hain unhein",
+    "changed": true,
+    "variants_detected": [
+      "aj",
+      "nhe",
+      "nhe",
+      "ap",
+      "to"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 97,
+    "original": "chlo dekhty next kia bnta ha mery log bethy fateh pur sath gaon ha khud pmln supporter sahib ada fazul hasan group",
+    "system_output": "chalo dekhty next kya bnta hai mery log bethy fateh pur saath gaon hai khud pmln supporter sahib ada fazul hasan group",
+    "changed": true,
+    "variants_detected": [
+      "chlo",
+      "kia",
+      "ha",
+      "sath",
+      "ha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 98,
+    "original": "si taleem ke bad khandani dastor ke mutabiq mosiqi ki taleem hasil karna shuru ki",
+    "system_output": "si taleem ke bad khandan dastoor ke mutabiq mosiqi ki taleem hasil karna shuru ki",
+    "changed": true,
+    "variants_detected": [
+      "khandani",
+      "dastor"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 99,
+    "original": "kya chal raha yar ek topic pe discussion karo min later ek naya start hahaha",
+    "system_output": "kya chal raha yaar ek topic pe discussion karo min later ek naya start haha",
+    "changed": true,
+    "variants_detected": [
+      "yar",
+      "hahaha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 100,
+    "original": "be sakhta aanso nekal pary tera haal pochty pochty",
+    "system_output": "be sakhta aanso nekal pary tera haal pochy pochy",
+    "changed": true,
+    "variants_detected": [
+      "pochty",
+      "pochty"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 101,
+    "original": "such me wo log sirf kaha karte the",
+    "system_output": "such mein woh log sirf kaha karte the",
+    "changed": true,
+    "variants_detected": [
+      "me",
+      "wo"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 102,
+    "original": "ur usy league pervaiz elahi sth pmln punjab govt bnany mary ha phly noon leak noon lkn in bhai bana dia sher akela lar nae skta sabat hua sher sher zda khtrnaak ha",
+    "system_output": "ur usy league pervaiz elahi sth pmln punjab govt banany mary hai phly noon leak noon lekin in bhai bana dia sher akela lar nae skta sabat hua sher sher zyada khtrnaak hai",
+    "changed": true,
+    "variants_detected": [
+      "bnany",
+      "ha",
+      "lkn",
+      "zda",
+      "ha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 103,
+    "original": "nabila ap jaisa na to hai aur na hoga",
+    "system_output": "nabila's aap jaisa na toh hai aur na hoga",
+    "changed": true,
+    "variants_detected": [
+      "nabila",
+      "ap",
+      "to"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 104,
+    "original": "jis ko ab test captain bna diya hy woh to is list main hy",
+    "system_output": "jis ko ab test captain bna diya hai woh toh is list main hai",
+    "changed": true,
+    "variants_detected": [
+      "hy",
+      "to",
+      "hy"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 105,
+    "original": "kb aa rha hai main ne nai lena",
+    "system_output": "kb aa raha hai main ne nahi lena",
+    "changed": true,
+    "variants_detected": [
+      "rha",
+      "nai"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 106,
+    "original": "agar din pehly bataty to qayamat aa",
+    "system_output": "agar din pehle baty toh qayamat aa",
+    "changed": true,
+    "variants_detected": [
+      "pehly",
+      "bataty",
+      "to"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 107,
+    "original": "zindagi ka nai poocha lahore ka bata",
+    "system_output": "zindagi ka nahi pocha lahore ka bata",
+    "changed": true,
+    "variants_detected": [
+      "nai",
+      "poocha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 108,
+    "original": "mene socha chalo baat tou kr he sktay hain",
+    "system_output": "mene socha chalo baat tou kar he saktay hain",
+    "changed": true,
+    "variants_detected": [
+      "kr",
+      "sktay"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 109,
+    "original": "yes da pata haiga na tapa jata haiga na jata haiga bihari in punjab",
+    "system_output": "yes da pata aiga na tapa jata aiga na jata aiga bihari in punjab",
+    "changed": true,
+    "variants_detected": [
+      "haiga",
+      "haiga",
+      "haiga"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 110,
+    "original": "ohoo dar ni laga ap ko",
+    "system_output": "ohoo dar nahi laga aap ko",
+    "changed": true,
+    "variants_detected": [
+      "ni",
+      "ap"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 111,
+    "original": "tera naya pakistan bhai tumry aba jan poora din imran khan ko galian dty hain tum just to use his name yahan naya pakistan ki tweets kr rhy ho ajeeb hypocrisy hai",
+    "system_output": "tera naya pakistan bhai tumre aba jan poora din imran khan ko galian dty hain tum just toh use his name yahan naya pakistan ki tweets kar rahe ho ajeeb hypocrisy hai",
+    "changed": true,
+    "variants_detected": [
+      "tumry",
+      "to",
+      "kr",
+      "rhy"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 112,
+    "original": "your order was all broken colour and spread all over the package have spend rupees gained nothing plz try to bubble wrap these things and pack and deliver them safely it's request",
+    "system_output": "your order was all broken colour and spread all over the package have spend rupees listened nothing plz try to bubble wrap these things and pack and deliver them safely it's request",
+    "changed": true,
+    "variants_detected": [
+      "gained",
+      "to"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 113,
+    "original": "to implement kr na",
+    "system_output": "toh implement kar na",
+    "changed": true,
+    "variants_detected": [
+      "to",
+      "kr"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 114,
+    "original": "koi app instal ni hoti is ma touch bi mzy ka ni ha",
+    "system_output": "koi app insta nahi hoti is ma touch bhi mzy ka nahi hai",
+    "changed": true,
+    "variants_detected": [
+      "instal",
+      "ni",
+      "bi",
+      "ni",
+      "ha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 115,
+    "original": "jin account low ha in lia nai ha ab mery pass ha me risk ni le skta to me is pr risk ln ga trade me ka sl",
+    "system_output": "jin account low hai in lia nahi hai ab mery pass hai mein risk nahi le skta toh mein is pr risk ln ga trade mein ka sl",
+    "changed": true,
+    "variants_detected": [
+      "ha",
+      "nai",
+      "ha",
+      "ha",
+      "me",
+      "ni",
+      "to",
+      "me",
+      "me"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 116,
+    "original": "trading ik asy cheez hy jiss me hum kisi digital currency ki buy selling karty hy",
+    "system_output": "trading ik asy cheez hai jiss mein hum kisi digital currency ki buy selling karty hai",
+    "changed": true,
+    "variants_detected": [
+      "hy",
+      "me",
+      "hy"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 117,
+    "original": "ye apky papa ne launch kia hy",
+    "system_output": "yeh apky papa ne launch kya hai",
+    "changed": true,
+    "variants_detected": [
+      "ye",
+      "kia",
+      "hy"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 118,
+    "original": "nojwan nayi nasal apny mulk sy muhabbat main bht door ho rhi hai in ki waja say",
+    "system_output": "nojwan nayi nasal apne mulk sy mohabbat main bohat door ho rahi hai in ki waja se",
+    "changed": true,
+    "variants_detected": [
+      "apny",
+      "muhabbat",
+      "bht",
+      "rhi",
+      "say"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 119,
+    "original": "salam janab is waqt halat humray mulk hain us main sub say ziyada hath in molive akram ka hai kay wohii sub say baray chore ur america ki baat manay walay hain sub baray chor log hain ya molive sahib ya humray country ko tabahi kay dor par lay kay ja ray hain ur dosra hath humray ka hai joo baki rahi sahi kasar nikal rahay hain sub kay sub chor hain",
+    "system_output": "salam janab is waqt halat hamray mulk hain us main sab se zyada hath in molive akram ka hai kay wohi sab se baray chore ur america ki baat janay walay hain sab baray chor log hain ya molive sahib ya hamray country ko tabahi kay dor par lay kay ja ray hain ur dosra hath hamray ka hai joo baki rahi sahi kasar nikal rahay hain sab kay sab chor hain",
+    "changed": true,
+    "variants_detected": [
+      "humray",
+      "sub",
+      "say",
+      "ziyada",
+      "wohii",
+      "sub",
+      "say",
+      "manay",
+      "sub",
+      "humray",
+      "humray",
+      "sub",
+      "sub"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 120,
+    "original": "khelta rahe ga to aik din form aa hi jai gii ye koi quantum physics nai come good come good nai mukk raha aap ka every player wants to perform but it's been enough now aisi opportunities ab doosre players bhi deserve krte hain domestic bhejo thori ego kam ho gii aur time off",
+    "system_output": "khelte rahe ga toh aik din form aa hi jai gii yeh koi quantum physics nahi come good come good nahi muk raha aap ka every player wants toh perform but it's been enough now aisi opportunities ab doosri players bhi deserve krte hain domestic bhej thori ego kam ho gii aur time off",
+    "changed": true,
+    "variants_detected": [
+      "khelta",
+      "to",
+      "ye",
+      "nai",
+      "nai",
+      "mukk",
+      "to",
+      "doosre",
+      "bhejo"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 121,
+    "original": "akhir pta ye song waja bna just for fun",
+    "system_output": "akhir pata yeh song waja bna just for fun",
+    "changed": true,
+    "variants_detected": [
+      "pta",
+      "ye"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 122,
+    "original": "candle mobi sy bhair nikl rhi",
+    "system_output": "candle qmobile sy bhair nikl rahi",
+    "changed": true,
+    "variants_detected": [
+      "mobi",
+      "rhi"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 123,
+    "original": "aap jinab kay baad jab achanak tu tu ker kay baten shroo ker detay ha to bohot bura cheap amp annoying lagta hai hsy kuchh adaab tameez aur bhi seekh lo",
+    "system_output": "aap jinab kay baad jab achanak tu tu ker kay baten shroo ker detay hai toh bohot bura cheap amp annoying lagta hai hsy kuchh adaab tameez aur bhi seekh lo",
+    "changed": true,
+    "variants_detected": [
+      "ha",
+      "to"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 124,
+    "original": "phala country mein jail sa aa ker banda press sa talk kerta or phir jail chala",
+    "system_output": "phal country mein jail sa aa ker banda press sa talk kerta aur phir jail chala",
+    "changed": true,
+    "variants_detected": [
+      "phala",
+      "or"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 125,
+    "original": "ye esi hain jin se athletes ke etemad mein izafa hota hai aur wo mazid behtar karkardagi ki janib barhte hain",
+    "system_output": "yeh esi hain jin se athletes ke aitemad mein izafa hota hai aur woh mazid behtar karkardagi ki janib barhe hain",
+    "changed": true,
+    "variants_detected": [
+      "ye",
+      "etemad",
+      "wo",
+      "barhte"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 126,
+    "original": "remand ko reha nahi karna chaiye tha sub ke liye baraber huna chaiye docter afia ko years ke saza suna de or is remand deves ko reha kar deya remand deves ne tu do do qatal kiye the ye bohut ghalat huwa hy hamari mulk ka president hi hy thank",
+    "system_output": "remand ko reha nahi karna chahiye tha sab ke liye barabar huna chahiye docter afia ko years ke saza suna de aur is remand deves ko reha kar deya remand deves ne tu do do qatal kiye the yeh bohut ghalat huwa hai hamari mulk ka president hi hai thank",
+    "changed": true,
+    "variants_detected": [
+      "chaiye",
+      "sub",
+      "baraber",
+      "chaiye",
+      "or",
+      "ye",
+      "hy",
+      "hy"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 127,
+    "original": "munda zada sohna nae honaa begum kr kr marr",
+    "system_output": "munda zada sohna nae honaa begum kar kar marr",
+    "changed": true,
+    "variants_detected": [
+      "kr",
+      "kr"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 128,
+    "original": "aye masrufiyat sy wabsta mery apno aik baat to btaoo mery janaze me to aao gy na",
+    "system_output": "aye masrofiyat sy wabsta mery apno aik baat toh btao mery janaza mein toh aao gy na",
+    "changed": true,
+    "variants_detected": [
+      "masrufiyat",
+      "to",
+      "btaoo",
+      "janaze",
+      "me",
+      "to"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 129,
+    "original": "naam to faysal qureshi ka buht bara ha and he is really brilliant actor but wo to bina sochy har drama kar deta latest misaal waada ha",
+    "system_output": "naam toh faisal qureshi ka buht bara hai and he is really brilliant actor but woh toh bina sochty har drama kar deta latest misaal waada hai",
+    "changed": true,
+    "variants_detected": [
+      "to",
+      "faysal",
+      "ha",
+      "wo",
+      "to",
+      "sochy",
+      "ha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 130,
+    "original": "aik haftay rupay kadar gira dosto jaiz wheat export itni saray khali diye ub shortage kon iss corruption awam py dalna awam har jagha kamini hoti hukmuran kam kon control karay",
+    "system_output": "aik haftay rupay kadar gira dosto jaiz wheat export itni saray khali diye ub shortage kon iss corruption awam par dalna awam har jagha kamini hoti hukmran kam kon control karay",
+    "changed": true,
+    "variants_detected": [
+      "py",
+      "hukmuran"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 131,
+    "original": "tiyari to achi hain past papers to kar liye timer laga kar ache se log rumours itne key bas insaan dar jaata",
+    "system_output": "tiyari toh achi hain past papers toh kar liye timer laga kar ache se log fours itne key bas insaan dar jaata",
+    "changed": true,
+    "variants_detected": [
+      "to",
+      "to",
+      "rumours"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 132,
+    "original": "mazda bhot zada classy gari sabit hui ha ma",
+    "system_output": "mazda bohat zada classy gari sabit hui hai ma",
+    "changed": true,
+    "variants_detected": [
+      "bhot",
+      "ha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 133,
+    "original": "blkl learning phase me bnda zyada time deta hy jb bnda seekh jata thora bohot time kam hota jata",
+    "system_output": "bilkul learning phase mein bnda zyada time deta hai jb bnda seekh jata thora bohot time kam hota jata",
+    "changed": true,
+    "variants_detected": [
+      "blkl",
+      "me",
+      "hy"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 134,
+    "original": "pmln walon aqal lo nro chakar apni bht buri tareeka bajwa rhe",
+    "system_output": "pmln walon aqal lo nro chakar apni bohat buri tariqa bajwa rahe",
+    "changed": true,
+    "variants_detected": [
+      "bht",
+      "tareeka",
+      "rhe"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 135,
+    "original": "delivery time good packing good but bhot fazol hy light bhai glue sy bari pori or remote bi ni chal rha or srif color han bhot fazol hy or length bi bhot kam hy",
+    "system_output": "delivery time good packing good but bohat fazol hai light bhai glue sy bari pori aur remote bhi nahi chal raha aur sirf color han bohat fazol hai aur length bhi bohat kam hai",
+    "changed": true,
+    "variants_detected": [
+      "bhot",
+      "hy",
+      "or",
+      "bi",
+      "ni",
+      "rha",
+      "or",
+      "srif",
+      "bhot",
+      "hy",
+      "or",
+      "bi",
+      "bhot",
+      "hy"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 136,
+    "original": "top hh bs isse acha song ni ho sktaa that all love this song",
+    "system_output": "top hh bs isse acha song nahi ho skta that all love this song",
+    "changed": true,
+    "variants_detected": [
+      "ni",
+      "sktaa"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 137,
+    "original": "acha imagine kia ha",
+    "system_output": "acha imagine kya hai",
+    "changed": true,
+    "variants_detected": [
+      "kia",
+      "ha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 138,
+    "original": "na bruh wo aesi ni thi",
+    "system_output": "na bruh woh aesi nahi thi",
+    "changed": true,
+    "variants_detected": [
+      "wo",
+      "ni"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 139,
+    "original": "ho sakta hai ke aap toilet saaf karne wali par dhakkan ka istemaal karna band kar dein taakay un ko dobarah istemaal kya aur dobarah bharna parhy",
+    "system_output": "ho sakta hai ke aap toilet saaf karne wali par dhakkan ka istemal karna band kar dein taakay un ko dobarah istemal kya aur dobarah bharna parho",
+    "changed": true,
+    "variants_detected": [
+      "istemaal",
+      "istemaal",
+      "parhy"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 140,
+    "original": "lrki saray bhai us khawand pe khoob hain but hotay kuch nai hain pr hoty nai bakwas story",
+    "system_output": "lrki saray bhai us khawab pe khoob hain but hotay kuch nahi hain pr hote nahi bakwas story",
+    "changed": true,
+    "variants_detected": [
+      "khawand",
+      "nai",
+      "hoty",
+      "nai"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 141,
+    "original": "her aik ko spicy pakistani food pasand nahi ha jasa ka ma is ka bohat sy nuqsanat han insan ki sehat kharab ker dytay ha",
+    "system_output": "her aik ko spicy pakistani food pasand nahi hai jasa ka ma is ka bohat sy nuqsan han insan ki sehat kharab ker daitay hai",
+    "changed": true,
+    "variants_detected": [
+      "ha",
+      "nuqsanat",
+      "dytay",
+      "ha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 142,
+    "original": "aur phr ap jheet sktey hain",
+    "system_output": "aur phir aap jheet saktay hain",
+    "changed": true,
+    "variants_detected": [
+      "phr",
+      "ap",
+      "sktey"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 143,
+    "original": "thk tha bs abi ye strong nhi mn ny chatgpt sy help li hy is mn is liya abi sath sath practice krti rhu gi",
+    "system_output": "theek tha bs abhi yeh strong nahi mein ny chatgpt sy help li hai is mein is liya abhi saath saath practice krti rhu gi",
+    "changed": true,
+    "variants_detected": [
+      "thk",
+      "abi",
+      "ye",
+      "nhi",
+      "mn",
+      "hy",
+      "mn",
+      "abi",
+      "sath",
+      "sath"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 144,
+    "original": "thk he keh rae ye maryam begairat gandy bap ke gandi beti lanat kutti py khud ye kitni bri zani sari dunya pta shadi bad bacha peda lia pta ni aisi kon science maryam pas",
+    "system_output": "theek he keh rae yeh maryam beghairat gandy bap ke gandi beti lanat kutti par khud yeh kitni bri zani sari dunya pata shadi bad bacha peda lia pata nahi aisi kon science maryam pass",
+    "changed": true,
+    "variants_detected": [
+      "thk",
+      "ye",
+      "begairat",
+      "py",
+      "ye",
+      "pta",
+      "pta",
+      "ni",
+      "pas"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 145,
+    "original": "aapko or info bhi dedun jab mere bhai mai police mai recruit honay lagay to unko mere police nay saaf bataya constable bhrti leye lac or asi bhrti leye lac chaheye or dusra raasta hai constable ka quota pas hai or asi ka quota mqm ka pas hai in parties mai jaan pehchan nikalo or apna kaam karao",
+    "system_output": "aapko aur info bhi dedun jab mere bhai main police main recruit honay lagay toh unko mere police nay saaf bataya constable bhrti leye lac aur asi bhrti leye lac chahiye aur dusra raasta hai constable ka quota pass hai aur asi ka quota mqm ka pass hai in parties main jaan pehchan nikala aur apna kaam karao",
+    "changed": true,
+    "variants_detected": [
+      "or",
+      "mai",
+      "mai",
+      "to",
+      "or",
+      "chaheye",
+      "or",
+      "pas",
+      "or",
+      "pas",
+      "mai",
+      "nikalo",
+      "or"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 146,
+    "original": "kase order krna hai smjh nahi rahi",
+    "system_output": "kase order karna hai samajh nahi rahi",
+    "changed": true,
+    "variants_detected": [
+      "krna",
+      "smjh"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 147,
+    "original": "allah aapko tarakki de inshallah aap ke se jyada subscriber ho allah aapko tarakki de inshallah am your biggest friend bro nice video",
+    "system_output": "allah aapko taraqi de inshallah aap ke se zyada subscriber ho allah aapko taraqi de inshallah am your biggest friend bro nice video",
+    "changed": true,
+    "variants_detected": [
+      "tarakki",
+      "jyada",
+      "tarakki"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 148,
+    "original": "yhi sawl jiska jawab awam chye or pmln awam dy iska shi jawab",
+    "system_output": "yhi sawl jiska jawab awam chahiye aur pmln awam dy iska shi jawab",
+    "changed": true,
+    "variants_detected": [
+      "chye",
+      "or"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 149,
+    "original": "ham nahe hen pml aaj jis hal men us ki sare zimadari maryam pr leader bane shoq men tabha kr dya sb kuch",
+    "system_output": "ham nahe hen pml aaj jis hal men us ki sare zimadar maryam pr leader bane shoq men tabha kar dya sab kuch",
+    "changed": true,
+    "variants_detected": [
+      "zimadari",
+      "kr",
+      "sb"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 150,
+    "original": "chotia kameeni aurat waqat bhol gae pmln waly ek doosry maan bhen ek karty an sirf nani pr masala gia kia nani nhi he",
+    "system_output": "chotiya kameeni aurat waqat bhol gae pmln waly ek doosry maan bhen ek karty an sirf nani pr masala gia kya nani nahi he",
+    "changed": true,
+    "variants_detected": [
+      "chotia",
+      "kia",
+      "nhi"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 151,
+    "original": "oey kehna gandi baat nahi kab boli ney gandi baat jese pmln walay unko unhi zuban may jawab dena chahyey",
+    "system_output": "hoey kehna gandi baat nahi kab boli ney gandi baat jese pmln walay unko unhi zuban may jawab dena chahiye",
+    "changed": true,
+    "variants_detected": [
+      "oey",
+      "chahyey"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 152,
+    "original": "ap bata bata kay pmln kitny pasy chor es govt interest kay qarza pmln ky period qarza kasy itna zayda",
+    "system_output": "aap bata bata kay pmln itny pasy chor es govt interest kay qarza pmln ky period qarza kasy itna zayda",
+    "changed": true,
+    "variants_detected": [
+      "ap",
+      "kitny"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 153,
+    "original": "yadasht tum logo sadky safdar lagata rana uzma nawaz chor dako kehti rhi aj pmln lanat qabool kro",
+    "system_output": "brdasht tum logo sadqy safdar lagata rana uzma nawaz chor daku kehti rahi aaj pmln lanat qabool karo",
+    "changed": true,
+    "variants_detected": [
+      "yadasht",
+      "sadky",
+      "dako",
+      "rhi",
+      "aj",
+      "kro"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 154,
+    "original": "bht mushkil kadam hoga lekin agar aap apne ko kam karte hain apni qoum liye to hamara bhi faidah hoga",
+    "system_output": "bohat mushkil kadam hoga lekin agar aap apne ko kam karte hain apni qoum liye toh hamara bhi faidah hoga",
+    "changed": true,
+    "variants_detected": [
+      "bht",
+      "to"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 155,
+    "original": "hahaha xd bht halaat tight xd",
+    "system_output": "haha xd bohat halaat tight xd",
+    "changed": true,
+    "variants_detected": [
+      "hahaha",
+      "bht"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 156,
+    "original": "thanks yr bhot khush hun aj yr",
+    "system_output": "thanks yr bohat khush hun aaj yr",
+    "changed": true,
+    "variants_detected": [
+      "bhot",
+      "aj"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 157,
+    "original": "meri jaan ye to site me eror de rha he",
+    "system_output": "meri jaan yeh toh website mein eror de raha he",
+    "changed": true,
+    "variants_detected": [
+      "ye",
+      "to",
+      "site",
+      "me",
+      "rha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 158,
+    "original": "mene learning phase me use kia tha ek bar mentor ny meri achi khassi ki thi indicators bhi nhi",
+    "system_output": "mene learning phase mein use kya tha ek bar mentor ny meri achi khassi ki thi investors bhi nahi",
+    "changed": true,
+    "variants_detected": [
+      "me",
+      "kia",
+      "indicators",
+      "nhi"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 159,
+    "original": "nai nai code sy hi likhu gu",
+    "system_output": "nahi nahi code sy hi likhun gu",
+    "changed": true,
+    "variants_detected": [
+      "nai",
+      "nai",
+      "likhu"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 160,
+    "original": "lant pmln lanat be nawaz suport karta hia bi lanat",
+    "system_output": "lanti pmln lanat be nawaz suport karta hia bhi lanat",
+    "changed": true,
+    "variants_detected": [
+      "lant",
+      "bi"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 161,
+    "original": "sir ji wait kr rhe the most welcome",
+    "system_output": "sir ji wait kar rahe the most welcome",
+    "changed": true,
+    "variants_detected": [
+      "kr",
+      "rhe"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 162,
+    "original": "qadm pmln tumhary sath",
+    "system_output": "qadmi pmln tumhari saath",
+    "changed": true,
+    "variants_detected": [
+      "qadm",
+      "tumhary",
+      "sath"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 163,
+    "original": "bhai sahab log dekh chuke pr koi reply nhi kr rha kr do bhai reply",
+    "system_output": "bhai sahab log dekh chuke pr koi reply nahi kar raha kar do bhai reply",
+    "changed": true,
+    "variants_detected": [
+      "nhi",
+      "kr",
+      "rha",
+      "kr"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 164,
+    "original": "yeh company ka mulk hai bhai yaha paisa chalta ha wo khud paisa ley kr shareef family ko protect krtay hein",
+    "system_output": "yeh company ka mulk hai bhai yaha paisa chalta hai woh khud paisa ley kar sharif family ko protect krtay hein",
+    "changed": true,
+    "variants_detected": [
+      "ha",
+      "wo",
+      "kr",
+      "shareef"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 165,
+    "original": "bhai culture ko hate tw mene kia nai mene uss banday ko kaha canada beth wo kehra culture this culture that usko ground reality ka tw pta nai how toxic our culture is wahan beth baatein krwalo just said itna show hai tw idr aajao experience the culture",
+    "system_output": "bhai culture ko hate tw mene kya nahi mene uss banday ko kaha canada beth woh kehra culture this culture that usko ground reality ka tw pata nahi how toxic our culture is wahan beth batein krwao just said itna show hai tw idr ajao experience the culture",
+    "changed": true,
+    "variants_detected": [
+      "kia",
+      "nai",
+      "wo",
+      "pta",
+      "nai",
+      "baatein",
+      "krwalo",
+      "aajao"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 166,
+    "original": "raheel shareef ko mamnoon hussain jesa wazir azam chahiye tha aur nawaz sharif ne haan kardi ab khud bataye kis mulk ka army chief uk russia saudia afghanistan ke duray karta ha jab tak nawaz shareef leta rehay ga army chief usko kuch nahi kahega imran khan ke saath ye bara problem ha ke wo foreign policy army ko nahi dega isliye army kabhi nahi chahegi ke pti power me aye dusra ye ke imran khan buht clean leader ha aur army kabhi nahi chahegi ke koi clean leader power me aye warna army ka bhi ehtisaab hojayega",
+    "system_output": "raheel sharif ko mamnoon hussain jesa wazir azam chahiye tha aur nawaz sharif ne haan kardi ab khud bataye kis mulk ka army's chief uk russia saudia afghanistan ke duray karta hai jab tak nawaz sharif leta rehay ga army's chief usko kuch nahi kahega imran khan ke saath yeh bara problem hai ke woh foreign policy army's ko nahi dega isliye army's kabhi nahi chahegi ke pti power mein aye dusra yeh ke imran khan buht clean leader hai aur army's kabhi nahi chahegi ke koi clean leader power mein aye warna army's ka bhi ehtisab hojayega",
+    "changed": true,
+    "variants_detected": [
+      "shareef",
+      "ha",
+      "shareef",
+      "ye",
+      "ha",
+      "wo",
+      "me",
+      "ye",
+      "ha",
+      "me",
+      "ehtisaab"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 167,
+    "original": "bohut bohut sukriya iss se pehly main ne adobe image ready use hi nahi kiya tha aap ka bohut bohut sukriya",
+    "system_output": "bohut bohut shukriya iss se pehle main ne adobe image ready use hi nahi kiya tha aap ka bohut bohut shukriya",
+    "changed": true,
+    "variants_detected": [
+      "sukriya",
+      "pehly",
+      "sukriya"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 168,
+    "original": "yar bhai phir wahi sax sux ki baatien",
+    "system_output": "yaar bhai phir wahi sax sux ki batien",
+    "changed": true,
+    "variants_detected": [
+      "yar",
+      "baatien"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 169,
+    "original": "hv received the device however it doesn't connect to bluetooth whenever select to connect first it for password to pair and after password which is it just goes to previously connected devices tried again and again and every time same has happened also tried other mobiles too",
+    "system_output": "hv received the device however it doesn't connect to bluetooth whenever select to connect first it for password to pair and after password which is it just goes to previously connected devices tried again and again and every time same has happens also tried other qmobile too",
+    "changed": true,
+    "variants_detected": [
+      "to",
+      "to",
+      "to",
+      "to",
+      "happened",
+      "mobiles"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 170,
+    "original": "pti walu ju marzi lau insha allah pmln ha",
+    "system_output": "pti walu ju marzi lau inshallah allah pmln hai",
+    "changed": true,
+    "variants_detected": [
+      "insha",
+      "ha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 171,
+    "original": "ye set buhat hi acha he",
+    "system_output": "yeh set bohat hi acha he",
+    "changed": true,
+    "variants_detected": [
+      "ye",
+      "buhat"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 172,
+    "original": "mera ye matlab ni tha plus mein to rimsha khilaf baat ni kar raha tha bcz know how this business news works so was just trying to inform them that don blame her bcz everyone does this who is in news media",
+    "system_output": "mera yeh matlab nahi tha plus mein toh rimsha khilaf baat nahi kar raha tha bcz know how this business arynews works so was just trying toh inform them that don blame her bcz everyone does this who is in arynews media",
+    "changed": true,
+    "variants_detected": [
+      "ye",
+      "ni",
+      "to",
+      "ni",
+      "to"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 173,
+    "original": "tm rhny hi do",
+    "system_output": "tum hny hi do",
+    "changed": true,
+    "variants_detected": [
+      "tm",
+      "rhny"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 174,
+    "original": "thnkx alt same product same quantity thnk so mch",
+    "system_output": "thnks alt same product same quantity thnks so mch",
+    "changed": true,
+    "variants_detected": [
+      "thnkx",
+      "thnk"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 175,
+    "original": "ataullah niazi ko sunne walon ko zehni taur par aur mauseeqi ka zauq rakhne wala samjha jata tha",
+    "system_output": "attaullah niazi ko sunne walon ko zehni taur par aur mauseeqi ka zauq rakhna wala samjha jata tha",
+    "changed": true,
+    "variants_detected": [
+      "ataullah",
+      "rakhne"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 176,
+    "original": "zaror bhai hum phoolon haar ly khary hon gy",
+    "system_output": "zaroor bhai hum phool haar ly khary hon gy",
+    "changed": true,
+    "variants_detected": [
+      "zaror",
+      "phoolon"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 177,
+    "original": "bad mein safar dar safar khel kahani novel aik mohabbat so drama drama aut tota kahani drame in ki numaya tasaneef ban kar samne aae",
+    "system_output": "bad mein safar dar safar khel kahani novel aik mohabbat so drama drama aut tota kahani drame in ki numayan tasneef ban kar samne aae",
+    "changed": true,
+    "variants_detected": [
+      "numaya",
+      "tasaneef"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 178,
+    "original": "zardari expose jy pmln pas punjab ma bht power ha punjab long march kerna not big isue",
+    "system_output": "zardari expose jy pmln pass punjab ma bohat power hai punjab long march kerna not big isue",
+    "changed": true,
+    "variants_detected": [
+      "pas",
+      "bht",
+      "ha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 179,
+    "original": "pta ni kahan ha extremism bhai elite class toh apna religion hi bhool bethi ha",
+    "system_output": "pata nahi kahan hai extremism bhai elite class toh apna religion hi bhool bethi hai",
+    "changed": true,
+    "variants_detected": [
+      "pta",
+      "ni",
+      "ha",
+      "ha"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 180,
+    "original": "ore senate election baad gee pmln ore shade pdm chakar may apnay candidate yusuf raza gillani senator chakar may hein halankay pmln kee seat ziada",
+    "system_output": "ore senate election baad gee pmln ore shade pdm chakar may apnay candidate yousuf raza gilani senator chakar may hein halanke pmln kee seat zyada",
+    "changed": true,
+    "variants_detected": [
+      "yusuf",
+      "gillani",
+      "halankay",
+      "ziada"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 181,
+    "original": "agr bechy hth chuth jty to kuch ho skhta",
+    "system_output": "agr bechy hth chuti jty toh kuch ho khta",
+    "changed": true,
+    "variants_detected": [
+      "chuth",
+      "to",
+      "skhta"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 182,
+    "original": "ahsan ashraf najaiz beti bhi tumhare leader hi ki thi hope remember or kindly mere comment pe aake reply mat kro apne kam se kam rakho",
+    "system_output": "ahsan ashraf najaiz beti bhi tumhari leader hi ki thi hope remember aur kindly mere comment pe aake reply mat karo apne kam se kam rakho",
+    "changed": true,
+    "variants_detected": [
+      "tumhare",
+      "or",
+      "kro"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 183,
+    "original": "hm gherat mand log ha respect krty tusi log smjh skty chez teesri anti nu kehan",
+    "system_output": "hum gherat mand log hai respect krty tusi log samajh skty chez teesri anti nu kehan",
+    "changed": true,
+    "variants_detected": [
+      "hm",
+      "ha",
+      "smjh"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 184,
+    "original": "really want to know ye reporter abhi kaha hai zinda bhi",
+    "system_output": "really want toh know yeh reporter abhi kaha hai zinda bhi",
+    "changed": true,
+    "variants_detected": [
+      "to",
+      "ye"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 185,
+    "original": "bhot shukria apka is gari ko lainay ka",
+    "system_output": "bohat shukria apka is gari ko dainay ka",
+    "changed": true,
+    "variants_detected": [
+      "bhot",
+      "lainay"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 186,
+    "original": "par kam kar rha hu islye bare me btao",
+    "system_output": "par kam kar raha hu islye bare mein batao",
+    "changed": true,
+    "variants_detected": [
+      "rha",
+      "me",
+      "btao"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 187,
+    "original": "pmln ku support waly unfollow lanat un logu pr ju abh bh nawaz ku leader manty",
+    "system_output": "pmln ku support waly unfollow lanat un logun pr ju abh bh nawaz ku leader janty",
+    "changed": true,
+    "variants_detected": [
+      "logu",
+      "manty"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 188,
+    "original": "is dramy me pta nhi kya bt he jo apni trf he khalil sb ko salam he jinho ne aesa drama likha jis ne mohabbat ho ye drama dekh le",
+    "system_output": "is dramy mein pata nahi kya baat he jo apni trf he khalil sab ko salam he jinho ne aesa drama likha jis ne mohabbat ho yeh drama dekh le",
+    "changed": true,
+    "variants_detected": [
+      "me",
+      "pta",
+      "nhi",
+      "bt",
+      "sb",
+      "ye"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 189,
+    "original": "ab jitna use krne ha wo withdraw kr le baki jo invest kr de",
+    "system_output": "ab jitna use karne hai woh withdraw kar le baki jo invest kar de",
+    "changed": true,
+    "variants_detected": [
+      "krne",
+      "ha",
+      "wo",
+      "kr",
+      "kr"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 190,
+    "original": "dehshat gardi krwany waly he tm log hw tb tb krwaty hw tmhara kaam nh ban hya jese aps py quetta mai peshawar mai mai krwaya",
+    "system_output": "dehshat gardi krany waly he tum log hw tb tb krwaty hw tmhara kaam nh ban hya jese aps par quetta main peshawar main main krwaya",
+    "changed": true,
+    "variants_detected": [
+      "krwany",
+      "tm",
+      "py",
+      "mai",
+      "mai",
+      "mai"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 191,
+    "original": "why didnt get the volt adapter with it please either send it or return this item when opened the box there was everything except the volt adapter please either return it or send the volt adapter rgb controller with it",
+    "system_output": "why didnt get the volt adapter with it please either send it or return this item when opened the box there was everything except the volt adapter please either return it or send the volt adapter rgb controller with it",
+    "changed": false,
+    "variants_detected": [
+      "or",
+      "or"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 192,
+    "original": "ne ab yahi karna hai ye be ko phansi dilanay aur qaid karwany waly zalim log hain aur chief justice sahab ko in ki badmashi nazar nahi aay gi kyun ye tou farishtay hain in per kaisay hath dal saktay hain wo apna kam kar rahay hain yani kursi bachao league bachao musharraf se badla lo all awam jay bhar mai kaisa qanoon kaisi adlia kaisa insaf pahlay police gardi thi ab adlia gardi bhi hai",
+    "system_output": "ne ab yahi karna hai yeh be ko phansi janay aur qaid karwane waly zalim log hain aur chief justice sahab ko in ki badmashi nazar nahi aay gi kyun yeh tou farishtay hain in per kaisay hath dal saktay hain woh apna kam kar rahay hain yani kursi bachay league bachay musharraf se badla lo all awam jay bhar main kaisa qanoon kaisi adlia kaisa insaf pahlay police gardi thi ab adlia gardi bhi hai",
+    "changed": true,
+    "variants_detected": [
+      "ye",
+      "dilanay",
+      "karwany",
+      "ye",
+      "wo",
+      "bachao",
+      "bachao",
+      "mai"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 193,
+    "original": "maryum bibi bakwas karo hakumat janti aap bakwas karo aapki bakwas pmln bakwas ni chaiye thank keep it yourself pti no what they be do keep out of it",
+    "system_output": "maryam bibi bakwas karo hakumat janti aap bakwas karo aapki bakwas pmln bakwas ni chahiye thank keep it yourself pti no what they be do keep out of it",
+    "changed": true,
+    "variants_detected": [
+      "maryum",
+      "ni",
+      "chaiye"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 194,
+    "original": "and even ma ny note kia tm thk ni smjhti thi mjhy",
+    "system_output": "and even ma ny note kya tum theek nahi smjhti thi mjhy",
+    "changed": true,
+    "variants_detected": [
+      "kia",
+      "tm",
+      "thk",
+      "ni"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 195,
+    "original": "question mazi mein aksar bare events se qabal mahir nafsiyat ke lectures ka ahtemam karta hai kia world se qabal bhi esa karna chaheye",
+    "system_output": "question mazi mein aksar bare events se qabal mahir nafsiyati ke lectures ka ahtemam karta hai kya world se qabal bhi esa karna chahiye",
+    "changed": true,
+    "variants_detected": [
+      "nafsiyat",
+      "kia",
+      "chaheye"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 196,
+    "original": "masha allah allah pak ap sub salamt rekhy pmln",
+    "system_output": "masha allah allah pak aap sab salamat rekhy pmln",
+    "changed": true,
+    "variants_detected": [
+      "ap",
+      "sub",
+      "salamt"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 197,
+    "original": "khuda ka khauf kro neha aisa kuch nai",
+    "system_output": "khuda ka khauf karo neha aisa kuch nahi",
+    "changed": true,
+    "variants_detected": [
+      "kro",
+      "nai"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 198,
+    "original": "aony abu bula nhi leti choor dako bapp",
+    "system_output": "aony abu bula nahi leti choor daku bap",
+    "changed": true,
+    "variants_detected": [
+      "nhi",
+      "dako",
+      "bapp"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 199,
+    "original": "peak isko upvote kro takey bhi parhen",
+    "system_output": "peak isko upvote karo takey bhi parho",
+    "changed": true,
+    "variants_detected": [
+      "kro",
+      "parhen"
+    ],
+    "judgment": "",
+    "corrected": ""
+  },
+  {
+    "id": 200,
+    "original": "mein yeh kahoon ga kay america he ki yeh sab sazish hay is liya muslim countries ko chahiya kay wo mill kar europe kay khilaf kaam karay kiyon kay yeh muslim ko khatam karna chahtay hain agar hum sochay to ham in logon ko nasait nabood kar saktay hain europe nau hum logon ka jeena haram kar diya hay main apeel karta hoon muslim countries ko kay woh ek plate form par ayen",
+    "system_output": "mein yeh kahoon ga kay america he ki yeh sab sazish hay is liya muslim countries ko chahiye kay woh mill kar europe kay khilaf kaam karay kiyon kay yeh muslim ko khatam karna chahtay hain agar hum sochay toh ham in logon ko nasait nabood kar saktay hain europe nau hum logon ka jeena haram kar diya hay main apeel karta hoon muslim countries ko kay woh ek plate form par ayen",
+    "changed": true,
+    "variants_detected": [
+      "chahiya",
+      "wo",
+      "to"
+    ],
+    "judgment": "",
+    "corrected": ""
+  }
+]
