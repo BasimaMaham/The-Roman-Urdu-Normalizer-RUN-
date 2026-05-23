@@ -1,0 +1,15 @@
+# Large data files
+consolidated_roman.csv
+cleaned_sentences.txt
+fasttext_roman_urdu.model
+fasttext_roman_urdu.model.wv.vectors_ngr*
+word_embeddings_v2.npy
+word_embeddings.npy
+
+# Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Old intermediate files
+Upload/
